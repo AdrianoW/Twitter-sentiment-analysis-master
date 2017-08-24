@@ -1,0 +1,16 @@
+lexicons:
+    wna: False
+    tslex: False
+    sstren: False
+    sent140: False
+    nrchash: False
+    msol: False
+    mpqa: False
+    dal: False
+    bing: False
+    anew: True
+output: '../3-Output/anew.csv'
+file_type: B
+train_file_name: "../1-Input/twitter-train-cleansed-B.csv"
+test_file_name: "../1-Input/twitter-test-GOLD-B.tsv"
+model_out_dir: "../6-Models"

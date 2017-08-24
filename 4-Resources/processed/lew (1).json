@@ -1,0 +1,8682 @@
+{
+  "eager#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "hail#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "remain#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "guest#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "shoe#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "ultimate#ADJECTIVE": {
+    "MeanEval": 6.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "tenebrific#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "horse#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.375, 
+    "MeanCon": 5.0
+  }, 
+  "brown#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "it#NOUN": {
+    "MeanEval": 4.951515151515151, 
+    "MeanAct": 5.230303030303031, 
+    "MeanCon": 5.0
+  }, 
+  "whole#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.2142857142857135
+  }, 
+  "winning-post#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.222222222222222, 
+    "MeanCon": 5.0
+  }, 
+  "peel#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "declar#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.444444444444445, 
+    "MeanCon": 5.0
+  }, 
+  "thread#NOUN": {
+    "MeanEval": 4.666666666666667, 
+    "MeanAct": 5.0666666666666655, 
+    "MeanCon": 5.0
+  }, 
+  "loss#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.8, 
+    "MeanCon": 5.0
+  }, 
+  "hole#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.625, 
+    "MeanCon": 5.0
+  }, 
+  "wed#ADJECTIVE": {
+    "MeanEval": 6.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "lost#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "frighten#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.1, 
+    "MeanCon": 5.0
+  }, 
+  "higher#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "too#ADVERB": {
+    "MeanEval": 4.571428571428571, 
+    "MeanAct": 5.047619047619048, 
+    "MeanCon": 5.0
+  }, 
+  "weep#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "home#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.7142857142857135, 
+    "MeanCon": 5.0
+  }, 
+  "silenced#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.0, 
+    "MeanCon": 5.0
+  }, 
+  "skip#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "kill#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "gone#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "laughing#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "chop-chop#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "forgot#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.333333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "honest#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.8, 
+    "MeanCon": 5.0
+  }, 
+  "dreadful#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "grateful#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "smile#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.25, 
+    "MeanCon": 5.0
+  }, 
+  "thi#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.0, 
+    "MeanCon": 5.0
+  }, 
+  "approach#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "boasting#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.777777777777778
+  }, 
+  "worst#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "step#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "sit#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.277777777777778, 
+    "MeanCon": 5.0
+  }, 
+  "fix#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "thunder#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "neighbour#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.8, 
+    "MeanCon": 5.0
+  }, 
+  "foot#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "dulness#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "can#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.111111111111112, 
+    "MeanCon": 5.111111111111112
+  }, 
+  "virgin#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "beside#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "sun#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "manic#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "dancing#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "given#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "thinking#NOUN": {
+    "MeanEval": 6.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 4.0
+  }, 
+  "rest#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "spent#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.6, 
+    "MeanCon": 5.0
+  }, 
+  "sister#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.833333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "find#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.4, 
+    "MeanCon": 5.0
+  }, 
+  "inquir#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "tender#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 5.0
+  }, 
+  "drove#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "ring#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "token#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "new-year#NOUN": {
+    "MeanEval": 4.25, 
+    "MeanAct": 7.0, 
+    "MeanCon": 4.75
+  }, 
+  "allow#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.833333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "rode#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.25, 
+    "MeanCon": 5.0
+  }, 
+  "great#ADJECTIVE": {
+    "MeanEval": 5.571428571428571, 
+    "MeanAct": 5.690476190476192, 
+    "MeanCon": 5.095238095238095
+  }, 
+  "sky#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "bui#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "nice#ADJECTIVE": {
+    "MeanEval": 6.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "swindler#NOUN": {
+    "MeanEval": 5.036363636363636, 
+    "MeanAct": 4.854545454545455, 
+    "MeanCon": 4.9818181818181815
+  }, 
+  "reverberant#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "fabric#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "ever#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.227272727272728, 
+    "MeanCon": 5.0
+  }, 
+  "fit_for#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "coldest#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "open_up#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "too#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.0, 
+    "MeanCon": 5.0
+  }, 
+  "have#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.0, 
+    "MeanCon": 5.5
+  }, 
+  "undivided#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "stagnat#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "chang#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.75, 
+    "MeanCon": 5.0
+  }, 
+  "lodge#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "face_up#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "breast#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "cup#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.666666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "empire#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.4, 
+    "MeanCon": 5.0
+  }, 
+  "talk#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.181818181818182, 
+    "MeanCon": 5.0
+  }, 
+  "shitless#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "cruel#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 8.0, 
+    "MeanCon": 5.0
+  }, 
+  "carved#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "silly#ADJECTIVE": {
+    "MeanEval": 3.1666666666666665, 
+    "MeanAct": 6.833333333333333, 
+    "MeanCon": 5.5
+  }, 
+  "laugh#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "then#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.413333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "true#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5625, 
+    "MeanCon": 5.0
+  }, 
+  "rate#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "glass#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.75, 
+    "MeanCon": 5.0
+  }, 
+  "loom#NOUN": {
+    "MeanEval": 4.888888888888888, 
+    "MeanAct": 5.2, 
+    "MeanCon": 5.0
+  }, 
+  "glittering#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "continu#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.4, 
+    "MeanCon": 5.0
+  }, 
+  "stole#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "flung#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.333333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "will#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.375, 
+    "MeanCon": 5.0
+  }, 
+  "understand#VERB": {
+    "MeanEval": 4.529411764705881, 
+    "MeanAct": 5.352941176470588, 
+    "MeanCon": 5.0
+  }, 
+  "part#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "i#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.721311475409836, 
+    "MeanCon": 5.0
+  }, 
+  "busy#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "overjoyed#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "rattl#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.833333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "tell#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.533333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "home#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "gate#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "on_a_higher_floor#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "your#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "weaving#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "want#VERB": {
+    "MeanEval": 4.833333333333333, 
+    "MeanAct": 5.625, 
+    "MeanCon": 5.0
+  }, 
+  "open#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "thundering#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "unclothed#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "robe#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "there#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "wrong#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "children#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.3828125, 
+    "MeanCon": 5.0
+  }, 
+  "marvellous#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "no_more#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "feeling#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "serious#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "wide#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "afraid#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "statesmen#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.4, 
+    "MeanCon": 5.0
+  }, 
+  "lonely#ADJECTIVE": {
+    "MeanEval": 6.0, 
+    "MeanAct": 5.166666666666667, 
+    "MeanCon": 5.333333333333333
+  }, 
+  "wine#NOUN": {
+    "MeanEval": 4.666666666666667, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "unadvisable#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "riddled#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "unrespectable#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "dullness#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "rag#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "yet#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "fly#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "top#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.375, 
+    "MeanCon": 5.0
+  }, 
+  "suit#NOUN": {
+    "MeanEval": 5.155555555555556, 
+    "MeanAct": 5.2, 
+    "MeanCon": 5.0
+  }, 
+  "then#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.409090909090909, 
+    "MeanCon": 5.0
+  }, 
+  "determined#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "wet#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "brilliant#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.6, 
+    "MeanCon": 5.0
+  }, 
+  "call#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "best#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.727272727272728, 
+    "MeanCon": 5.0
+  }, 
+  "well-fixed#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "seem#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.25, 
+    "MeanCon": 5.0
+  }, 
+  "penny#NOUN": {
+    "MeanEval": 4.5, 
+    "MeanAct": 5.75, 
+    "MeanCon": 5.0
+  }, 
+  "scene#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "bear_on#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "way#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.2, 
+    "MeanCon": 5.0
+  }, 
+  "good-by#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "steaming#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "needle#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "unpardonably#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.4, 
+    "MeanCon": 5.0
+  }, 
+  "another#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.8, 
+    "MeanCon": 5.0
+  }, 
+  "hold#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.571428571428571, 
+    "MeanCon": 5.0
+  }, 
+  "us#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.368421052631579, 
+    "MeanCon": 5.0
+  }, 
+  "spot#NOUN": {
+    "MeanEval": 6.166666666666667, 
+    "MeanAct": 5.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "believ#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "floor#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "after#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "dare#VERB": {
+    "MeanEval": 4.928571428571429, 
+    "MeanAct": 6.428571428571429, 
+    "MeanCon": 5.0
+  }, 
+  "slowly#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "acknowledg#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "spring#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.794871794871795, 
+    "MeanCon": 5.0
+  }, 
+  "leav#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "settl#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "lesson#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "both#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.857142857142857, 
+    "MeanCon": 5.0
+  }, 
+  "wound#NOUN": {
+    "MeanEval": 6.166666666666667, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "dope_off#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "ready_and_waiting#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "long#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "polished#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.5, 
+    "MeanCon": 5.0
+  }, 
+  "graciously#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "hast#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "mouth#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.75, 
+    "MeanCon": 5.0
+  }, 
+  "admired#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.8, 
+    "MeanCon": 5.0
+  }, 
+  "ceremony#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.6, 
+    "MeanCon": 5.0
+  }, 
+  "unfrozen#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "only#ADVERB": {
+    "MeanEval": 4.814814814814815, 
+    "MeanAct": 5.703703703703703, 
+    "MeanCon": 4.962962962962963
+  }, 
+  "eliminat#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "wish#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.833333333333333, 
+    "MeanCon": 4.888888888888888
+  }, 
+  "eldest#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "appearance#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "ceas#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "found#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.2, 
+    "MeanCon": 5.0
+  }, 
+  "reach#VERB": {
+    "MeanEval": 4.4, 
+    "MeanAct": 5.7, 
+    "MeanCon": 5.0
+  }, 
+  "bust#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "fall#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "merry#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "ask#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.296296296296297, 
+    "MeanCon": 5.092592592592593
+  }, 
+  "stiffness#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "try#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "music#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.6875, 
+    "MeanCon": 5.0
+  }, 
+  "judge#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.4, 
+    "MeanCon": 5.2
+  }, 
+  "top#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.1, 
+    "MeanCon": 5.0
+  }, 
+  "looked#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.833333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "daily#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "upstair#ADJECTIVE": {
+    "MeanEval": 1.0, 
+    "MeanAct": 2.0, 
+    "MeanCon": 4.0
+  }, 
+  "stalking#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 8.0, 
+    "MeanCon": 5.0
+  }, 
+  "sad#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "promising#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "word#NOUN": {
+    "MeanEval": 4.8125, 
+    "MeanAct": 6.5625, 
+    "MeanCon": 4.9375
+  }, 
+  "road#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "cloth#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.307692307692308, 
+    "MeanCon": 5.0
+  }, 
+  "lost#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.25, 
+    "MeanCon": 5.0
+  }, 
+  "awake#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "befal#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "verger#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "satellite#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "economy#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "unwrap#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "rearward#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "unnoticed#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "cover#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "silk#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.1, 
+    "MeanCon": 5.0
+  }, 
+  "black#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "unawakened#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "woodenly#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "preserve#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.4, 
+    "MeanCon": 5.0
+  }, 
+  "transparent#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.5, 
+    "MeanCon": 5.0
+  }, 
+  "will#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "back#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "hardness#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "sorrow#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "building#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "speaking#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.75, 
+    "MeanCon": 5.0
+  }, 
+  "neither#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "savory#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "ungrateful#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "go_down#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "green#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.642857142857143, 
+    "MeanCon": 5.0
+  }, 
+  "fear#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.2, 
+    "MeanCon": 5.0
+  }, 
+  "matter#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.307692307692308, 
+    "MeanCon": 5.0
+  }, 
+  "effigy#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "hour#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.538461538461537, 
+    "MeanCon": 5.0
+  }, 
+  "away#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.428571428571429, 
+    "MeanCon": 5.0
+  }, 
+  "gruff#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.833333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "larger#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "low#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "tenebrous#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "disrespectful#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "requir#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.2, 
+    "MeanCon": 5.0
+  }, 
+  "tame#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "trouser#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.4, 
+    "MeanCon": 5.0
+  }, 
+  "coat#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.4, 
+    "MeanCon": 5.0
+  }, 
+  "finished#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "downstairs#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "go_forth#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "large#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.0, 
+    "MeanCon": 5.0
+  }, 
+  "feeble#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.666666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "beautifully#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.5, 
+    "MeanCon": 5.0
+  }, 
+  "blew#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "image#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "clothe#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.377777777777777, 
+    "MeanCon": 5.0
+  }, 
+  "cool#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.25, 
+    "MeanCon": 5.0
+  }, 
+  "slug#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "lake#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "familiar#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "last#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.5, 
+    "MeanCon": 4.75
+  }, 
+  "air#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "descend#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "sleety#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "drawer#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "eider-down#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.375, 
+    "MeanCon": 5.0
+  }, 
+  "lighted#ADJECTIVE": {
+    "MeanEval": 6.5, 
+    "MeanAct": 4.5, 
+    "MeanCon": 5.5
+  }, 
+  "warm#VERB": {
+    "MeanEval": 4.75, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "go_out#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 2.0, 
+    "MeanCon": 4.0
+  }, 
+  "horn#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "bitterness#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "stingy#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "slender#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "songster#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "bundle#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.625, 
+    "MeanCon": 5.0
+  }, 
+  "admir#VERB": {
+    "MeanEval": 4.782608695652174, 
+    "MeanAct": 5.173913043478261, 
+    "MeanCon": 5.0
+  }, 
+  "wrap#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "print#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "ear#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "female_parent#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 5.0
+  }, 
+  "uncover#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "young#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.333333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "pick#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.25, 
+    "MeanCon": 5.0
+  }, 
+  "is#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "request#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.6, 
+    "MeanCon": 5.0
+  }, 
+  "unmusical#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "face#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "go#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.1, 
+    "MeanCon": 5.366666666666665
+  }, 
+  "peer#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "real#ADJECTIVE": {
+    "MeanEval": 5.196428571428571, 
+    "MeanAct": 5.517857142857143, 
+    "MeanCon": 5.0
+  }, 
+  "first#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "mass#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "joy#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.538461538461537, 
+    "MeanCon": 5.0
+  }, 
+  "quiet#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "kind#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.333333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "if#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.071428571428571, 
+    "MeanCon": 5.0
+  }, 
+  "figure#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.3, 
+    "MeanCon": 5.0
+  }, 
+  "gown#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.0, 
+    "MeanCon": 5.0
+  }, 
+  "sent#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "cornice#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "axe#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.0, 
+    "MeanCon": 5.0
+  }, 
+  "darkling#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "after#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.4, 
+    "MeanCon": 5.0
+  }, 
+  "apron#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "cold#NOUN": {
+    "MeanEval": 4.888888888888888, 
+    "MeanAct": 5.055555555555555, 
+    "MeanCon": 5.0
+  }, 
+  "wait#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.75, 
+    "MeanCon": 5.0
+  }, 
+  "branche#NOUN": {
+    "MeanEval": 5.533333333333333, 
+    "MeanAct": 5.9, 
+    "MeanCon": 5.1
+  }, 
+  "hair#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.25, 
+    "MeanCon": 5.0
+  }, 
+  "fruit#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.222222222222222, 
+    "MeanCon": 5.0
+  }, 
+  "speedily#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "fire#NOUN": {
+    "MeanEval": 6.0, 
+    "MeanAct": 5.25, 
+    "MeanCon": 6.0
+  }, 
+  "undo#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "troubl#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.5, 
+    "MeanCon": 4.75
+  }, 
+  "indeed#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "door#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.342857142857143, 
+    "MeanCon": 5.0
+  }, 
+  "kindled#ADJECTIVE": {
+    "MeanEval": 6.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "note#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "possible#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.4, 
+    "MeanCon": 5.0
+  }, 
+  "posthumous#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "strip_down#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "historical#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "show#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.8125, 
+    "MeanCon": 5.25
+  }, 
+  "lovely#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.458333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "undress#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "safe_and_sound#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "folk#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "get_out#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 2.0, 
+    "MeanCon": 4.0
+  }, 
+  "steady#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 3.555555555555556, 
+    "MeanCon": 5.0
+  }, 
+  "though#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "back#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "streak#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "confront#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "cage#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.25, 
+    "MeanCon": 5.0
+  }, 
+  "match#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.888888888888888, 
+    "MeanCon": 5.055555555555555
+  }, 
+  "appoint#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.8, 
+    "MeanCon": 5.0
+  }, 
+  "leading#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "work#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.92, 
+    "MeanCon": 5.0
+  }, 
+  "blameless#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "downstairs#ADJECTIVE": {
+    "MeanEval": 8.333333333333334, 
+    "MeanAct": 7.5, 
+    "MeanCon": 5.5
+  }, 
+  "undersize#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "twinkling#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "wast#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "hard#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.727272727272728, 
+    "MeanCon": 5.0
+  }, 
+  "colour#NOUN": {
+    "MeanEval": 5.257142857142857, 
+    "MeanAct": 5.428571428571429, 
+    "MeanCon": 5.257142857142857
+  }, 
+  "father#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.333333333333333, 
+    "MeanCon": 4.7333333333333325
+  }, 
+  "unsurpassable#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "regard#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "woman#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "pleased#ADJECTIVE": {
+    "MeanEval": 5.636363636363637, 
+    "MeanAct": 4.8181818181818175, 
+    "MeanCon": 5.454545454545454
+  }, 
+  "suitable#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "room#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.117647058823529, 
+    "MeanCon": 5.0
+  }, 
+  "rearwards#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "cut#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "lightning#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "badly#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "adult_female#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "dinner#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "without_gracious#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "in_that_locate#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "relat#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.4, 
+    "MeanCon": 5.0
+  }, 
+  "dry#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "say#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.6, 
+    "MeanCon": 5.0
+  }, 
+  "glow#VERB": {
+    "MeanEval": 7.5, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "procession#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.75, 
+    "MeanCon": 5.0
+  }, 
+  "inglorious#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 2.0, 
+    "MeanCon": 4.0
+  }, 
+  "tree#NOUN": {
+    "MeanEval": 4.94, 
+    "MeanAct": 5.37, 
+    "MeanCon": 5.0
+  }, 
+  "miss#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.333333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "anxious#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.8, 
+    "MeanCon": 5.0
+  }, 
+  "less#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "child#NOUN": {
+    "MeanEval": 4.9298245614035086, 
+    "MeanAct": 5.631578947368421, 
+    "MeanCon": 5.0
+  }, 
+  "express_joi#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "companion#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.833333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "blue#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.25, 
+    "MeanCon": 5.0
+  }, 
+  "marble#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "avoid#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "met#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "office#NOUN": {
+    "MeanEval": 4.8, 
+    "MeanAct": 4.76, 
+    "MeanCon": 5.0
+  }, 
+  "active#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "upper#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "point#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.3, 
+    "MeanCon": 5.0
+  }, 
+  "roost#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "unready#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "dart#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "sculptured#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "race#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.888888888888888, 
+    "MeanCon": 5.0
+  }, 
+  "toss#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "lie#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "dawn#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "uneager#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "went#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.4375, 
+    "MeanCon": 5.0
+  }, 
+  "warm#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "unfinished#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "brought#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.75, 
+    "MeanCon": 5.0
+  }, 
+  "inspissat#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "clap#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "warming#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "corner#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.9, 
+    "MeanCon": 5.0
+  }, 
+  "appear#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "stolen#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.875, 
+    "MeanCon": 5.0
+  }, 
+  "frightened#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.0, 
+    "MeanCon": 5.0
+  }, 
+  "bright#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "closed#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "hiding-place#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "nascency#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "love#VERB": {
+    "MeanEval": 5.111111111111112, 
+    "MeanAct": 5.555555555555555, 
+    "MeanCon": 5.055555555555555
+  }, 
+  "trod#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.0, 
+    "MeanCon": 5.0
+  }, 
+  "seeable#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "selfish#ADJECTIVE": {
+    "MeanEval": 4.766666666666667, 
+    "MeanAct": 4.9, 
+    "MeanCon": 5.0
+  }, 
+  "gave#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.666666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "adventure#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "lighting#NOUN": {
+    "MeanEval": 7.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "get#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.638888888888888, 
+    "MeanCon": 4.972222222222222
+  }, 
+  "unsilenced#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 2.0, 
+    "MeanCon": 4.0
+  }, 
+  "break#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "led#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "uncut#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "trill#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "unweav#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "kept#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.4, 
+    "MeanCon": 5.0
+  }, 
+  "expos#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "shore#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "death#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "might#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "husband#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "warbling#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "linnet#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.666666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "plai#VERB": {
+    "MeanEval": 4.857142857142857, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "short#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "son#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "piece#NOUN": {
+    "MeanEval": 4.5, 
+    "MeanAct": 5.1, 
+    "MeanCon": 5.0
+  }, 
+  "surprised#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 8.0, 
+    "MeanCon": 5.0
+  }, 
+  "jewel#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.75, 
+    "MeanCon": 5.0
+  }, 
+  "cobweb#NOUN": {
+    "MeanEval": 5.2, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.6
+  }, 
+  "snug#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "cheerful#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "water-cooled#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "listen#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.75, 
+    "MeanCon": 5.0
+  }, 
+  "marri#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "afternoon#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "fine#ADJECTIVE": {
+    "MeanEval": 5.178571428571429, 
+    "MeanAct": 5.642857142857143, 
+    "MeanCon": 5.107142857142857
+  }, 
+  "lower#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "flake_out#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "thankless#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "low#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "wonderful#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.388888888888888, 
+    "MeanCon": 5.0
+  }, 
+  "gratified#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "thought#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "right#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.6, 
+    "MeanCon": 5.0
+  }, 
+  "through#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.833333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "dust-heap#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "queen#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.25, 
+    "MeanCon": 5.0
+  }, 
+  "musician#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "undersized#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "clear#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "be_born#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "huge#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.833333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "shining#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "people#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.216216216216216, 
+    "MeanCon": 5.0
+  }, 
+  "unlighted#ADJECTIVE": {
+    "MeanEval": 3.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "hopeful#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "twelve#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "ignited#ADJECTIVE": {
+    "MeanEval": 6.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "grew#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "dishonest#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "busily#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "country#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.125, 
+    "MeanCon": 5.0
+  }, 
+  "thousand#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "resting-place#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "come_down#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "minister#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.9, 
+    "MeanCon": 4.866666666666665
+  }, 
+  "order#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.307692307692308, 
+    "MeanCon": 5.0
+  }, 
+  "bent#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "silver#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "projected#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "dependent#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "farthest#ADJECTIVE": {
+    "MeanEval": 6.166666666666667, 
+    "MeanAct": 6.25, 
+    "MeanCon": 5.25
+  }, 
+  "unfit#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.7, 
+    "MeanCon": 5.0
+  }, 
+  "sweetish#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "face#NOUN": {
+    "MeanEval": 4.8, 
+    "MeanAct": 6.2, 
+    "MeanCon": 5.0
+  }, 
+  "indeed#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "coloured#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "seat#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "get_go#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "long#ADJECTIVE": {
+    "MeanEval": 4.870967741935484, 
+    "MeanAct": 6.225806451612903, 
+    "MeanCon": 5.064516129032258
+  }, 
+  "place#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.888888888888888, 
+    "MeanCon": 5.0
+  }, 
+  "sundown#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "burning#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.25, 
+    "MeanCon": 5.0
+  }, 
+  "hunger#NOUN": {
+    "MeanEval": 4.666666666666667, 
+    "MeanAct": 5.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "bed#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0588235294117645, 
+    "MeanCon": 5.0
+  }, 
+  "go_awai#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "body#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.307692307692308, 
+    "MeanCon": 5.0
+  }, 
+  "bedstead#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.375, 
+    "MeanCon": 5.0
+  }, 
+  "sold#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "delicious#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "previous#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.8, 
+    "MeanCon": 5.0
+  }, 
+  "hopelessness#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "terrible#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.2, 
+    "MeanCon": 5.0
+  }, 
+  "uphold#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "what#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.862068965517241, 
+    "MeanCon": 5.0
+  }, 
+  "ground#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.1, 
+    "MeanCon": 5.0
+  }, 
+  "star#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "roar#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "ungraciously#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "delicate#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 3.8333333333333335, 
+    "MeanCon": 5.0
+  }, 
+  "impossible#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "frog#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.902777777777778, 
+    "MeanCon": 5.0
+  }, 
+  "well-heeled#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "accept#VERB": {
+    "MeanEval": 6.0, 
+    "MeanAct": 4.222222222222222, 
+    "MeanCon": 5.444444444444445
+  }, 
+  "paint#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "sweet#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "him#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.6875, 
+    "MeanCon": 5.0
+  }, 
+  "respectable#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "sleepy#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "lai#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.7333333333333325, 
+    "MeanCon": 5.0
+  }, 
+  "unhappy#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "worthy#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "nonviable#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "joyous#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "her#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.333333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "unable#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.2, 
+    "MeanCon": 4.2
+  }, 
+  "false#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "change#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "lie#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.125, 
+    "MeanCon": 5.0
+  }, 
+  "doze_off#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "downcast#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "cry#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "stay_in_plac#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "wind#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "side#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "abutment#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "scissor#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "goose#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "noise#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.75, 
+    "MeanCon": 5.0
+  }, 
+  "oblig#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "dawdl#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "female_monarch#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "quietly#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "more#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.857142857142857, 
+    "MeanCon": 5.0
+  }, 
+  "ne'er#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "luck#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "wall#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.7727272727272725, 
+    "MeanCon": 5.0
+  }, 
+  "alarming#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "fat#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "afterwards#ADVERB": {
+    "MeanEval": 5.2727272727272725, 
+    "MeanAct": 5.636363636363637, 
+    "MeanCon": 5.181818181818182
+  }, 
+  "best#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "quality#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.1, 
+    "MeanCon": 5.0
+  }, 
+  "glad#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "undressed#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.8, 
+    "MeanCon": 4.8
+  }, 
+  "creature#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.25, 
+    "MeanCon": 5.0
+  }, 
+  "the#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.25, 
+    "MeanCon": 5.0
+  }, 
+  "slow#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 3.555555555555556, 
+    "MeanCon": 5.0
+  }, 
+  "canopy#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.6, 
+    "MeanCon": 5.0
+  }, 
+  "uncool#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "danc#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.62962962962963, 
+    "MeanCon": 5.0
+  }, 
+  "knock#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.4375, 
+    "MeanCon": 5.0
+  }, 
+  "fellow#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "heinrich#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.25, 
+    "MeanCon": 5.0
+  }, 
+  "call#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 3.0
+  }, 
+  "hurt#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "golden#ADJECTIVE": {
+    "MeanEval": 4.892857142857143, 
+    "MeanAct": 5.75, 
+    "MeanCon": 5.0
+  }, 
+  "slip#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.666666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "secret#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "composure#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "market#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "rapidly#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "noble#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "incertain#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "walk#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.8, 
+    "MeanCon": 5.0
+  }, 
+  "stretch#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.466666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "flame#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "run#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.470588235294118, 
+    "MeanCon": 5.0
+  }, 
+  "very#ADVERB": {
+    "MeanEval": 4.975609756097561, 
+    "MeanAct": 5.012195121951219, 
+    "MeanCon": 5.0
+  }, 
+  "pretended#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "stop#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 3.8333333333333335, 
+    "MeanCon": 5.0
+  }, 
+  "spring-time#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 3.8333333333333335, 
+    "MeanCon": 5.0
+  }, 
+  "diamond#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "disrob#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "yokel-like#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "rolling#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "ill#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "rowing#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "winter#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "answer#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "left#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.75, 
+    "MeanCon": 5.0
+  }, 
+  "return#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.6, 
+    "MeanCon": 5.0
+  }, 
+  "bad#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.8, 
+    "MeanCon": 5.0
+  }, 
+  "winged#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "shade#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.357142857142857, 
+    "MeanCon": 5.0
+  }, 
+  "huddl#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "pretty#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.4, 
+    "MeanCon": 5.0
+  }, 
+  "understood#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "even#ADVERB": {
+    "MeanEval": 4.8, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "pious#ADJECTIVE": {
+    "MeanEval": 4.5, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "intermediate#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "brighter#ADJECTIVE": {
+    "MeanEval": 7.5, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "noon#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "as#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "discover#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "can#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 3.8
+  }, 
+  "malicious#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "prince#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.021739130434782, 
+    "MeanCon": 5.173913043478261
+  }, 
+  "catch#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.25, 
+    "MeanCon": 5.0
+  }, 
+  "guilty#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "innocent#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.2, 
+    "MeanCon": 5.0
+  }, 
+  "refrigerated#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "uncovered#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "water#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "eve#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "angle#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "quiet#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "corpse#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.0, 
+    "MeanCon": 5.0
+  }, 
+  "bring#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.2, 
+    "MeanCon": 5.7
+  }, 
+  "before#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "frozen#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.0, 
+    "MeanCon": 5.0
+  }, 
+  "then#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.75, 
+    "MeanCon": 5.0
+  }, 
+  "painful#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "comfortable#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "unconcealed#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "take#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.911111111111112, 
+    "MeanCon": 4.888888888888888
+  }, 
+  "plume#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "clutter#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "wake#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 5.0
+  }, 
+  "sunset#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "much#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "royal#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "draw#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "slate#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.833333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "wont_to#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "safe#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "dust#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "hubby#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "often#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.333333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "drawn#VERB": {
+    "MeanEval": 4.25, 
+    "MeanAct": 5.75, 
+    "MeanCon": 5.0
+  }, 
+  "now#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.574468085106383, 
+    "MeanCon": 5.0
+  }, 
+  "intense#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "care#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.636363636363637, 
+    "MeanCon": 5.0
+  }, 
+  "second#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.75, 
+    "MeanCon": 5.0
+  }, 
+  "nail#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.428571428571429, 
+    "MeanCon": 5.0
+  }, 
+  "animal#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.777777777777778, 
+    "MeanCon": 5.0
+  }, 
+  "unmelodious#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "use#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.25, 
+    "MeanCon": 5.0
+  }, 
+  "cheek#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "independent#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "old#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.155844155844156, 
+    "MeanCon": 4.922077922077921
+  }, 
+  "street#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "hare#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.388888888888888, 
+    "MeanCon": 5.0
+  }, 
+  "hard#ADJECTIVE": {
+    "MeanEval": 4.636363636363637, 
+    "MeanAct": 5.090909090909091, 
+    "MeanCon": 5.0
+  }, 
+  "irreproachable#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "thought#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.4642857142857135, 
+    "MeanCon": 5.0
+  }, 
+  "proven#ADJECTIVE": {
+    "MeanEval": 3.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "smart#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "handsome#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.333333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "answer#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "frozen#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "ill#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "gold#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "love#NOUN": {
+    "MeanEval": 5.291666666666667, 
+    "MeanAct": 6.625, 
+    "MeanCon": 5.0
+  }, 
+  "push#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "ground#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.2, 
+    "MeanCon": 5.0
+  }, 
+  "bring_down#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "bedroom#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.375, 
+    "MeanCon": 5.0
+  }, 
+  "perhaps#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "built#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.833333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "majesty#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0666666666666655, 
+    "MeanCon": 5.0
+  }, 
+  "castle#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.25, 
+    "MeanCon": 5.0
+  }, 
+  "prowling#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "radiosensitive#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "flew#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.25, 
+    "MeanCon": 5.0
+  }, 
+  "major#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "discontinu#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "uneasy#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.6, 
+    "MeanCon": 5.0
+  }, 
+  "unsteady#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "preced#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "trichrome#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "chimney-pot#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "go#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "soul#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.25, 
+    "MeanCon": 5.0
+  }, 
+  "illuminated#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "long#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.333333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "suchlike#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "choos#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "fork#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.0, 
+    "MeanCon": 5.0
+  }, 
+  "admit#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "nonbeing#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "bearer#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.6, 
+    "MeanCon": 5.0
+  }, 
+  "made#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.861111111111112, 
+    "MeanCon": 5.0
+  }, 
+  "leave#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.666666666666667, 
+    "MeanCon": 4.916666666666667
+  }, 
+  "won#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.777777777777778
+  }, 
+  "feel#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.142857142857143, 
+    "MeanCon": 5.0
+  }, 
+  "food#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "other#ADJECTIVE": {
+    "MeanEval": 4.933333333333334, 
+    "MeanAct": 5.4, 
+    "MeanCon": 5.0
+  }, 
+  "awok#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.6, 
+    "MeanCon": 5.0
+  }, 
+  "used_to#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "fallen#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.75, 
+    "MeanCon": 5.0
+  }, 
+  "tap#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.75, 
+    "MeanCon": 5.0
+  }, 
+  "found#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "heap#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "move#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "knelt#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.333333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "time#NOUN": {
+    "MeanEval": 4.775, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "scrap#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "unreal#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "gay#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.4, 
+    "MeanCon": 5.0
+  }, 
+  "turning#NOUN": {
+    "MeanEval": 4.2, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.2
+  }, 
+  "wind#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.607142857142857, 
+    "MeanCon": 5.0
+  }, 
+  "disenchant#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "inculpable#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "contempt#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "money#NOUN": {
+    "MeanEval": 4.882352941176471, 
+    "MeanAct": 5.0588235294117645, 
+    "MeanCon": 5.0
+  }, 
+  "graciou#NOUN": {
+    "MeanEval": 6.375, 
+    "MeanAct": 6.375, 
+    "MeanCon": 5.0
+  }, 
+  "these#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.4, 
+    "MeanCon": 5.0
+  }, 
+  "nearly#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.111111111111112, 
+    "MeanCon": 5.0
+  }, 
+  "longing#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "fit#ADJECTIVE": {
+    "MeanEval": 4.5, 
+    "MeanAct": 4.5, 
+    "MeanCon": 5.0
+  }, 
+  "snatche#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "watch#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "all#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.25, 
+    "MeanCon": 5.0
+  }, 
+  "right#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.875, 
+    "MeanCon": 5.0
+  }, 
+  "silence#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "wa#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "thi#NOUN": {
+    "MeanEval": 5.2105263157894735, 
+    "MeanAct": 5.7368421052631575, 
+    "MeanCon": 5.2631578947368425
+  }, 
+  "court#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.2, 
+    "MeanCon": 5.4
+  }, 
+  "stranger#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.8, 
+    "MeanCon": 5.0
+  }, 
+  "precise#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "only#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.96, 
+    "MeanCon": 5.12
+  }, 
+  "going#ADJECTIVE": {
+    "MeanEval": 4.5, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "pain#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "noon-day#NOUN": {
+    "MeanEval": 7.5, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "mistrustfully#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "dull#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "mattress#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.541666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "almost#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.769230769230769, 
+    "MeanCon": 5.0
+  }, 
+  "purchas#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "backwards#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "obviat#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "theatre#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "conserv#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "carriage#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "abid#VERB": {
+    "MeanEval": 6.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "side#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.153846153846153, 
+    "MeanCon": 5.0
+  }, 
+  "do#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "pink#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 3.8333333333333335, 
+    "MeanCon": 5.0
+  }, 
+  "burst#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.5, 
+    "MeanCon": 5.0
+  }, 
+  "third#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "nimbus#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "becom#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "defiance#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "just#ADVERB": {
+    "MeanEval": 5.136363636363637, 
+    "MeanAct": 5.590909090909091, 
+    "MeanCon": 5.0
+  }, 
+  "get_rid_of#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "hustl#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "downwardly#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "astonished#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 8.0, 
+    "MeanCon": 5.0
+  }, 
+  "certainly#ADJECTIVE": {
+    "MeanEval": 7.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "brighteyed#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "courtier#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.7, 
+    "MeanCon": 5.0
+  }, 
+  "giants#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.666666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "mirror#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "deck#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "sweetest#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "heartaching#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "up_to#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "school#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.666666666666667
+  }, 
+  "blood_brother#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "sexagenarian#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "block#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "warm#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "saw#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.333333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "snowflake#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.5
+  }, 
+  "inner#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "distrustfully#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "god#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "ungracious#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "tried#ADJECTIVE": {
+    "MeanEval": 3.0, 
+    "MeanAct": 4.375, 
+    "MeanCon": 4.5
+  }, 
+  "flown#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "not_yet#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "stupefi#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "own#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "unaccompanied#ADJECTIVE": {
+    "MeanEval": 6.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "glory#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.0, 
+    "MeanCon": 5.0
+  }, 
+  "wide-open#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "velvet#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 5.0
+  }, 
+  "imitative#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "brightness#NOUN": {
+    "MeanEval": 5.5, 
+    "MeanAct": 6.25, 
+    "MeanCon": 5.0
+  }, 
+  "monotonous#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "work#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "snore#VERB": {
+    "MeanEval": 4.833333333333333, 
+    "MeanAct": 5.666666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "strange#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "therefore#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.333333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "scarcely#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.375, 
+    "MeanCon": 4.125
+  }, 
+  "fall_asleep#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "till#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.7, 
+    "MeanCon": 5.0
+  }, 
+  "imagin#VERB": {
+    "MeanEval": 5.285714285714286, 
+    "MeanAct": 5.571428571428571, 
+    "MeanCon": 4.428571428571429
+  }, 
+  "still#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.351351351351352, 
+    "MeanCon": 5.027027027027027
+  }, 
+  "chosen#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "no#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 2.0, 
+    "MeanCon": 4.0
+  }, 
+  "riant#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "enkindled#ADJECTIVE": {
+    "MeanEval": 6.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "fated#ADJECTIVE": {
+    "MeanEval": 6.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 4.75
+  }, 
+  "pale#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "show#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.2, 
+    "MeanCon": 5.0
+  }, 
+  "loom#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.6, 
+    "MeanCon": 5.0
+  }, 
+  "take_down#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "female_child#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "someone#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.0, 
+    "MeanCon": 5.0
+  }, 
+  "unbend#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "plum#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "here#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.172413793103448, 
+    "MeanCon": 5.0
+  }, 
+  "unlock#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "impious#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "open#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.243902439024391, 
+    "MeanCon": 5.0
+  }, 
+  "poorly#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "advis#VERB": {
+    "MeanEval": 5.8, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.8
+  }, 
+  "cooed#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "sell#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "tricolor#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "let_down#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "loudly#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "discomposure#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "criticis#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "nascence#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "planned#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "deep#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.823529411764706, 
+    "MeanCon": 5.0
+  }, 
+  "suddenly#ADVERB": {
+    "MeanEval": 5.142857142857143, 
+    "MeanAct": 6.357142857142857, 
+    "MeanCon": 4.7142857142857135
+  }, 
+  "disillusion#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "sing#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.222222222222222, 
+    "MeanCon": 5.0
+  }, 
+  "other#NOUN": {
+    "MeanEval": 4.864864864864865, 
+    "MeanAct": 4.918918918918919, 
+    "MeanCon": 5.0
+  }, 
+  "appropriate#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "cannot#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.2, 
+    "MeanCon": 4.2
+  }, 
+  "place#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.25, 
+    "MeanCon": 5.0
+  }, 
+  "mocking#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "dissimilar#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "fatherly#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "different#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "summer#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.833333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "clog#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.25, 
+    "MeanCon": 5.0
+  }, 
+  "principle#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "back#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "harness#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "down#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "being#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.4, 
+    "MeanCon": 5.0
+  }, 
+  "globe#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.8, 
+    "MeanCon": 5.0
+  }, 
+  "speed#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.388888888888888, 
+    "MeanCon": 5.0
+  }, 
+  "beauty#NOUN": {
+    "MeanEval": 5.6, 
+    "MeanAct": 4.6, 
+    "MeanCon": 5.0
+  }, 
+  "exceedingly#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.4, 
+    "MeanCon": 5.0
+  }, 
+  "loud#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.75, 
+    "MeanCon": 5.0
+  }, 
+  "straight#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "youngest#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.833333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "sound#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "heart#NOUN": {
+    "MeanEval": 4.3, 
+    "MeanAct": 5.8, 
+    "MeanCon": 4.7
+  }, 
+  "king#NOUN": {
+    "MeanEval": 4.947368421052632, 
+    "MeanAct": 5.789473684210527, 
+    "MeanCon": 5.0
+  }, 
+  "notice-board#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.25, 
+    "MeanCon": 5.0
+  }, 
+  "e'er#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "ponderous#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "lean#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "stone#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.5, 
+    "MeanCon": 5.0
+  }, 
+  "invisible#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.285714285714286, 
+    "MeanCon": 5.0
+  }, 
+  "man#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.9, 
+    "MeanCon": 5.0
+  }, 
+  "well#ADVERB": {
+    "MeanEval": 5.315789473684211, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.105263157894737
+  }, 
+  "prais#VERB": {
+    "MeanEval": 5.4, 
+    "MeanAct": 5.4, 
+    "MeanCon": 4.6
+  }, 
+  "stop#VERB": {
+    "MeanEval": 4.809523809523808, 
+    "MeanAct": 5.857142857142857, 
+    "MeanCon": 5.047619047619048
+  }, 
+  "awful#ADJECTIVE": {
+    "MeanEval": 3.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "resolute#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "knife#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.0, 
+    "MeanCon": 5.0
+  }, 
+  "how#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.1034482758620685, 
+    "MeanCon": 5.0
+  }, 
+  "gracelessly#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "knock#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "came#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.748251748251748, 
+    "MeanCon": 5.0
+  }, 
+  "wild#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "partly#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "north#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.25, 
+    "MeanCon": 5.0
+  }, 
+  "infrequently#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "daylight#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "likely#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "again#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.071428571428571, 
+    "MeanCon": 5.0
+  }, 
+  "rearward#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "heaven#ADJECTIVE": {
+    "MeanEval": 5.8, 
+    "MeanAct": 5.4, 
+    "MeanCon": 5.0
+  }, 
+  "hop#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.75, 
+    "MeanCon": 5.0
+  }, 
+  "unusual#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "a#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.111111111111112, 
+    "MeanCon": 5.0
+  }, 
+  "gone#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.166666666666667, 
+    "MeanCon": 4.166666666666667
+  }, 
+  "start#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "affect#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "married_man#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "uncloth#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "ungenerous#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "bustl#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "drop_off#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "minute#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "emperor#NOUN": {
+    "MeanEval": 5.0857142857142845, 
+    "MeanAct": 4.771428571428571, 
+    "MeanCon": 5.0285714285714285
+  }, 
+  "fairy#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.75, 
+    "MeanCon": 5.0
+  }, 
+  "immature#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "train#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.15, 
+    "MeanCon": 5.0
+  }, 
+  "him#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.333333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "beautiful#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.2, 
+    "MeanCon": 5.0
+  }, 
+  "tenebrious#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "soaring#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "big#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.2727272727272725, 
+    "MeanCon": 5.0
+  }, 
+  "unopen#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "pour#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "haunt#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "mild#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "smell#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "blossom#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.916666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "kingly#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "largest#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "nativity#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "fountain#NOUN": {
+    "MeanEval": 5.083333333333333, 
+    "MeanAct": 6.583333333333333, 
+    "MeanCon": 5.083333333333333
+  }, 
+  "bitterly#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.333333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "sadly#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "fell#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.625, 
+    "MeanCon": 5.0
+  }, 
+  "sure#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "however#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.4, 
+    "MeanCon": 5.0
+  }, 
+  "certain#ADJECTIVE": {
+    "MeanEval": 6.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 4.0
+  }, 
+  "extraordinary#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "friend#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.2142857142857135, 
+    "MeanCon": 5.0
+  }, 
+  "deni#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "known#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "hatred#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "regular#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "prevent#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "town#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.6, 
+    "MeanCon": 5.0
+  }, 
+  "cheep#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "exquisite#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.6, 
+    "MeanCon": 5.0
+  }, 
+  "perch#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "clever#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.6, 
+    "MeanCon": 5.0
+  }, 
+  "high#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.055555555555555, 
+    "MeanCon": 5.0
+  }, 
+  "cat#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "loneliness#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "counterfeit#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "trustfully#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "foolish#ADJECTIVE": {
+    "MeanEval": 3.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "parapet#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.75, 
+    "MeanCon": 5.0
+  }, 
+  "lift#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.777777777777778, 
+    "MeanCon": 5.0
+  }, 
+  "incorrect#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "impressive#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "peach-tree#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 3.8333333333333335, 
+    "MeanCon": 5.0
+  }, 
+  "thrown#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "quickly#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "light-colored#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "felt#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.157894736842104, 
+    "MeanCon": 5.0
+  }, 
+  "soundly#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "sweet-voic#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "sensitive#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "uncolored#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "strike#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "nowhere#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.642857142857143, 
+    "MeanCon": 5.0
+  }, 
+  "resentful#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "experienc#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "at_that_place#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "favourite#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "visible#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "unmarried#ADJECTIVE": {
+    "MeanEval": 3.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "same#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "apace#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "sang#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.2142857142857135, 
+    "MeanCon": 5.0
+  }, 
+  "said#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.287234042553192, 
+    "MeanCon": 5.0
+  }, 
+  "cradle#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "carry_on#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "softly#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "night#NOUN": {
+    "MeanEval": 4.955555555555556, 
+    "MeanAct": 5.666666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "here#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "anyth#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.571428571428571, 
+    "MeanCon": 5.0
+  }, 
+  "slept#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 4.916666666666667
+  }, 
+  "unselfish#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "hope#VERB": {
+    "MeanEval": 3.6666666666666665, 
+    "MeanAct": 5.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "manufactur#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.4, 
+    "MeanCon": 5.0
+  }, 
+  "roll#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.75, 
+    "MeanCon": 5.0
+  }, 
+  "forc#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "tortoise#NOUN": {
+    "MeanEval": 5.148148148148148, 
+    "MeanAct": 5.055555555555555, 
+    "MeanCon": 5.148148148148148
+  }, 
+  "wood#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "ground-floor#ADJECTIVE": {
+    "MeanEval": 8.0, 
+    "MeanAct": 7.0, 
+    "MeanCon": 5.0
+  }, 
+  "well-to-do#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "get_dress#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "see#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.108108108108108, 
+    "MeanCon": 5.0
+  }, 
+  "wonderful#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.0, 
+    "MeanCon": 5.0
+  }, 
+  "new#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0285714285714285, 
+    "MeanCon": 5.0285714285714285
+  }, 
+  "morning#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.695652173913044, 
+    "MeanCon": 5.0
+  }, 
+  "broad#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "secret#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "order#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "finish#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "grandmother#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "mother#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 5.0
+  }, 
+  "field#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "watcher#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "decorat#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "sapient#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "bound#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.75, 
+    "MeanCon": 4.75
+  }, 
+  "branch#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.75, 
+    "MeanCon": 5.0
+  }, 
+  "today#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.833333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "gracious#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.4, 
+    "MeanCon": 5.0
+  }, 
+  "disbeliev#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "taken#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "set#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.2, 
+    "MeanCon": 5.3
+  }, 
+  "standing#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.0, 
+    "MeanCon": 5.0
+  }, 
+  "wanderer#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "unhappily#ADVERB": {
+    "MeanEval": 1.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "listening#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "sword#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.333333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "thrown#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "all#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.5, 
+    "MeanCon": 5.0
+  }, 
+  "any#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.833333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "once#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.083333333333333, 
+    "MeanCon": 4.944444444444445
+  }, 
+  "lifeless#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "and#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.6875, 
+    "MeanCon": 5.0
+  }, 
+  "bear#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.4, 
+    "MeanCon": 5.2
+  }, 
+  "win#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 3.555555555555556, 
+    "MeanCon": 5.0
+  }, 
+  "rightful#ADJECTIVE": {
+    "MeanEval": 7.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "weird#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "put#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.25, 
+    "MeanCon": 6.75
+  }, 
+  "always#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0740740740740735, 
+    "MeanCon": 5.0
+  }, 
+  "eider-down#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.875, 
+    "MeanCon": 5.0
+  }, 
+  "keep#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "no_longer#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "gaze#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 8.0, 
+    "MeanCon": 5.0
+  }, 
+  "wicker#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "unmoving#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "nasty#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "once#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.125
+  }, 
+  "abolish#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "house#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.666666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "artful#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "walk#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.25, 
+    "MeanCon": 5.0
+  }, 
+  "princess#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.778947368421052, 
+    "MeanCon": 5.0
+  }, 
+  "small#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.333333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "wedded#ADJECTIVE": {
+    "MeanEval": 6.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "thin#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "soon#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.547169811320755, 
+    "MeanCon": 5.0
+  }, 
+  "specified#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "delightful#ADJECTIVE": {
+    "MeanEval": 5.875, 
+    "MeanAct": 5.375, 
+    "MeanCon": 5.0
+  }, 
+  "cold#ADJECTIVE": {
+    "MeanEval": 4.375, 
+    "MeanAct": 5.375, 
+    "MeanCon": 5.0
+  }, 
+  "still#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.857142857142857, 
+    "MeanCon": 5.0
+  }, 
+  "so#ADVERB": {
+    "MeanEval": 4.946808510638298, 
+    "MeanAct": 5.26595744680851, 
+    "MeanCon": 5.0
+  }, 
+  "rub#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.6, 
+    "MeanCon": 5.0
+  }, 
+  "strip#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "repli#VERB": {
+    "MeanEval": 5.6, 
+    "MeanAct": 4.8, 
+    "MeanCon": 5.0
+  }, 
+  "present#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "merely#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.666666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "soldier#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.533333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "else#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.2, 
+    "MeanCon": 5.0
+  }, 
+  "some#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "boy#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.75, 
+    "MeanCon": 5.0
+  }, 
+  "unjust#ADJECTIVE": {
+    "MeanEval": 2.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "held#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.833333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "spacious#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "dried#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "profound#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "christmas-tree#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.75, 
+    "MeanCon": 5.0
+  }, 
+  "idl#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "detest#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "look#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.3125, 
+    "MeanCon": 4.9625
+  }, 
+  "advice#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "thicken#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "lift#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.25, 
+    "MeanCon": 5.75
+  }, 
+  "pity#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 6.0
+  }, 
+  "exit#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 2.0, 
+    "MeanCon": 4.0
+  }, 
+  "curious#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.4, 
+    "MeanCon": 5.0
+  }, 
+  "giant#NOUN": {
+    "MeanEval": 4.958333333333333, 
+    "MeanAct": 5.5059523809523805, 
+    "MeanCon": 5.053571428571429
+  }, 
+  "prisoner#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "bewail#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.25, 
+    "MeanCon": 5.0
+  }, 
+  "am#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.571428571428571, 
+    "MeanCon": 5.0
+  }, 
+  "chamber#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "race#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.888888888888888, 
+    "MeanCon": 5.0
+  }, 
+  "unimpeachable#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "unlit#ADJECTIVE": {
+    "MeanEval": 3.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "bird#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.185185185185185, 
+    "MeanCon": 5.0
+  }, 
+  "aft#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "charm#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 8.0, 
+    "MeanCon": 5.0
+  }, 
+  "rather#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.6, 
+    "MeanCon": 5.0
+  }, 
+  "unaccustomed#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "forth#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.8181818181818175, 
+    "MeanCon": 5.0
+  }, 
+  "wound#VERB": {
+    "MeanEval": 5.142857142857143, 
+    "MeanAct": 6.2142857142857135, 
+    "MeanCon": 5.0
+  }, 
+  "let#VERB": {
+    "MeanEval": 5.40625, 
+    "MeanAct": 5.65625, 
+    "MeanCon": 5.4375
+  }, 
+  "outer#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "live#VERB": {
+    "MeanEval": 5.363636363636363, 
+    "MeanAct": 5.96969696969697, 
+    "MeanCon": 5.0
+  }, 
+  "softness#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "live#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "ill-natured#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "noisy#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "palm#NOUN": {
+    "MeanEval": 4.333333333333333, 
+    "MeanAct": 6.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "economiz#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "clutter_up#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "plate#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "chromatic#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "slid#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "nonpolitical#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "poor#ADJECTIVE": {
+    "MeanEval": 3.7096774193548394, 
+    "MeanAct": 5.064516129032258, 
+    "MeanCon": 5.0
+  }, 
+  "fold#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "person#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "edge#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.833333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "arriv#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 6.166666666666667, 
+    "MeanCon": 5.833333333333333
+  }, 
+  "knocking#NOUN": {
+    "MeanEval": 5.125, 
+    "MeanAct": 6.75, 
+    "MeanCon": 4.5
+  }, 
+  "confident#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "began#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.833333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "advance#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.8, 
+    "MeanCon": 5.0
+  }, 
+  "stand#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.833333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "looking-glass#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.7, 
+    "MeanCon": 5.0
+  }, 
+  "street-puddle#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "easy#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "ledge#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "armchair#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.833333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "to_a_lesser_extent#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "worn#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "fraction#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "yearlong#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "give#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.75, 
+    "MeanCon": 4.75
+  }, 
+  "leafless#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "like#ADJECTIVE": {
+    "MeanEval": 4.2, 
+    "MeanAct": 5.2, 
+    "MeanCon": 5.0
+  }, 
+  "faint#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "vanish#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.0, 
+    "MeanCon": 5.0
+  }, 
+  "can#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.25, 
+    "MeanCon": 5.0
+  }, 
+  "frost#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.045454545454546, 
+    "MeanCon": 5.0
+  }, 
+  "remarkable#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.8, 
+    "MeanCon": 5.0
+  }, 
+  "roast#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.833333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "mind#NOUN": {
+    "MeanEval": 5.25, 
+    "MeanAct": 6.25, 
+    "MeanCon": 5.0
+  }, 
+  "each#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "me#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.571428571428571, 
+    "MeanCon": 5.0
+  }, 
+  "trespassers#NOUN": {
+    "MeanEval": 2.5, 
+    "MeanAct": 6.166666666666667, 
+    "MeanCon": 7.5
+  }, 
+  "ready#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "downwards#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "rest#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "awe#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.333333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "dusty#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "number#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.666666666666667, 
+    "MeanCon": 4.777777777777778
+  }, 
+  "nonspeaking#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "task#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.75, 
+    "MeanCon": 5.0
+  }, 
+  "occult#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "concealed#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "challeng#VERB": {
+    "MeanEval": 6.111111111111112, 
+    "MeanAct": 5.888888888888888, 
+    "MeanCon": 7.222222222222222
+  }, 
+  "dishonorable#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "wiser#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "partially#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "chamberlain#NOUN": {
+    "MeanEval": 5.2, 
+    "MeanAct": 4.8, 
+    "MeanCon": 4.4
+  }, 
+  "cry#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.25, 
+    "MeanCon": 5.0
+  }, 
+  "seiz#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "able#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.181818181818182, 
+    "MeanCon": 5.0
+  }, 
+  "saw#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.898305084745763, 
+    "MeanCon": 5.0
+  }, 
+  "ugly#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "sparkl#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "half-burnt#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "picture#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.5, 
+    "MeanCon": 5.0
+  }, 
+  "trichromatic#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "stood#VERB": {
+    "MeanEval": 5.1, 
+    "MeanAct": 5.55, 
+    "MeanCon": 5.0
+  }, 
+  "autumn#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.357142857142857, 
+    "MeanCon": 5.0
+  }, 
+  "pattern#NOUN": {
+    "MeanEval": 4.857142857142857, 
+    "MeanAct": 5.428571428571429, 
+    "MeanCon": 5.0
+  }, 
+  "uncertain#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "idle#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "crept#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5625, 
+    "MeanCon": 5.0
+  }, 
+  "world#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.666666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "reduced#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "near#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.222222222222222, 
+    "MeanCon": 5.0
+  }, 
+  "hardly#ADVERB": {
+    "MeanEval": 4.5, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.5
+  }, 
+  "safe#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "imperial#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.2, 
+    "MeanCon": 5.4
+  }, 
+  "thank#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "angel#NOUN": {
+    "MeanEval": 5.5, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "with#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "slay#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.333333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "waking#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "uncas#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "attendant#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.6, 
+    "MeanCon": 5.0
+  }, 
+  "nod#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.6, 
+    "MeanCon": 5.0
+  }, 
+  "weavers#ADJECTIVE": {
+    "MeanEval": 4.6, 
+    "MeanAct": 4.8, 
+    "MeanCon": 4.6
+  }, 
+  "kings#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "rugged#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 4.0
+  }, 
+  "little#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.654088050314464, 
+    "MeanCon": 4.949685534591195
+  }, 
+  "well-situated#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "pull#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "fearless#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "life#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "garden#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.615942028985506, 
+    "MeanCon": 5.0
+  }, 
+  "best#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "pillow#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "better#ADVERB": {
+    "MeanEval": 4.857142857142857, 
+    "MeanAct": 4.571428571428571, 
+    "MeanCon": 5.0
+  }, 
+  "beat#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 8.0, 
+    "MeanCon": 2.0
+  }, 
+  "appointment#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.8, 
+    "MeanCon": 5.0
+  }, 
+  "perspicacious#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "upstairs#ADJECTIVE": {
+    "MeanEval": 1.0, 
+    "MeanAct": 2.0, 
+    "MeanCon": 4.0
+  }, 
+  "overeager#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "when#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "splendid#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "pair#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.5, 
+    "MeanCon": 5.0
+  }, 
+  "hot#ADJECTIVE": {
+    "MeanEval": 6.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "that#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "nightly#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "joke#NOUN": {
+    "MeanEval": 7.555555555555555, 
+    "MeanAct": 6.222222222222222, 
+    "MeanCon": 5.0
+  }, 
+  "husband#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "close#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.375, 
+    "MeanCon": 5.0
+  }, 
+  "flutter#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "sleeping#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "moderate#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "preadolescent#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "clear#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "put#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.623655913978495, 
+    "MeanCon": 5.268817204301075
+  }, 
+  "lose#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.75, 
+    "MeanCon": 5.0
+  }, 
+  "out#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.583333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "visit#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.1875, 
+    "MeanCon": 5.0
+  }, 
+  "must#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.333333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "darkness#NOUN": {
+    "MeanEval": 2.5, 
+    "MeanAct": 4.5, 
+    "MeanCon": 5.0
+  }, 
+  "rainshoot#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "keep#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.181818181818182, 
+    "MeanCon": 5.636363636363637
+  }, 
+  "wash#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "ran#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.774193548387097, 
+    "MeanCon": 5.0
+  }, 
+  "tongued#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "unafraid#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "ambition#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.2, 
+    "MeanCon": 5.8
+  }, 
+  "museum#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.875, 
+    "MeanCon": 5.0
+  }, 
+  "ignor#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "eaten#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "curl#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "inadvisable#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "joyful#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "terribly#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.25, 
+    "MeanCon": 5.0
+  }, 
+  "approval#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.4, 
+    "MeanCon": 5.0
+  }, 
+  "rid_of#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "melt#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 4.5
+  }, 
+  "daytime#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "rose#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.25, 
+    "MeanCon": 5.0
+  }, 
+  "distinguish#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.4, 
+    "MeanCon": 5.0
+  }, 
+  "upstairs#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "heaven#NOUN": {
+    "MeanEval": 2.75, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "end#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.4, 
+    "MeanCon": 5.0
+  }, 
+  "discovered#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "bid#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "blow#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "protector#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "misfortune#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.25, 
+    "MeanCon": 5.0
+  }, 
+  "fast#ADVERB": {
+    "MeanEval": 4.888888888888888, 
+    "MeanAct": 5.888888888888888, 
+    "MeanCon": 5.0
+  }, 
+  "where#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "set#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "spiteful#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.75, 
+    "MeanCon": 5.0
+  }, 
+  "storm#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.125, 
+    "MeanCon": 5.0
+  }, 
+  "said#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.9937888198757765, 
+    "MeanCon": 5.0
+  }, 
+  "broke#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.409090909090909, 
+    "MeanCon": 5.0
+  }, 
+  "forgotten#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.333333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "proved#ADJECTIVE": {
+    "MeanEval": 3.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "straighten#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "late#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.636363636363637, 
+    "MeanCon": 5.0
+  }, 
+  "rich#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.125, 
+    "MeanCon": 5.0
+  }, 
+  "see#VERB": {
+    "MeanEval": 4.534246575342466, 
+    "MeanAct": 5.205479452054794, 
+    "MeanCon": 5.0
+  }, 
+  "soft#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 3.6666666666666665, 
+    "MeanCon": 5.0
+  }, 
+  "colored#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "fast#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "wander#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.7142857142857135, 
+    "MeanCon": 5.0
+  }, 
+  "advisable#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.2, 
+    "MeanCon": 5.0
+  }, 
+  "answered#ADJECTIVE": {
+    "MeanEval": 4.833333333333333, 
+    "MeanAct": 5.083333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "unpleasant#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "worst#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "unsafe#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "pass#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.875, 
+    "MeanCon": 5.0
+  }, 
+  "displeased#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "dangerous#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "sank#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "albescent#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "hedgerow#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "open#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.666666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "game#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.333333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "undertak#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "unlike#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "search#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "rain#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.4375, 
+    "MeanCon": 5.0
+  }, 
+  "stuf#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "ride#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "red#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "toppl#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "angel-wing#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "forgotten#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.666666666666667, 
+    "MeanCon": 4.666666666666667
+  }, 
+  "laughing#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "broken#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.333333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "bed#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "rested#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "wife#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.333333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "cathedral#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.2142857142857135, 
+    "MeanCon": 5.0
+  }, 
+  "one#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "meal#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "lay#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "happen#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.6, 
+    "MeanCon": 5.0
+  }, 
+  "linger#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "forget#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "birth#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "blank_out#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "temperate#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "becam#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.875, 
+    "MeanCon": 5.0
+  }, 
+  "tired#ADJECTIVE": {
+    "MeanEval": 5.125, 
+    "MeanAct": 5.375, 
+    "MeanCon": 5.875
+  }, 
+  "laid#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.45, 
+    "MeanCon": 5.0
+  }, 
+  "naked#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.5, 
+    "MeanCon": 5.0
+  }, 
+  "at#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.9, 
+    "MeanCon": 5.0
+  }, 
+  "sun#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.0, 
+    "MeanCon": 5.0
+  }, 
+  "stupid#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.2, 
+    "MeanCon": 5.0
+  }, 
+  "following#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 8.0, 
+    "MeanCon": 5.0
+  }, 
+  "semipolitical#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "there#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.283783783783784, 
+    "MeanCon": 5.0
+  }, 
+  "political#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "up#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "hall#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.6, 
+    "MeanCon": 5.0
+  }, 
+  "sorry#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "uncoloured#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "grass#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.083333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "shut#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "never#ADVERB": {
+    "MeanEval": 4.890909090909091, 
+    "MeanAct": 5.654545454545454, 
+    "MeanCon": 5.0
+  }, 
+  "finest#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.2, 
+    "MeanCon": 5.2
+  }, 
+  "trap-door#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.25, 
+    "MeanCon": 5.0
+  }, 
+  "prosperous#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "roof#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.571428571428571, 
+    "MeanCon": 5.0
+  }, 
+  "singing#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "men#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.4, 
+    "MeanCon": 5.0
+  }, 
+  "waking#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "upwards#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "dive#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.75, 
+    "MeanCon": 5.0
+  }, 
+  "row#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "think_of#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "drive#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.2, 
+    "MeanCon": 5.0
+  }, 
+  "straw#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "rang#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "get_down#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "confess#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "bitter#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "table-cloth#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "start#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "split#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.0, 
+    "MeanCon": 5.0
+  }, 
+  "doe#NOUN": {
+    "MeanEval": 5.8, 
+    "MeanAct": 4.9, 
+    "MeanCon": 5.1
+  }, 
+  "glitter#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "end#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "year#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.054054054054054, 
+    "MeanCon": 5.0
+  }, 
+  "drink#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "trembl#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "fit#VERB": {
+    "MeanEval": 5.8, 
+    "MeanAct": 5.2, 
+    "MeanCon": 5.0
+  }, 
+  "shone#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.25, 
+    "MeanCon": 5.0
+  }, 
+  "enter#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.0, 
+    "MeanCon": 5.0
+  }, 
+  "displeas#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "slipper#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "consider#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "weaver#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "authority#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "think#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.545454545454546, 
+    "MeanCon": 5.0
+  }, 
+  "stupid#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "twitter#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "jump#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "suited#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "crown#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "same#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.75, 
+    "MeanCon": 5.0
+  }, 
+  "all#ADVERB": {
+    "MeanEval": 4.936507936507937, 
+    "MeanAct": 5.53968253968254, 
+    "MeanCon": 5.0
+  }, 
+  "travel#VERB": {
+    "MeanEval": 3.5, 
+    "MeanAct": 5.1, 
+    "MeanCon": 5.0
+  }, 
+  "play#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "float#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "nonmoving#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "shining#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "receiv#VERB": {
+    "MeanEval": 5.5, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "unthankful#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "march#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.6, 
+    "MeanCon": 5.0
+  }, 
+  "unclean#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "eat#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "pretend#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.111111111111112, 
+    "MeanCon": 5.0
+  }, 
+  "beautiful#ADJECTIVE": {
+    "MeanEval": 4.886363636363637, 
+    "MeanAct": 5.295454545454546, 
+    "MeanCon": 5.0
+  }, 
+  "drop#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "di#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.5, 
+    "MeanCon": 5.0
+  }, 
+  "belong#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "lighter-than-air#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "unhappiness#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "just#ADJECTIVE": {
+    "MeanEval": 7.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "window#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.08, 
+    "MeanCon": 5.0
+  }, 
+  "pleasant#ADJECTIVE": {
+    "MeanEval": 6.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "front#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "hear#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.133333333333334, 
+    "MeanCon": 5.0
+  }, 
+  "bonnet#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.25, 
+    "MeanCon": 5.0
+  }, 
+  "not_able#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "express_mirth#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "light#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "find#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0666666666666655, 
+    "MeanCon": 5.0
+  }, 
+  "sum#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.8, 
+    "MeanCon": 5.0
+  }, 
+  "begin#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "drink#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "disapproval#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "weak#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "carri#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.842105263157896, 
+    "MeanCon": 4.842105263157896
+  }, 
+  "coach#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.333333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "youngest#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "bell#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "drift_off#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "close#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.2, 
+    "MeanCon": 5.0
+  }, 
+  "pea#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.625, 
+    "MeanCon": 5.0
+  }, 
+  "dear#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.25, 
+    "MeanCon": 5.0
+  }, 
+  "spread_out#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "offer#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "queen_regnant#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "assist#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.6, 
+    "MeanCon": 5.0
+  }, 
+  "secure#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "unfold#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "toe#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.125, 
+    "MeanCon": 5.0
+  }, 
+  "dissociat#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "iron#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.5, 
+    "MeanCon": 5.0
+  }, 
+  "told#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.25, 
+    "MeanCon": 5.0
+  }, 
+  "unfairly#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "dress#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.6923076923076925, 
+    "MeanCon": 5.0
+  }, 
+  "amus#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "ecclesiastical#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "discas#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "voice#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.2, 
+    "MeanCon": 5.0
+  }, 
+  "perfume#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "took#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.961538461538462, 
+    "MeanCon": 5.0
+  }, 
+  "rear#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "heat#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.5
+  }, 
+  "alive#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "cover#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "describ#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.4, 
+    "MeanCon": 5.0
+  }, 
+  "slumber#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "death#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "belfry#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "square#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "earth#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "eye#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.451612903225806, 
+    "MeanCon": 5.0
+  }, 
+  "pray#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.25, 
+    "MeanCon": 5.75
+  }, 
+  "really#ADVERB": {
+    "MeanEval": 4.428571428571429, 
+    "MeanAct": 5.142857142857143, 
+    "MeanCon": 4.642857142857143
+  }, 
+  "enchantment#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.25, 
+    "MeanCon": 5.0
+  }, 
+  "care#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.75, 
+    "MeanCon": 5.0
+  }, 
+  "while#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.416666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "light#NOUN": {
+    "MeanEval": 5.285714285714286, 
+    "MeanAct": 4.904761904761905, 
+    "MeanCon": 5.142857142857143
+  }, 
+  "down#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "whisper#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.8, 
+    "MeanCon": 5.0
+  }, 
+  "fit_to#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "ball#NOUN": {
+    "MeanEval": 5.055555555555555, 
+    "MeanAct": 6.166666666666667, 
+    "MeanCon": 5.138888888888888
+  }, 
+  "heel#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.125, 
+    "MeanCon": 5.0
+  }, 
+  "unsure#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "positive#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "happiness#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "straight#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "prayerful#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "attitude#NOUN": {
+    "MeanEval": 4.5, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "land#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "midday#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "there#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "velvety#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 5.0
+  }, 
+  "suppressed#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.0, 
+    "MeanCon": 5.0
+  }, 
+  "brightly#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "grove#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.75, 
+    "MeanCon": 5.0
+  }, 
+  "opposite#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "art#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.666666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "shut#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.833333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "stai#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.083333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "gentle#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "hasten#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.666666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "lead#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "happily#ADVERB": {
+    "MeanEval": 8.5, 
+    "MeanAct": 5.75, 
+    "MeanCon": 5.5
+  }, 
+  "could#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.4, 
+    "MeanCon": 5.0
+  }, 
+  "difficult#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.375, 
+    "MeanCon": 5.0
+  }, 
+  "criticiz#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "rose#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.833333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "projection#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "hand#NOUN": {
+    "MeanEval": 4.890909090909091, 
+    "MeanAct": 5.490909090909091, 
+    "MeanCon": 5.0
+  }, 
+  "underneath#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "hearing#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "empty#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.1, 
+    "MeanCon": 5.0
+  }, 
+  "taper#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "fact#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.2, 
+    "MeanCon": 5.0
+  }, 
+  "pleas#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "more#NOUN": {
+    "MeanEval": 4.4, 
+    "MeanAct": 4.7, 
+    "MeanCon": 4.9
+  }, 
+  "cloak#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.466666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "good#ADJECTIVE": {
+    "MeanEval": 6.206896551724138, 
+    "MeanAct": 5.689655172413793, 
+    "MeanCon": 5.0
+  }, 
+  "sole#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "little_girl#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "remember#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.7142857142857135, 
+    "MeanCon": 5.0
+  }, 
+  "white#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.153846153846153, 
+    "MeanCon": 5.0
+  }, 
+  "misery#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "depart#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "hold#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.0, 
+    "MeanCon": 5.0
+  }, 
+  "carv#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "frenzied#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "very#ADJECTIVE": {
+    "MeanEval": 4.955555555555556, 
+    "MeanAct": 5.311111111111111, 
+    "MeanCon": 5.0
+  }, 
+  "pleasing#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "feet#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "tire#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "profane#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "nestl#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "forward#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "gradually#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "vocal#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "thou#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.666666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "preserv#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "head#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.857142857142857, 
+    "MeanCon": 5.0
+  }, 
+  "virtuous#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "day#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.35, 
+    "MeanCon": 5.0
+  }, 
+  "material#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.4, 
+    "MeanCon": 5.0
+  }, 
+  "fine#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "show-window#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "invit#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "stair#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.25, 
+    "MeanCon": 5.0
+  }, 
+  "ragged#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "kiss#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.666666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "boat#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.333333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "carven#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "call_option#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 3.0
+  }, 
+  "several#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "cabinet#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.2, 
+    "MeanCon": 5.0
+  }, 
+  "soiled#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "up_the_stairs#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "heavy#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "determin#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.625, 
+    "MeanCon": 5.0
+  }, 
+  "magnificent#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.266666666666667, 
+    "MeanCon": 4.933333333333334
+  }, 
+  "faithful#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.25, 
+    "MeanCon": 5.0
+  }, 
+  "stove#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.75, 
+    "MeanCon": 5.0
+  }, 
+  "heard#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.794871794871795, 
+    "MeanCon": 5.0
+  }, 
+  "certainly#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.625, 
+    "MeanCon": 4.25
+  }, 
+  "every_last#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.0, 
+    "MeanCon": 5.0
+  }, 
+  "fair#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "bore#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 3.8333333333333335, 
+    "MeanCon": 5.0
+  }, 
+  "large#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.636363636363637, 
+    "MeanCon": 5.0
+  }, 
+  "joyful#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "far#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "garment#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.8, 
+    "MeanCon": 5.0
+  }, 
+  "woven#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "protected#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "pick_apart#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "insensitive#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "know#VERB": {
+    "MeanEval": 4.679245283018868, 
+    "MeanAct": 5.415094339622642, 
+    "MeanCon": 5.0
+  }, 
+  "urbane#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "influence#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "apple#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "mischance#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "challenge#NOUN": {
+    "MeanEval": 6.0, 
+    "MeanAct": 4.222222222222222, 
+    "MeanCon": 5.444444444444445
+  }, 
+  "conversate#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "flower#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.805555555555555, 
+    "MeanCon": 5.0
+  }, 
+  "sleep#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.625, 
+    "MeanCon": 5.0
+  }, 
+  "loved#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "achromatic#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "demon#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "happy#ADJECTIVE": {
+    "MeanEval": 5.4375, 
+    "MeanAct": 4.8125, 
+    "MeanCon": 5.0
+  }, 
+  "master#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.333333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "bottom#NOUN": {
+    "MeanEval": 4.777777777777778, 
+    "MeanAct": 5.666666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "unbroken#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 2.0, 
+    "MeanCon": 4.0
+  }, 
+  "lustrous#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.0, 
+    "MeanCon": 5.0
+  }, 
+  "thick#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "them#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.555555555555555, 
+    "MeanCon": 5.0
+  }, 
+  "draw_a_blank#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "crackling#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "sight#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.121212121212121, 
+    "MeanCon": 5.0
+  }, 
+  "blossom#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.333333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "cross#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "oclock#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.875, 
+    "MeanCon": 5.0
+  }, 
+  "adult_male#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "threw#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.9, 
+    "MeanCon": 5.0
+  }, 
+  "opinion#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.2, 
+    "MeanCon": 5.0
+  }, 
+  "spoke#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.8, 
+    "MeanCon": 5.0
+  }, 
+  "fight#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "in#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "bought#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "feather#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "middle#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.833333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "ringing#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "impression#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.6, 
+    "MeanCon": 5.0
+  }, 
+  "perceptible#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "unmelodic#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "exceptionally#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.4, 
+    "MeanCon": 5.0
+  }, 
+  "quite#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.868421052631579, 
+    "MeanCon": 5.0
+  }, 
+  "explain#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.4, 
+    "MeanCon": 5.0
+  }, 
+  "said#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.428571428571429, 
+    "MeanCon": 5.0
+  }, 
+  "dressing-room#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.8, 
+    "MeanCon": 5.0
+  }, 
+  "represent#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "fattening#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "hold_on#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "given#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.4, 
+    "MeanCon": 5.0
+  }, 
+  "playground#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.333333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "ly#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.2, 
+    "MeanCon": 5.0
+  }, 
+  "sweetly#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 3.8333333333333335, 
+    "MeanCon": 5.0
+  }, 
+  "longer#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.375, 
+    "MeanCon": 5.0
+  }, 
+  "sparrow#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "shadow#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "got#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.285714285714286, 
+    "MeanCon": 5.0
+  }, 
+  "snowy#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "well-off#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "knew#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.551724137931035, 
+    "MeanCon": 5.0
+  }, 
+  "brother#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "fair#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "lodg#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "lock#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "instead#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 8.0, 
+    "MeanCon": 5.0
+  }, 
+  "arm#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.565217391304348, 
+    "MeanCon": 5.0
+  }, 
+  "notic#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "cri#VERB": {
+    "MeanEval": 4.92, 
+    "MeanAct": 5.88, 
+    "MeanCon": 5.68
+  }, 
+  "tri#VERB": {
+    "MeanEval": 4.555555555555555, 
+    "MeanAct": 5.333333333333333, 
+    "MeanCon": 4.666666666666667
+  }, 
+  "sew#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "part#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.8, 
+    "MeanCon": 5.0
+  }, 
+  "inferior#ADJECTIVE": {
+    "MeanEval": 3.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "dance#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "grey#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "rock-bottom#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "already#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.285714285714286, 
+    "MeanCon": 5.0
+  }, 
+  "snow#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.1, 
+    "MeanCon": 5.0
+  }, 
+  "stuff#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.6, 
+    "MeanCon": 5.0
+  }, 
+  "christma#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "caught#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "reject#VERB": {
+    "MeanEval": 3.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "exaltate#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "casement#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "shout#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "sound#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "flitting#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "whole#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.8, 
+    "MeanCon": 5.4
+  }, 
+  "follow#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.25, 
+    "MeanCon": 5.0
+  }, 
+  "song#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.125, 
+    "MeanCon": 5.0
+  }, 
+  "graven#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "researchable#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "express#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.4, 
+    "MeanCon": 5.0
+  }, 
+  "drowse_off#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "obtain#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.6, 
+    "MeanCon": 5.0
+  }, 
+  "full#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.222222222222222, 
+    "MeanCon": 5.0
+  }, 
+  "spread#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "gold-cloth#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.1, 
+    "MeanCon": 5.0
+  }, 
+  "terminat#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "trumpet#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "unhurt#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "architecture#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "gently#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.333333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "waiting#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "city#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.666666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "evening#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.7333333333333325, 
+    "MeanCon": 5.0
+  }, 
+  "below_the_belt#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "ago#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.6, 
+    "MeanCon": 5.0
+  }, 
+  "myrmecophilous#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "boasting#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.777777777777778, 
+    "MeanCon": 5.0
+  }, 
+  "thing#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.8125, 
+    "MeanCon": 5.0
+  }, 
+  "hate#VERB": {
+    "MeanEval": 3.8333333333333335, 
+    "MeanAct": 4.666666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "tear#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.5, 
+    "MeanCon": 5.0
+  }, 
+  "pigeon#NOUN": {
+    "MeanEval": 4.7142857142857135, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.857142857142857
+  }, 
+  "accustomed#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "stir#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "downward#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "hail#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.111111111111112, 
+    "MeanCon": 5.0
+  }, 
+  "dead#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.5, 
+    "MeanCon": 5.0
+  }, 
+  "message#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "discredit#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "come#VERB": {
+    "MeanEval": 4.872340425531914, 
+    "MeanAct": 5.6382978723404245, 
+    "MeanCon": 5.0
+  }, 
+  "carry#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 7.0
+  }, 
+  "remain#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.5, 
+    "MeanCon": 5.0
+  }, 
+  "burn#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.7142857142857135, 
+    "MeanCon": 5.0
+  }, 
+  "shallow#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "backward#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "ungracefully#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "resid#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.4, 
+    "MeanCon": 5.0
+  }, 
+  "like#VERB": {
+    "MeanEval": 4.64, 
+    "MeanAct": 4.96, 
+    "MeanCon": 5.0
+  }, 
+  "decoupl#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "sick#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "perpendicular#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "sluggish#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 5.0
+  }, 
+  "enchant#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.75, 
+    "MeanCon": 5.0
+  }, 
+  "dish#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.0, 
+    "MeanCon": 5.0
+  }, 
+  "unfaithful#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "progress#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 3.555555555555556, 
+    "MeanCon": 5.0
+  }, 
+  "swindler#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.6, 
+    "MeanCon": 5.0
+  }, 
+  "pearl#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "seen#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "fold#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "sputter#VERB": {
+    "MeanEval": 6.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "preteen#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "that#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.387096774193548, 
+    "MeanCon": 5.0
+  }, 
+  "interest#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 4.0
+  }, 
+  "course#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "well#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.4, 
+    "MeanCon": 5.0
+  }, 
+  "possess#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.4, 
+    "MeanCon": 5.0
+  }, 
+  "plod#VERB": {
+    "MeanEval": 5.888888888888888, 
+    "MeanAct": 6.222222222222222, 
+    "MeanCon": 5.111111111111112
+  }, 
+  "boil#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 2.0, 
+    "MeanCon": 4.0
+  }, 
+  "brass#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.5, 
+    "MeanCon": 5.0
+  }, 
+  "glorious#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.0, 
+    "MeanCon": 5.0
+  }, 
+  "merchant#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "shelter#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "laze#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "veil#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.5, 
+    "MeanCon": 5.0
+  }, 
+  "unloving#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "announc#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.6, 
+    "MeanCon": 5.0
+  }, 
+  "heartless#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 8.0, 
+    "MeanCon": 5.0
+  }, 
+  "here#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.6, 
+    "MeanCon": 5.0
+  }, 
+  "and#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "sai#VERB": {
+    "MeanEval": 4.709677419354839, 
+    "MeanAct": 5.064516129032258, 
+    "MeanCon": 5.0
+  }, 
+  "candle#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.571428571428571, 
+    "MeanCon": 5.0
+  }, 
+  "cried#ADJECTIVE": {
+    "MeanEval": 5.5, 
+    "MeanAct": 6.0, 
+    "MeanCon": 4.333333333333333
+  }, 
+  "unattractively#ADVERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "single#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "sightly#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "bare#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.75, 
+    "MeanCon": 5.0
+  }, 
+  "economis#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "convinced#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "contentedly#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.6, 
+    "MeanCon": 5.0
+  }, 
+  "unsuitable#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "dark#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "precious#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.7, 
+    "MeanCon": 5.0
+  }, 
+  "waddled#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 7.0, 
+    "MeanCon": 5.0
+  }, 
+  "baron#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.6, 
+    "MeanCon": 5.0
+  }, 
+  "covered#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "girl#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.333333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "unpolished#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "matche#NOUN": {
+    "MeanEval": 5.833333333333333, 
+    "MeanAct": 6.166666666666667, 
+    "MeanCon": 4.833333333333333
+  }, 
+  "good#NOUN": {
+    "MeanEval": 5.142857142857143, 
+    "MeanAct": 5.285714285714286, 
+    "MeanCon": 5.0
+  }, 
+  "weather#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.25, 
+    "MeanCon": 5.0
+  }, 
+  "wave#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "roam#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.5, 
+    "MeanCon": 5.0
+  }, 
+  "nap#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.111111111111112, 
+    "MeanCon": 5.0
+  }, 
+  "drank#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "wicked#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 6.833333333333333, 
+    "MeanCon": 5.0
+  }, 
+  "mind#VERB": {
+    "MeanEval": 4.5, 
+    "MeanAct": 6.5, 
+    "MeanCon": 4.875
+  }, 
+  "daughter#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "asleep#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "table#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.666666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "hate#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }, 
+  "bat#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "anxiously#ADVERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "superior#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "hung#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.625, 
+    "MeanCon": 5.0
+  }, 
+  "interval#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "at_ease#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "breath#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.166666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "bishop#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "dirty#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 5.0
+  }, 
+  "joyous#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "send#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.9, 
+    "MeanCon": 5.0
+  }, 
+  "sat#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.709677419354839, 
+    "MeanCon": 5.0
+  }, 
+  "thought#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.266666666666667, 
+    "MeanCon": 5.0
+  }, 
+  "battle#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "sour#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "ugliness#NOUN": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 4.0
+  }, 
+  "shoulder#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "exist#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.1, 
+    "MeanCon": 5.0
+  }, 
+  "turn#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 4.8, 
+    "MeanCon": 5.0
+  }, 
+  "eldest#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.6875, 
+    "MeanCon": 5.0
+  }, 
+  "winter#NOUN": {
+    "MeanEval": 4.727272727272728, 
+    "MeanAct": 5.2727272727272725, 
+    "MeanCon": 5.0
+  }, 
+  "front#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "sagacious#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "bedding#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.375, 
+    "MeanCon": 5.0
+  }, 
+  "past#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 5.0, 
+    "MeanCon": 5.0
+  }, 
+  "merriment#NOUN": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.25, 
+    "MeanCon": 5.0
+  }, 
+  "walk-on#ADJECTIVE": {
+    "MeanEval": 4.0, 
+    "MeanAct": 4.0, 
+    "MeanCon": 4.0
+  }, 
+  "save#VERB": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.222222222222222, 
+    "MeanCon": 5.0
+  }, 
+  "loving#ADJECTIVE": {
+    "MeanEval": 5.0, 
+    "MeanAct": 6.0, 
+    "MeanCon": 5.0
+  }, 
+  "married#ADJECTIVE": {
+    "MeanEval": 6.0, 
+    "MeanAct": 5.5, 
+    "MeanCon": 5.0
+  }, 
+  "nod_off#VERB": {
+    "MeanEval": 4.0, 
+    "MeanAct": 3.0, 
+    "MeanCon": 4.0
+  }
+}

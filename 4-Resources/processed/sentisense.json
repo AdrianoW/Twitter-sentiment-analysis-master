@@ -1,0 +1,4745 @@
+{
+  "familiar.a": {
+    "love": 1
+  }, 
+  "sober.a": {
+    "ambiguous": 1
+  }, 
+  "timorously.r": {
+    "fear": 1
+  }, 
+  "admit.v": {
+    "like": 1
+  }, 
+  "museum.n": {
+    "like": 1
+  }, 
+  "gall.v": {
+    "disgust": 1
+  }, 
+  "defeatism.n": {
+    "sadness": 1
+  }, 
+  "disagreement.n": {
+    "disgust": 1
+  }, 
+  "appreciate.v": {
+    "like": 1
+  }, 
+  "berth.n": {
+    "disgust": 1
+  }, 
+  "libido.n": {
+    "like": 1
+  }, 
+  "smugness.n": {
+    "joy": 1
+  }, 
+  "sanguinity.n": {
+    "hope": 1
+  }, 
+  "abhorrence.n": {
+    "disgust": 1
+  }, 
+  "comfortably.r": {
+    "joy": 1
+  }, 
+  "honorable.a": {
+    "like": 1
+  }, 
+  "worryingly.r": {
+    "anger": 1
+  }, 
+  "discontent.v": {
+    "sadness": 1
+  }, 
+  "conviction.n": {
+    "disgust": 1
+  }, 
+  "dump.n": {
+    "disgust": 1
+  }, 
+  "expect.v": {
+    "anticipation": 1
+  }, 
+  "challenge.v": {
+    "fear": 1
+  }, 
+  "challenge.n": {
+    "anticipation": 1
+  }, 
+  "annoy.v": {
+    "disgust": 1
+  }, 
+  "influenza.n": {
+    "fear": 1
+  }, 
+  "dollar.n": {
+    "like": 1
+  }, 
+  "hopelessly.r": {
+    "despair": 1
+  }, 
+  "tenderness.n": {
+    "like": 1
+  }, 
+  "scruple.n": {
+    "anger": 1
+  }, 
+  "timid.a": {
+    "anger": 1
+  }, 
+  "enjoy.v": {
+    "joy": 1
+  }, 
+  "stewing.n": {
+    "anger": 1
+  }, 
+  "abandon.n": {
+    "disgust": 1
+  }, 
+  "refreshment.n": {
+    "anticipation": 1
+  }, 
+  "pornography.n": {
+    "disgust": 1
+  }, 
+  "donor.n": {
+    "hope": 1
+  }, 
+  "throb.v": {
+    "disgust": 1
+  }, 
+  "complacency.n": {
+    "joy": 1
+  }, 
+  "acquit.v": {
+    "hope": 1
+  }, 
+  "direct.a": {
+    "like": 1
+  }, 
+  "joke.v": {
+    "joy": 1
+  }, 
+  "direct.v": {
+    "anticipation": 1
+  }, 
+  "cheerful.a": {
+    "joy": 1
+  }, 
+  "approve.v": {
+    "like": 1
+  }, 
+  "embarrass.v": {
+    "disgust": 1
+  }, 
+  "legal.a": {
+    "like": 1
+  }, 
+  "redecorate.v": {
+    "ambiguous": 1
+  }, 
+  "amok.r": {
+    "disgust": 1
+  }, 
+  "tip.n": {
+    "anticipation": 1
+  }, 
+  "cheer.v": {
+    "joy": 1
+  }, 
+  "masterpiece.n": {
+    "like": 1
+  }, 
+  "indispose.v": {
+    "disgust": 1
+  }, 
+  "enter.v": {
+    "joy": 1
+  }, 
+  "debate.n": {
+    "disgust": 1
+  }, 
+  "horrifyingly.r": {
+    "fear": 1
+  }, 
+  "buck_fever.n": {
+    "ambiguous": 1
+  }, 
+  "anticipation.n": {
+    "anticipation": 1
+  }, 
+  "buy.v": {
+    "like": 1
+  }, 
+  "smile.v": {
+    "like": 1
+  }, 
+  "useless.a": {
+    "disgust": 1
+  }, 
+  "shame.v": {
+    "disgust": 1
+  }, 
+  "disagreeable.a": {
+    "disgust": 1
+  }, 
+  "give_birth.v": {
+    "hope": 1
+  }, 
+  "walk.v": {
+    "anticipation": 1
+  }, 
+  "shame.n": {
+    "disgust": 1
+  }, 
+  "smell.n": {
+    "disgust": 1
+  }, 
+  "family.n": {
+    "like": 1
+  }, 
+  "smell.v": {
+    "disgust": 1
+  }, 
+  "roll.v": {
+    "ambiguous": 1
+  }, 
+  "relief.n": {
+    "like": 1
+  }, 
+  "solve.v": {
+    "like": 1
+  }, 
+  "intolerable.a": {
+    "anger": 1
+  }, 
+  "uncomfortable.a": {
+    "disgust": 1
+  }, 
+  "inconvenience.n": {
+    "disgust": 1
+  }, 
+  "earnestness.n": {
+    "anticipation": 1
+  }, 
+  "movie.n": {
+    "joy": 1
+  }, 
+  "play.n": {
+    "ambiguous": 1
+  }, 
+  "illiterate.a": {
+    "disgust": 1
+  }, 
+  "inhabit.v": {
+    "disgust": 1
+  }, 
+  "loud.a": {
+    "disgust": 1
+  }, 
+  "compunction.n": {
+    "sadness": 1
+  }, 
+  "dangerous.a": {
+    "anger": 1
+  }, 
+  "lovingness.n": {
+    "love": 1
+  }, 
+  "fearfully.r": {
+    "fear": 1
+  }, 
+  "dwelling.n": {
+    "hope": 1
+  }, 
+  "tax.n": {
+    "disgust": 1
+  }, 
+  "colt.n": {
+    "disgust": 1
+  }, 
+  "warmhearted.a": {
+    "love": 1
+  }, 
+  "congratulation.n": {
+    "like": 1
+  }, 
+  "soundproof.v": {
+    "disgust": 1
+  }, 
+  "inadequately.r": {
+    "disgust": 1
+  }, 
+  "central.a": {
+    "like": 1
+  }, 
+  "conventional.a": {
+    "calmness": 1
+  }, 
+  "warmheartedness.n": {
+    "love": 1
+  }, 
+  "thank.v": {
+    "like": 1
+  }, 
+  "induce.v": {
+    "anticipation": 1
+  }, 
+  "embarrassingly.r": {
+    "disgust": 1
+  }, 
+  "mournfulness.n": {
+    "sadness": 1
+  }, 
+  "stimulate.v": {
+    "ambiguous": 1
+  }, 
+  "nearness.n": {
+    "like": 1
+  }, 
+  "interesting.a": {
+    "like": 1
+  }, 
+  "police.n": {
+    "anticipation": 1
+  }, 
+  "display.v": {
+    "anticipation": 1
+  }, 
+  "diffidently.r": {
+    "fear": 1
+  }, 
+  "unloving.a": {
+    "disgust": 1
+  }, 
+  "violent.a": {
+    "disgust": 1
+  }, 
+  "incompatibly.r": {
+    "disgust": 1
+  }, 
+  "animosity.n": {
+    "disgust": 1
+  }, 
+  "uneasy.a": {
+    "anger": 1
+  }, 
+  "enough.r": {
+    "anticipation": 1
+  }, 
+  "defensive.a": {
+    "calmness": 1
+  }, 
+  "beautiful.a": {
+    "like": 1
+  }, 
+  "dysphoric.a": {
+    "sadness": 1
+  }, 
+  "pond.n": {
+    "joy": 1
+  }, 
+  "fiercely.r": {
+    "anticipation": 1
+  }, 
+  "pamper.v": {
+    "like": 1
+  }, 
+  "trepidation.n": {
+    "fear": 1
+  }, 
+  "forlornness.n": {
+    "sadness": 1
+  }, 
+  "reshape.v": {
+    "disgust": 1
+  }, 
+  "unenthusiastically.r": {
+    "sadness": 1
+  }, 
+  "reassure.v": {
+    "calmness": 1
+  }, 
+  "appoint.v": {
+    "disgust": 1
+  }, 
+  "empty.a": {
+    "like": 1
+  }, 
+  "euphoria.n": {
+    "joy": 1
+  }, 
+  "worship.n": {
+    "love": 1
+  }, 
+  "inoffensive.a": {
+    "like": 1
+  }, 
+  "hostility.n": {
+    "disgust": 1
+  }, 
+  "jewel.n": {
+    "like": 1
+  }, 
+  "attention.n": {
+    "ambiguous": 1
+  }, 
+  "unsatisfactorily.r": {
+    "sadness": 1
+  }, 
+  "incompatible.a": {
+    "disgust": 1
+  }, 
+  "inventor.n": {
+    "anticipation": 1
+  }, 
+  "cover_girl.n": {
+    "love": 1
+  }, 
+  "hard.a": {
+    "disgust": 1
+  }, 
+  "heavyheartedness.n": {
+    "sadness": 1
+  }, 
+  "hail.n": {
+    "disgust": 1
+  }, 
+  "lawgiver.n": {
+    "anticipation": 1
+  }, 
+  "overhaul.v": {
+    "like": 1
+  }, 
+  "discouraging.a": {
+    "despair": 1
+  }, 
+  "infamy.n": {
+    "disgust": 1
+  }, 
+  "comedy.n": {
+    "joy": 1
+  }, 
+  "hand-held.a": {
+    "disgust": 1
+  }, 
+  "touch.v": {
+    "ambiguous": 1
+  }, 
+  "guilt.n": {
+    "sadness": 1
+  }, 
+  "quiet.a": {
+    "like": 1
+  }, 
+  "endanger.v": {
+    "fear": 1
+  }, 
+  "hopefulness.n": {
+    "hope": 1
+  }, 
+  "dishonorable.a": {
+    "disgust": 1
+  }, 
+  "sewage.n": {
+    "disgust": 1
+  }, 
+  "proper.a": {
+    "anticipation": 1
+  }, 
+  "dishearten.v": {
+    "sadness": 1
+  }, 
+  "threaten.v": {
+    "fear": 1
+  }, 
+  "coarse.a": {
+    "disgust": 1
+  }, 
+  "scam.n": {
+    "disgust": 1
+  }, 
+  "intrusive.a": {
+    "disgust": 1
+  }, 
+  "warning.n": {
+    "fear": 1
+  }, 
+  "reasonable.a": {
+    "like": 1
+  }, 
+  "titillation.n": {
+    "joy": 1
+  }, 
+  "lean.a": {
+    "disgust": 1
+  }, 
+  "panic.n": {
+    "fear": 1
+  }, 
+  "beneficent.a": {
+    "love": 1
+  }, 
+  "gloat.n": {
+    "joy": 1
+  }, 
+  "complex.n": {
+    "disgust": 1
+  }, 
+  "suffocate.v": {
+    "fear": 1
+  }, 
+  "panic.v": {
+    "fear": 1
+  }, 
+  "sink.n": {
+    "disgust": 1
+  }, 
+  "argument.n": {
+    "disgust": 1
+  }, 
+  "contest.n": {
+    "ambiguous": 1
+  }, 
+  "hang.v": {
+    "fear": 1
+  }, 
+  "opening.n": {
+    "disgust": 1
+  }, 
+  "fantasy.n": {
+    "anticipation": 1
+  }, 
+  "unprovocative.a": {
+    "disgust": 1
+  }, 
+  "administrator.n": {
+    "like": 1
+  }, 
+  "break_down.v": {
+    "hate": 1
+  }, 
+  "headliner.n": {
+    "like": 1
+  }, 
+  "joyful.a": {
+    "joy": 1
+  }, 
+  "great.n": {
+    "like": 1
+  }, 
+  "independent.a": {
+    "anticipation": 1
+  }, 
+  "steal.v": {
+    "disgust": 1
+  }, 
+  "nonfatal.a": {
+    "calmness": 1
+  }, 
+  "coma.n": {
+    "fear": 1
+  }, 
+  "magistrate.n": {
+    "disgust": 1
+  }, 
+  "surprised.a": {
+    "surprise": 1
+  }, 
+  "restrict.v": {
+    "disgust": 1
+  }, 
+  "confusedly.r": {
+    "disgust": 1
+  }, 
+  "overcharge.v": {
+    "disgust": 1
+  }, 
+  "harassment.n": {
+    "disgust": 1
+  }, 
+  "elaborate.v": {
+    "anticipation": 1
+  }, 
+  "belligerence.n": {
+    "disgust": 1
+  }, 
+  "exhilarate.v": {
+    "joy": 1
+  }, 
+  "living.n": {
+    "joy": 1
+  }, 
+  "artificial.a": {
+    "disgust": 1
+  }, 
+  "eagerly.r": {
+    "joy": 1
+  }, 
+  "cartoon.n": {
+    "joy": 1
+  }, 
+  "efficient.a": {
+    "like": 1
+  }, 
+  "shamefacedness.n": {
+    "disgust": 1
+  }, 
+  "antipathy.n": {
+    "disgust": 1
+  }, 
+  "plant.n": {
+    "like": 1
+  }, 
+  "discontentment.n": {
+    "sadness": 1
+  }, 
+  "seriously.r": {
+    "anticipation": 1
+  }, 
+  "plaintiveness.n": {
+    "sadness": 1
+  }, 
+  "emergency.n": {
+    "fear": 1
+  }, 
+  "design.n": {
+    "like": 1
+  }, 
+  "joyless.a": {
+    "joy": 1
+  }, 
+  "placidity.n": {
+    "calmness": 1
+  }, 
+  "sleep.n": {
+    "like": 1
+  }, 
+  "empathy.n": {
+    "like": 1
+  }, 
+  "inconvenient.a": {
+    "disgust": 1
+  }, 
+  "protest.n": {
+    "disgust": 1
+  }, 
+  "balcony.n": {
+    "like": 1
+  }, 
+  "nonviolent.a": {
+    "like": 1
+  }, 
+  "view.n": {
+    "like": 1
+  }, 
+  "rend.v": {
+    "fear": 1
+  }, 
+  "lose.v": {
+    "disgust": 1
+  }, 
+  "discontinue.v": {
+    "disgust": 1
+  }, 
+  "whaler.n": {
+    "disgust": 1
+  }, 
+  "defeat.n": {
+    "sadness": 1
+  }, 
+  "conscience.n": {
+    "disgust": 1
+  }, 
+  "noise.n": {
+    "disgust": 1
+  }, 
+  "buoyancy.n": {
+    "joy": 1
+  }, 
+  "confine.v": {
+    "disgust": 1
+  }, 
+  "poor_people.n": {
+    "disgust": 1
+  }, 
+  "exacerbate.v": {
+    "disgust": 1
+  }, 
+  "arousal.n": {
+    "love": 1
+  }, 
+  "pleased.a": {
+    "like": 1
+  }, 
+  "luminosity.n": {
+    "like": 1
+  }, 
+  "absolve.v": {
+    "like": 1
+  }, 
+  "perfectly.r": {
+    "like": 1
+  }, 
+  "cheerlessly.r": {
+    "sadness": 1
+  }, 
+  "kid.v": {
+    "joy": 1
+  }, 
+  "traffic.n": {
+    "disgust": 1
+  }, 
+  "simple.a": {
+    "anticipation": 1
+  }, 
+  "misconstrue.v": {
+    "disgust": 1
+  }, 
+  "attack.v": {
+    "fear": 1
+  }, 
+  "vacuum.v": {
+    "like": 1
+  }, 
+  "belligerently.r": {
+    "disgust": 1
+  }, 
+  "attack.n": {
+    "fear": 1
+  }, 
+  "insurgent.n": {
+    "sadness": 1
+  }, 
+  "joke.n": {
+    "ambiguous": 1
+  }, 
+  "sweet.a": {
+    "like": 1
+  }, 
+  "bury.v": {
+    "sadness": 1
+  }, 
+  "craziness.n": {
+    "fear": 1
+  }, 
+  "insect.n": {
+    "disgust": 1
+  }, 
+  "raise.v": {
+    "disgust": 1
+  }, 
+  "secure.a": {
+    "anticipation": 1
+  }, 
+  "lengthen.v": {
+    "like": 1
+  }, 
+  "umbrage.n": {
+    "disgust": 1
+  }, 
+  "compatibly.r": {
+    "like": 1
+  }, 
+  "realistic.a": {
+    "like": 1
+  }, 
+  "regard.n": {
+    "love": 1
+  }, 
+  "preen.v": {
+    "joy": 1
+  }, 
+  "ideal.n": {
+    "love": 1
+  }, 
+  "cheerfulness.n": {
+    "joy": 1
+  }, 
+  "sexual_activity.n": {
+    "joy": 1
+  }, 
+  "skid.v": {
+    "disgust": 1
+  }, 
+  "negociate.v": {
+    "anticipation": 1
+  }, 
+  "freeze.v": {
+    "disgust": 1
+  }, 
+  "hilariously.r": {
+    "joy": 1
+  }, 
+  "dolefulness.n": {
+    "sadness": 1
+  }, 
+  "sensitivity.n": {
+    "disgust": 1
+  }, 
+  "hope.n": {
+    "hope": 1
+  }, 
+  "hope.v": {
+    "hope": 1
+  }, 
+  "fun.n": {
+    "joy": 1
+  }, 
+  "freeze.n": {
+    "disgust": 1
+  }, 
+  "gratifyingly.r": {
+    "joy": 1
+  }, 
+  "prostitute.v": {
+    "disgust": 1
+  }, 
+  "insanely.r": {
+    "disgust": 1
+  }, 
+  "satisfaction.n": {
+    "joy": 1
+  }, 
+  "victory.n": {
+    "joy": 1
+  }, 
+  "remedy.n": {
+    "hope": 1
+  }, 
+  "prostitute.n": {
+    "disgust": 1
+  }, 
+  "pleasure.n": {
+    "like": 1
+  }, 
+  "encouragement.n": {
+    "hope": 1
+  }, 
+  "dolefully.r": {
+    "sadness": 1
+  }, 
+  "get_down.v": {
+    "anticipation": 1
+  }, 
+  "resign.v": {
+    "sadness": 1
+  }, 
+  "price.n": {
+    "disgust": 1
+  }, 
+  "star.n": {
+    "like": 1
+  }, 
+  "negative.a": {
+    "hate": 1
+  }, 
+  "aggravation.n": {
+    "disgust": 1
+  }, 
+  "softhearted.a": {
+    "like": 1
+  }, 
+  "beat.v": {
+    "fear": 1
+  }, 
+  "compatibility.n": {
+    "like": 1
+  }, 
+  "distressfully.r": {
+    "anger": 1
+  }, 
+  "functionally.r": {
+    "like": 1
+  }, 
+  "insecurity.n": {
+    "anger": 1
+  }, 
+  "patiently.r": {
+    "calmness": 1
+  }, 
+  "mournfully.r": {
+    "sadness": 1
+  }, 
+  "luxury.n": {
+    "love": 1
+  }, 
+  "smuggling.n": {
+    "disgust": 1
+  }, 
+  "weakly.r": {
+    "disgust": 1
+  }, 
+  "condom.n": {
+    "calmness": 1
+  }, 
+  "anxiety.n": {
+    "anger": 1
+  }, 
+  "unpleasant.a": {
+    "disgust": 1
+  }, 
+  "cruelly.r": {
+    "fear": 1
+  }, 
+  "manually.r": {
+    "disgust": 1
+  }, 
+  "turkey.n": {
+    "fear": 1
+  }, 
+  "private.a": {
+    "like": 1
+  }, 
+  "preference.n": {
+    "like": 1
+  }, 
+  "idle.a": {
+    "calmness": 1
+  }, 
+  "damp.n": {
+    "disgust": 1
+  }, 
+  "hero_worship.n": {
+    "like": 1
+  }, 
+  "downheartedness.n": {
+    "sadness": 1
+  }, 
+  "unassertive.a": {
+    "anger": 1
+  }, 
+  "sweat.v": {
+    "disgust": 1
+  }, 
+  "sicken.v": {
+    "disgust": 1
+  }, 
+  "improvement.n": {
+    "disgust": 1
+  }, 
+  "surprisedly.r": {
+    "surprise": 1
+  }, 
+  "military_personnel.n": {
+    "fear": 1
+  }, 
+  "advantage.n": {
+    "like": 1
+  }, 
+  "blow.v": {
+    "disgust": 1
+  }, 
+  "terribly.r": {
+    "hate": 1
+  }, 
+  "offense.n": {
+    "fear": 1
+  }, 
+  "gloatingly.r": {
+    "joy": 1
+  }, 
+  "fearlessness.n": {
+    "calmness": 1
+  }, 
+  "condemn.v": {
+    "disgust": 1
+  }, 
+  "urge.v": {
+    "anger": 1
+  }, 
+  "care.n": {
+    "anticipation": 1
+  }, 
+  "collision.n": {
+    "sadness": 1
+  }, 
+  "model.n": {
+    "like": 1
+  }, 
+  "appliance.n": {
+    "like": 1
+  }, 
+  "surprisingly.r": {
+    "surprise": 1
+  }, 
+  "ungratefully.r": {
+    "disgust": 1
+  }, 
+  "lover.n": {
+    "love": 1
+  }, 
+  "affection.n": {
+    "love": 1
+  }, 
+  "flightiness.n": {
+    "surprise": 1
+  }, 
+  "observe.v": {
+    "like": 1
+  }, 
+  "ready.a": {
+    "like": 1
+  }, 
+  "identify.v": {
+    "like": 1
+  }, 
+  "sinking.n": {
+    "anger": 1
+  }, 
+  "comfort.n": {
+    "like": 1
+  }, 
+  "abhor.v": {
+    "disgust": 1
+  }, 
+  "misogyny.n": {
+    "disgust": 1
+  }, 
+  "self-disgust.n": {
+    "disgust": 1
+  }, 
+  "beneficence.n": {
+    "love": 1
+  }, 
+  "space.n": {
+    "anticipation": 1
+  }, 
+  "fire.n": {
+    "fear": 1
+  }, 
+  "retaliation.n": {
+    "fear": 1
+  }, 
+  "unfriendliness.n": {
+    "disgust": 1
+  }, 
+  "oklahoma.n": {
+    "like": 1
+  }, 
+  "unfavorably.r": {
+    "disgust": 1
+  }, 
+  "progress.n": {
+    "anticipation": 1
+  }, 
+  "treaty.n": {
+    "anticipation": 1
+  }, 
+  "contentment.n": {
+    "joy": 1
+  }, 
+  "satisfactorily.r": {
+    "joy": 1
+  }, 
+  "sanely.r": {
+    "like": 1
+  }, 
+  "dejected.a": {
+    "sadness": 1
+  }, 
+  "diffidence.n": {
+    "fear": 1
+  }, 
+  "fortunate.a": {
+    "joy": 1
+  }, 
+  "urine.n": {
+    "disgust": 1
+  }, 
+  "smash.v": {
+    "anger": 1
+  }, 
+  "stir.n": {
+    "ambiguous": 1
+  }, 
+  "hell.n": {
+    "fear": 1
+  }, 
+  "award.n": {
+    "like": 1
+  }, 
+  "comfort.v": {
+    "hope": 1
+  }, 
+  "inaccuracy.n": {
+    "disgust": 1
+  }, 
+  "worn.a": {
+    "disgust": 1
+  }, 
+  "amazingly.r": {
+    "surprise": 1
+  }, 
+  "nonalignment.n": {
+    "disgust": 1
+  }, 
+  "pessimism.n": {
+    "despair": 1
+  }, 
+  "unsympathetically.r": {
+    "disgust": 1
+  }, 
+  "gloomily.r": {
+    "sadness": 1
+  }, 
+  "impossible.a": {
+    "disgust": 1
+  }, 
+  "advice.n": {
+    "anticipation": 1
+  }, 
+  "beneficially.r": {
+    "love": 1
+  }, 
+  "wrathfully.r": {
+    "disgust": 1
+  }, 
+  "whiplash.n": {
+    "disgust": 1
+  }, 
+  "cheerfully.r": {
+    "joy": 1
+  }, 
+  "romantic.a": {
+    "love": 1
+  }, 
+  "sadden.v": {
+    "sadness": 1
+  }, 
+  "misfortune.n": {
+    "disgust": 1
+  }, 
+  "attentive.a": {
+    "like": 1
+  }, 
+  "reverence.v": {
+    "fear": 1
+  }, 
+  "democrat.n": {
+    "hope": 1
+  }, 
+  "fresh.a": {
+    "like": 1
+  }, 
+  "wake.v": {
+    "disgust": 1
+  }, 
+  "depress.v": {
+    "sadness": 1
+  }, 
+  "impound.v": {
+    "disgust": 1
+  }, 
+  "approval.n": {
+    "like": 1
+  }, 
+  "probability.n": {
+    "hope": 1
+  }, 
+  "action.v": {
+    "disgust": 1
+  }, 
+  "profit.v": {
+    "like": 1
+  }, 
+  "repel.v": {
+    "disgust": 1
+  }, 
+  "fawn.v": {
+    "fear": 1
+  }, 
+  "gravity.n": {
+    "fear": 1
+  }, 
+  "chew_over.v": {
+    "hope": 1
+  }, 
+  "benevolence.n": {
+    "love": 1
+  }, 
+  "awe.v": {
+    "surprise": 1
+  }, 
+  "stunt.n": {
+    "surprise": 1
+  }, 
+  "resentfully.r": {
+    "disgust": 1
+  }, 
+  "accommodating.a": {
+    "like": 1
+  }, 
+  "record.v": {
+    "like": 1
+  }, 
+  "abashment.n": {
+    "disgust": 1
+  }, 
+  "captivation.n": {
+    "like": 1
+  }, 
+  "storm.n": {
+    "disgust": 1
+  }, 
+  "extremist.n": {
+    "disgust": 1
+  }, 
+  "easy.a": {
+    "calmness": 1
+  }, 
+  "wary.a": {
+    "anticipation": 1
+  }, 
+  "shudder.v": {
+    "fear": 1
+  }, 
+  "brotherly.a": {
+    "like": 1
+  }, 
+  "affect.v": {
+    "love": 1
+  }, 
+  "unneurotic.a": {
+    "calmness": 1
+  }, 
+  "unregretful.a": {
+    "joy": 1
+  }, 
+  "nasty.a": {
+    "disgust": 1
+  }, 
+  "tolerable.a": {
+    "calmness": 1
+  }, 
+  "gratefulness.n": {
+    "like": 1
+  }, 
+  "ashamed.a": {
+    "disgust": 1
+  }, 
+  "sympathetically.r": {
+    "like": 1
+  }, 
+  "infuriate.v": {
+    "disgust": 1
+  }, 
+  "complain.v": {
+    "sadness": 1
+  }, 
+  "mummy.n": {
+    "ambiguous": 1
+  }, 
+  "softheartedness.n": {
+    "like": 1
+  }, 
+  "bollywood.n": {
+    "surprise": 1
+  }, 
+  "admire.v": {
+    "like": 1
+  }, 
+  "show.n": {
+    "joy": 1
+  }, 
+  "cleverly.r": {
+    "like": 1
+  }, 
+  "cry.v": {
+    "sadness": 1
+  }, 
+  "knife.v": {
+    "fear": 1
+  }, 
+  "demoralization.n": {
+    "sadness": 1
+  }, 
+  "censure.n": {
+    "disgust": 1
+  }, 
+  "exult.v": {
+    "joy": 1
+  }, 
+  "gladden.v": {
+    "joy": 1
+  }, 
+  "survivor.n": {
+    "anticipation": 1
+  }, 
+  "sympathy.n": {
+    "like": 1
+  }, 
+  "chant.v": {
+    "like": 1
+  }, 
+  "win.v": {
+    "like": 1
+  }, 
+  "ebulliently.r": {
+    "joy": 1
+  }, 
+  "refreshingly.r": {
+    "like": 1
+  }, 
+  "bad_temper.n": {
+    "disgust": 1
+  }, 
+  "minimal.a": {
+    "disgust": 1
+  }, 
+  "acquittal.n": {
+    "like": 1
+  }, 
+  "shoot.v": {
+    "fear": 1
+  }, 
+  "refuse.v": {
+    "disgust": 1
+  }, 
+  "frighten.v": {
+    "fear": 1
+  }, 
+  "dare.n": {
+    "ambiguous": 1
+  }, 
+  "please.v": {
+    "like": 1
+  }, 
+  "good.a": {
+    "like": 1
+  }, 
+  "crime.n": {
+    "fear": 1
+  }, 
+  "cripple.n": {
+    "sadness": 1
+  }, 
+  "decapitation.n": {
+    "fear": 1
+  }, 
+  "free.v": {
+    "like": 1
+  }, 
+  "bite.v": {
+    "disgust": 1
+  }, 
+  "jocundity.n": {
+    "joy": 1
+  }, 
+  "crash.n": {
+    "fear": 1
+  }, 
+  "revenge.v": {
+    "fear": 1
+  }, 
+  "dignity.n": {
+    "anticipation": 1
+  }, 
+  "free.a": {
+    "like": 1
+  }, 
+  "free.n": {
+    "like": 1
+  }, 
+  "disinclination.n": {
+    "disgust": 1
+  }, 
+  "hate.v": {
+    "disgust": 1
+  }, 
+  "elation.n": {
+    "joy": 1
+  }, 
+  "pickpocket.n": {
+    "fear": 1
+  }, 
+  "dab.n": {
+    "like": 1
+  }, 
+  "legislator.n": {
+    "anticipation": 1
+  }, 
+  "hate.n": {
+    "disgust": 1
+  }, 
+  "insane.a": {
+    "disgust": 1
+  }, 
+  "keenly.r": {
+    "like": 1
+  }, 
+  "young.a": {
+    "like": 1
+  }, 
+  "slippery.a": {
+    "fear": 1
+  }, 
+  "warm.a": {
+    "like": 1
+  }, 
+  "blizzard.n": {
+    "fear": 1
+  }, 
+  "suck.v": {
+    "disgust": 1
+  }, 
+  "warm.v": {
+    "like": 1
+  }, 
+  "center.n": {
+    "anticipation": 1
+  }, 
+  "close.a": {
+    "like": 1
+  }, 
+  "huffily.r": {
+    "disgust": 1
+  }, 
+  "thin.a": {
+    "like": 1
+  }, 
+  "uneager.a": {
+    "sadness": 1
+  }, 
+  "jail.n": {
+    "sadness": 1
+  }, 
+  "slaughter.n": {
+    "sadness": 1
+  }, 
+  "cleanness.n": {
+    "like": 1
+  }, 
+  "unfriendly.a": {
+    "disgust": 1
+  }, 
+  "gleefully.r": {
+    "joy": 1
+  }, 
+  "overboard.r": {
+    "disgust": 1
+  }, 
+  "new_york.n": {
+    "like": 1
+  }, 
+  "drench.v": {
+    "disgust": 1
+  }, 
+  "imperfect.a": {
+    "disgust": 1
+  }, 
+  "laugh.v": {
+    "joy": 1
+  }, 
+  "mystery.n": {
+    "surprise": 1
+  }, 
+  "shadow.n": {
+    "fear": 1
+  }, 
+  "offer.v": {
+    "like": 1
+  }, 
+  "indict.v": {
+    "sadness": 1
+  }, 
+  "cleaning.n": {
+    "like": 1
+  }, 
+  "besot.v": {
+    "surprise": 1
+  }, 
+  "misanthropy.n": {
+    "disgust": 1
+  }, 
+  "government.n": {
+    "disgust": 1
+  }, 
+  "work.v": {
+    "anticipation": 1
+  }, 
+  "fatal.a": {
+    "fear": 1
+  }, 
+  "patient.a": {
+    "calmness": 1
+  }, 
+  "agitation.n": {
+    "ambiguous": 1
+  }, 
+  "contented.a": {
+    "joy": 1
+  }, 
+  "exciting.a": {
+    "joy": 1
+  }, 
+  "busy.a": {
+    "anger": 1
+  }, 
+  "projectile.n": {
+    "fear": 1
+  }, 
+  "inefficacious.a": {
+    "disgust": 1
+  }, 
+  "worth.n": {
+    "like": 1
+  }, 
+  "pay.v": {
+    "disgust": 1
+  }, 
+  "nuclear.a": {
+    "fear": 1
+  }, 
+  "discouragement.n": {
+    "sadness": 1
+  }, 
+  "security.n": {
+    "calmness": 1
+  }, 
+  "accurately.r": {
+    "disgust": 1
+  }, 
+  "extradite.v": {
+    "fear": 1
+  }, 
+  "appropriate.a": {
+    "like": 1
+  }, 
+  "true.a": {
+    "like": 1
+  }, 
+  "resentful.a": {
+    "disgust": 1
+  }, 
+  "fatalist.a": {
+    "disgust": 1
+  }, 
+  "adieu.n": {
+    "sadness": 1
+  }, 
+  "unangry.a": {
+    "like": 1
+  }, 
+  "grant.n": {
+    "anticipation": 1
+  }, 
+  "son.n": {
+    "love": 1
+  }, 
+  "radiance.n": {
+    "like": 1
+  }, 
+  "grieve.v": {
+    "sadness": 1
+  }, 
+  "blaze.n": {
+    "fear": 1
+  }, 
+  "wallow.v": {
+    "joy": 1
+  }, 
+  "irritate.v": {
+    "hate": 1
+  }, 
+  "displease.v": {
+    "disgust": 1
+  }, 
+  "shine.v": {
+    "like": 1
+  }, 
+  "appropriate.v": {
+    "fear": 1
+  }, 
+  "heartlessness.n": {
+    "fear": 1
+  }, 
+  "illegal.a": {
+    "disgust": 1
+  }, 
+  "succeed.v": {
+    "like": 1
+  }, 
+  "stomp.n": {
+    "anticipation": 1
+  }, 
+  "handiness.n": {
+    "like": 1
+  }, 
+  "indirect.a": {
+    "disgust": 1
+  }, 
+  "deny.v": {
+    "disgust": 1
+  }, 
+  "despondency.n": {
+    "sadness": 1
+  }, 
+  "sorrow.n": {
+    "sadness": 1
+  }, 
+  "grumble.n": {
+    "disgust": 1
+  }, 
+  "enthusiastic.a": {
+    "joy": 1
+  }, 
+  "farce.n": {
+    "ambiguous": 1
+  }, 
+  "cynicism.n": {
+    "sadness": 1
+  }, 
+  "covetousness.n": {
+    "disgust": 1
+  }, 
+  "decoration.n": {
+    "like": 1
+  }, 
+  "disgust.v": {
+    "disgust": 1
+  }, 
+  "disgust.n": {
+    "disgust": 1
+  }, 
+  "failure.n": {
+    "disgust": 1
+  }, 
+  "joyous.a": {
+    "joy": 1
+  }, 
+  "kindly.r": {
+    "like": 1
+  }, 
+  "heat.v": {
+    "anger": 1
+  }, 
+  "bug.n": {
+    "disgust": 1
+  }, 
+  "expectantly.r": {
+    "ambiguous": 1
+  }, 
+  "efficaciously.r": {
+    "anticipation": 1
+  }, 
+  "gratification.n": {
+    "joy": 1
+  }, 
+  "equip.v": {
+    "like": 1
+  }, 
+  "still.v": {
+    "calmness": 1
+  }, 
+  "efficacious.a": {
+    "anticipation": 1
+  }, 
+  "cold.a": {
+    "disgust": 1
+  }, 
+  "funeral.n": {
+    "sadness": 1
+  }, 
+  "cleanse.v": {
+    "like": 1
+  }, 
+  "prize.n": {
+    "like": 1
+  }, 
+  "regretful.a": {
+    "sadness": 1
+  }, 
+  "toll.n": {
+    "disgust": 1
+  }, 
+  "right.a": {
+    "like": 1
+  }, 
+  "disabled.n": {
+    "sadness": 1
+  }, 
+  "importance.n": {
+    "anticipation": 1
+  }, 
+  "right.n": {
+    "anticipation": 1
+  }, 
+  "oppression.n": {
+    "sadness": 1
+  }, 
+  "dead.a": {
+    "sadness": 1
+  }, 
+  "dead.n": {
+    "sadness": 1
+  }, 
+  "neurotic.a": {
+    "anger": 1
+  }, 
+  "wrath.n": {
+    "disgust": 1
+  }, 
+  "prince.n": {
+    "like": 1
+  }, 
+  "ungrateful.a": {
+    "disgust": 1
+  }, 
+  "displeased.a": {
+    "disgust": 1
+  }, 
+  "happiness.n": {
+    "joy": 1
+  }, 
+  "foreign.a": {
+    "ambiguous": 1
+  }, 
+  "bore.v": {
+    "disgust": 1
+  }, 
+  "education.n": {
+    "like": 1
+  }, 
+  "dreadfully.r": {
+    "fear": 1
+  }, 
+  "malevolently.r": {
+    "disgust": 1
+  }, 
+  "pipe.n": {
+    "disgust": 1
+  }, 
+  "resignation.n": {
+    "sadness": 1
+  }, 
+  "inclined.a": {
+    "like": 1
+  }, 
+  "encouraging.a": {
+    "hope": 1
+  }, 
+  "human_immunodeficiency_virus.n": {
+    "fear": 1
+  }, 
+  "attachment.n": {
+    "love": 1
+  }, 
+  "classicist.n": {
+    "disgust": 1
+  }, 
+  "joylessness.n": {
+    "joy": 1
+  }, 
+  "prime.a": {
+    "like": 1
+  }, 
+  "lividity.n": {
+    "disgust": 1
+  }, 
+  "saponaceous.a": {
+    "disgust": 1
+  }, 
+  "fury.n": {
+    "fear": 1
+  }, 
+  "adorably.r": {
+    "love": 1
+  }, 
+  "despisal.n": {
+    "disgust": 1
+  }, 
+  "friendliness.n": {
+    "like": 1
+  }, 
+  "pastry.n": {
+    "like": 1
+  }, 
+  "conclusion.n": {
+    "like": 1
+  }, 
+  "blues.n": {
+    "sadness": 1
+  }, 
+  "sulk.v": {
+    "disgust": 1
+  }, 
+  "open.v": {
+    "calmness": 1
+  }, 
+  "convict.v": {
+    "sadness": 1
+  }, 
+  "arrest.n": {
+    "disgust": 1
+  }, 
+  "defect.n": {
+    "disgust": 1
+  }, 
+  "witness.v": {
+    "anticipation": 1
+  }, 
+  "garbage.n": {
+    "disgust": 1
+  }, 
+  "delay.v": {
+    "disgust": 1
+  }, 
+  "damage.v": {
+    "disgust": 1
+  }, 
+  "delay.n": {
+    "disgust": 1
+  }, 
+  "celebrate.v": {
+    "like": 1
+  }, 
+  "hateful.a": {
+    "disgust": 1
+  }, 
+  "bid.v": {
+    "like": 1
+  }, 
+  "innocent.a": {
+    "calmness": 1
+  }, 
+  "bad.a": {
+    "disgust": 1
+  }, 
+  "impenitent.a": {
+    "joy": 1
+  }, 
+  "tired.a": {
+    "disgust": 1
+  }, 
+  "self-consciously.r": {
+    "disgust": 1
+  }, 
+  "plead.v": {
+    "sadness": 1
+  }, 
+  "drain.n": {
+    "disgust": 1
+  }, 
+  "check.v": {
+    "disgust": 1
+  }, 
+  "return.v": {
+    "anticipation": 1
+  }, 
+  "depression.n": {
+    "sadness": 1
+  }, 
+  "affirm.v": {
+    "anticipation": 1
+  }, 
+  "mold.n": {
+    "disgust": 1
+  }, 
+  "lack.n": {
+    "disgust": 1
+  }, 
+  "bomb.n": {
+    "fear": 1
+  }, 
+  "misogamy.n": {
+    "disgust": 1
+  }, 
+  "artless.a": {
+    "like": 1
+  }, 
+  "humility.n": {
+    "sadness": 1
+  }, 
+  "anger.n": {
+    "disgust": 1
+  }, 
+  "stake.n": {
+    "anger": 1
+  }, 
+  "permit.v": {
+    "anticipation": 1
+  }, 
+  "smoke.n": {
+    "disgust": 1
+  }, 
+  "hemipterous_insect.n": {
+    "fear": 1
+  }, 
+  "cancellation.n": {
+    "disgust": 1
+  }, 
+  "anger.v": {
+    "disgust": 1
+  }, 
+  "military.a": {
+    "disgust": 1
+  }, 
+  "inefficient.a": {
+    "disgust": 1
+  }, 
+  "misopedia.n": {
+    "disgust": 1
+  }, 
+  "solicitously.r": {
+    "anger": 1
+  }, 
+  "fear.v": {
+    "fear": 1
+  }, 
+  "fear.n": {
+    "fear": 1
+  }, 
+  "hatefully.r": {
+    "disgust": 1
+  }, 
+  "healthy.a": {
+    "like": 1
+  }, 
+  "master.n": {
+    "anticipation": 1
+  }, 
+  "ample.a": {
+    "like": 1
+  }, 
+  "envy.v": {
+    "disgust": 1
+  }, 
+  "stupefaction.n": {
+    "surprise": 1
+  }, 
+  "wall.n": {
+    "ambiguous": 1
+  }, 
+  "envy.n": {
+    "disgust": 1
+  }, 
+  "immaculately.r": {
+    "love": 1
+  }, 
+  "craftily.r": {
+    "disgust": 1
+  }, 
+  "painfully.r": {
+    "anger": 1
+  }, 
+  "uninjured.a": {
+    "joy": 1
+  }, 
+  "cockroach.n": {
+    "fear": 1
+  }, 
+  "cave.v": {
+    "disgust": 1
+  }, 
+  "coolness.n": {
+    "calmness": 1
+  }, 
+  "welcome.v": {
+    "like": 1
+  }, 
+  "unrest.n": {
+    "ambiguous": 1
+  }, 
+  "welcome.a": {
+    "like": 1
+  }, 
+  "languor.n": {
+    "calmness": 1
+  }, 
+  "success.n": {
+    "joy": 1
+  }, 
+  "oath.n": {
+    "anger": 1
+  }, 
+  "gladness.n": {
+    "joy": 1
+  }, 
+  "like.v": {
+    "like": 1
+  }, 
+  "imposter.n": {
+    "disgust": 1
+  }, 
+  "race.v": {
+    "disgust": 1
+  }, 
+  "adventurous.a": {
+    "anticipation": 1
+  }, 
+  "commend.v": {
+    "anticipation": 1
+  }, 
+  "positive.a": {
+    "love": 1
+  }, 
+  "popular.a": {
+    "like": 1
+  }, 
+  "worsen.v": {
+    "disgust": 1
+  }, 
+  "rejoicing.n": {
+    "joy": 1
+  }, 
+  "kill.v": {
+    "sadness": 1
+  }, 
+  "bad.n": {
+    "disgust": 1
+  }, 
+  "ardor.n": {
+    "love": 1
+  }, 
+  "heartburning.n": {
+    "disgust": 1
+  }, 
+  "greet.v": {
+    "like": 1
+  }, 
+  "pessimistic.a": {
+    "despair": 1
+  }, 
+  "effective.a": {
+    "anticipation": 1
+  }, 
+  "wonder.n": {
+    "surprise": 1
+  }, 
+  "fully.r": {
+    "disgust": 1
+  }, 
+  "wonder.v": {
+    "surprise": 1
+  }, 
+  "accept.v": {
+    "like": 1
+  }, 
+  "puppy_love.n": {
+    "love": 1
+  }, 
+  "fondness.n": {
+    "like": 1
+  }, 
+  "pessimistically.r": {
+    "despair": 1
+  }, 
+  "solicitude.n": {
+    "anger": 1
+  }, 
+  "creativity.n": {
+    "anticipation": 1
+  }, 
+  "begin.v": {
+    "like": 1
+  }, 
+  "lucky.a": {
+    "joy": 1
+  }, 
+  "sharp.a": {
+    "disgust": 1
+  }, 
+  "misoneism.n": {
+    "disgust": 1
+  }, 
+  "discouragingly.r": {
+    "despair": 1
+  }, 
+  "far.r": {
+    "disgust": 1
+  }, 
+  "prosecute.v": {
+    "anticipation": 1
+  }, 
+  "contempt.n": {
+    "disgust": 1
+  }, 
+  "despair.v": {
+    "despair": 1
+  }, 
+  "protected.a": {
+    "calmness": 1
+  }, 
+  "damaged.a": {
+    "fear": 1
+  }, 
+  "fat.n": {
+    "disgust": 1
+  }, 
+  "cruise.n": {
+    "joy": 1
+  }, 
+  "indignantly.r": {
+    "disgust": 1
+  }, 
+  "pirate.n": {
+    "fear": 1
+  }, 
+  "repugnance.n": {
+    "disgust": 1
+  }, 
+  "fat.a": {
+    "disgust": 1
+  }, 
+  "rape.n": {
+    "fear": 1
+  }, 
+  "disapprove.v": {
+    "disgust": 1
+  }, 
+  "bullet.n": {
+    "fear": 1
+  }, 
+  "perturb.v": {
+    "anger": 1
+  }, 
+  "difficulty.n": {
+    "disgust": 1
+  }, 
+  "boyfriend.n": {
+    "love": 1
+  }, 
+  "teach.v": {
+    "anticipation": 1
+  }, 
+  "ineffective.a": {
+    "disgust": 1
+  }, 
+  "malodorous.a": {
+    "hate": 1
+  }, 
+  "forlornly.r": {
+    "sadness": 1
+  }, 
+  "melancholy.n": {
+    "sadness": 1
+  }, 
+  "shutting.n": {
+    "disgust": 1
+  }, 
+  "lively.a": {
+    "like": 1
+  }, 
+  "promenade.n": {
+    "like": 1
+  }, 
+  "yell.v": {
+    "disgust": 1
+  }, 
+  "disagreeableness.n": {
+    "disgust": 1
+  }, 
+  "bumper.n": {
+    "disgust": 1
+  }, 
+  "superior.a": {
+    "like": 1
+  }, 
+  "sophistication.n": {
+    "anticipation": 1
+  }, 
+  "pluck.v": {
+    "disgust": 1
+  }, 
+  "hero.n": {
+    "calmness": 1
+  }, 
+  "keep.n": {
+    "fear": 1
+  }, 
+  "fit.n": {
+    "disgust": 1
+  }, 
+  "inappropriately.r": {
+    "disgust": 1
+  }, 
+  "optimistic.a": {
+    "hope": 1
+  }, 
+  "attrition.n": {
+    "sadness": 1
+  }, 
+  "down.r": {
+    "disgust": 1
+  }, 
+  "mouse.n": {
+    "fear": 1
+  }, 
+  "unreasonable.a": {
+    "disgust": 1
+  }, 
+  "alive.a": {
+    "joy": 1
+  }, 
+  "professionalism.n": {
+    "anticipation": 1
+  }, 
+  "insecurely.r": {
+    "anger": 1
+  }, 
+  "crouch.n": {
+    "disgust": 1
+  }, 
+  "anxiously.r": {
+    "fear": 1
+  }, 
+  "sisterly.a": {
+    "disgust": 1
+  }, 
+  "loving.a": {
+    "love": 1
+  }, 
+  "weight.n": {
+    "sadness": 1
+  }, 
+  "angst.n": {
+    "anger": 1
+  }, 
+  "secret.n": {
+    "ambiguous": 1
+  }, 
+  "misology.n": {
+    "disgust": 1
+  }, 
+  "impenitently.r": {
+    "joy": 1
+  }, 
+  "skilled.a": {
+    "like": 1
+  }, 
+  "unable.a": {
+    "disgust": 1
+  }, 
+  "soft_spot.n": {
+    "love": 1
+  }, 
+  "death.n": {
+    "fear": 1
+  }, 
+  "illness.n": {
+    "disgust": 1
+  }, 
+  "clue.n": {
+    "hope": 1
+  }, 
+  "abjectly.r": {
+    "sadness": 1
+  }, 
+  "militia.n": {
+    "fear": 1
+  }, 
+  "chagrin.n": {
+    "disgust": 1
+  }, 
+  "erupt.v": {
+    "fear": 1
+  }, 
+  "fight.n": {
+    "fear": 1
+  }, 
+  "grief.n": {
+    "sadness": 1
+  }, 
+  "shriek.v": {
+    "sadness": 1
+  }, 
+  "jollity.n": {
+    "joy": 1
+  }, 
+  "sufficient.a": {
+    "anticipation": 1
+  }, 
+  "sadness.n": {
+    "sadness": 1
+  }, 
+  "cruelty.n": {
+    "fear": 1
+  }, 
+  "estrange.v": {
+    "disgust": 1
+  }, 
+  "unmalicious.a": {
+    "like": 1
+  }, 
+  "unconcern.n": {
+    "disgust": 1
+  }, 
+  "calm.v": {
+    "calmness": 1
+  }, 
+  "calm.a": {
+    "calmness": 1
+  }, 
+  "confuse.v": {
+    "disgust": 1
+  }, 
+  "music.n": {
+    "like": 1
+  }, 
+  "sympathetic.a": {
+    "like": 1
+  }, 
+  "agreeableness.n": {
+    "joy": 1
+  }, 
+  "perfect.a": {
+    "like": 1
+  }, 
+  "sad.a": {
+    "sadness": 1
+  }, 
+  "sane.a": {
+    "like": 1
+  }, 
+  "jealously.r": {
+    "disgust": 1
+  }, 
+  "finished.a": {
+    "like": 1
+  }, 
+  "dark.a": {
+    "disgust": 1
+  }, 
+  "sadly.r": {
+    "sadness": 1
+  }, 
+  "unashamed.a": {
+    "like": 1
+  }, 
+  "infuriation.n": {
+    "disgust": 1
+  }, 
+  "repentance.n": {
+    "sadness": 1
+  }, 
+  "batch.n": {
+    "anticipation": 1
+  }, 
+  "tasty.a": {
+    "like": 1
+  }, 
+  "professional.n": {
+    "like": 1
+  }, 
+  "liquid_body_substance.n": {
+    "joy": 1
+  }, 
+  "professional.a": {
+    "like": 1
+  }, 
+  "terrorism.n": {
+    "fear": 1
+  }, 
+  "ill.r": {
+    "disgust": 1
+  }, 
+  "trouble.n": {
+    "disgust": 1
+  }, 
+  "cool.v": {
+    "calmness": 1
+  }, 
+  "renovate.v": {
+    "like": 1
+  }, 
+  "clear.a": {
+    "like": 1
+  }, 
+  "pile.n": {
+    "like": 1
+  }, 
+  "hesitantly.r": {
+    "fear": 1
+  }, 
+  "aggression.n": {
+    "disgust": 1
+  }, 
+  "covet.v": {
+    "disgust": 1
+  }, 
+  "cool.a": {
+    "disgust": 1
+  }, 
+  "untrained.a": {
+    "disgust": 1
+  }, 
+  "intimidate.v": {
+    "fear": 1
+  }, 
+  "notion.n": {
+    "surprise": 1
+  }, 
+  "annoyance.n": {
+    "disgust": 1
+  }, 
+  "sunlight.n": {
+    "like": 1
+  }, 
+  "helplessness.n": {
+    "sadness": 1
+  }, 
+  "joylessly.r": {
+    "joy": 1
+  }, 
+  "team.n": {
+    "like": 1
+  }, 
+  "dependent.a": {
+    "disgust": 1
+  }, 
+  "discomfort.n": {
+    "disgust": 1
+  }, 
+  "injured.a": {
+    "sadness": 1
+  }, 
+  "fair.a": {
+    "anticipation": 1
+  }, 
+  "suicide.n": {
+    "sadness": 1
+  }, 
+  "leave.v": {
+    "ambiguous": 1
+  }, 
+  "enthusiastically.r": {
+    "joy": 1
+  }, 
+  "artful.a": {
+    "disgust": 1
+  }, 
+  "safe.a": {
+    "calmness": 1
+  }, 
+  "nearby.r": {
+    "like": 1
+  }, 
+  "heartlessly.r": {
+    "fear": 1
+  }, 
+  "low.a": {
+    "ambiguous": 1
+  }, 
+  "revengefully.r": {
+    "disgust": 1
+  }, 
+  "hideously.r": {
+    "fear": 1
+  }, 
+  "war.n": {
+    "fear": 1
+  }, 
+  "daughter.n": {
+    "hate": 1
+  }, 
+  "curse.v": {
+    "disgust": 1
+  }, 
+  "miserably.r": {
+    "sadness": 1
+  }, 
+  "unimportance.n": {
+    "disgust": 1
+  }, 
+  "wrong.a": {
+    "disgust": 1
+  }, 
+  "construct.v": {
+    "hope": 1
+  }, 
+  "execution.n": {
+    "fear": 1
+  }, 
+  "freak.n": {
+    "disgust": 1
+  }, 
+  "elegance.n": {
+    "love": 1
+  }, 
+  "cooling_system.n": {
+    "disgust": 1
+  }, 
+  "story.n": {
+    "joy": 1
+  }, 
+  "horde.n": {
+    "disgust": 1
+  }, 
+  "despairingly.r": {
+    "sadness": 1
+  }, 
+  "sour.a": {
+    "disgust": 1
+  }, 
+  "cancer.n": {
+    "fear": 1
+  }, 
+  "get_the_better_of.v": {
+    "anticipation": 1
+  }, 
+  "tight.a": {
+    "disgust": 1
+  }, 
+  "weakness.n": {
+    "like": 1
+  }, 
+  "intimidation.n": {
+    "fear": 1
+  }, 
+  "curfew.n": {
+    "disgust": 1
+  }, 
+  "hesitance.n": {
+    "fear": 1
+  }, 
+  "jitteriness.n": {
+    "anger": 1
+  }, 
+  "bikini.n": {
+    "like": 1
+  }, 
+  "exuberantly.r": {
+    "joy": 1
+  }, 
+  "adventure.n": {
+    "like": 1
+  }, 
+  "dudgeon.n": {
+    "disgust": 1
+  }, 
+  "difficult.a": {
+    "anger": 1
+  }, 
+  "blemish.n": {
+    "disgust": 1
+  }, 
+  "animation.n": {
+    "hope": 1
+  }, 
+  "benevolently.r": {
+    "love": 1
+  }, 
+  "disability.n": {
+    "disgust": 1
+  }, 
+  "offensive.a": {
+    "fear": 1
+  }, 
+  "cheap.a": {
+    "like": 1
+  }, 
+  "resentment.n": {
+    "disgust": 1
+  }, 
+  "run.v": {
+    "anticipation": 1
+  }, 
+  "head.v": {
+    "anticipation": 1
+  }, 
+  "foreboding.n": {
+    "fear": 1
+  }, 
+  "pleasant.a": {
+    "like": 1
+  }, 
+  "ripe.a": {
+    "anticipation": 1
+  }, 
+  "vow.v": {
+    "anticipation": 1
+  }, 
+  "gusto.n": {
+    "joy": 1
+  }, 
+  "punish.v": {
+    "sadness": 1
+  }, 
+  "hysterically.r": {
+    "fear": 1
+  }, 
+  "mistake.n": {
+    "disgust": 1
+  }, 
+  "collar.v": {
+    "disgust": 1
+  }, 
+  "best.a": {
+    "like": 1
+  }, 
+  "thread.n": {
+    "disgust": 1
+  }, 
+  "pride.v": {
+    "joy": 1
+  }, 
+  "light.v": {
+    "like": 1
+  }, 
+  "pride.n": {
+    "joy": 1
+  }, 
+  "light.n": {
+    "like": 1
+  }, 
+  "light.a": {
+    "like": 1
+  }, 
+  "agitate.v": {
+    "disgust": 1
+  }, 
+  "leader.n": {
+    "hope": 1
+  }, 
+  "togetherness.n": {
+    "joy": 1
+  }, 
+  "stew.v": {
+    "disgust": 1
+  }, 
+  "game.n": {
+    "joy": 1
+  }, 
+  "slow.a": {
+    "disgust": 1
+  }, 
+  "win.n": {
+    "like": 1
+  }, 
+  "sensationally.r": {
+    "ambiguous": 1
+  }, 
+  "justice.n": {
+    "anticipation": 1
+  }, 
+  "diversify.v": {
+    "anticipation": 1
+  }, 
+  "gratitude.n": {
+    "like": 1
+  }, 
+  "bonheur.n": {
+    "joy": 1
+  }, 
+  "undesirable.n": {
+    "fear": 1
+  }, 
+  "admiration.n": {
+    "like": 1
+  }, 
+  "pain.n": {
+    "disgust": 1
+  }, 
+  "audacity.n": {
+    "anticipation": 1
+  }, 
+  "administration.n": {
+    "anticipation": 1
+  }, 
+  "side.a": {
+    "disgust": 1
+  }, 
+  "injustice.n": {
+    "disgust": 1
+  }, 
+  "scandal.n": {
+    "disgust": 1
+  }, 
+  "liberation.n": {
+    "anticipation": 1
+  }, 
+  "discovery.n": {
+    "hope": 1
+  }, 
+  "adapt.v": {
+    "like": 1
+  }, 
+  "dedicated.a": {
+    "hope": 1
+  }, 
+  "stain.v": {
+    "disgust": 1
+  }, 
+  "score.n": {
+    "anticipation": 1
+  }, 
+  "humble.a": {
+    "sadness": 1
+  }, 
+  "safety.n": {
+    "calmness": 1
+  }, 
+  "confidence.n": {
+    "calmness": 1
+  }, 
+  "fidget.n": {
+    "anger": 1
+  }, 
+  "uranium.n": {
+    "disgust": 1
+  }, 
+  "ambition.n": {
+    "anticipation": 1
+  }, 
+  "overheat.v": {
+    "disgust": 1
+  }, 
+  "absolutely.r": {
+    "anticipation": 1
+  }, 
+  "dislike.n": {
+    "disgust": 1
+  }, 
+  "truth.n": {
+    "like": 1
+  }, 
+  "compatible.a": {
+    "like": 1
+  }, 
+  "tranquillity.n": {
+    "calmness": 1
+  }, 
+  "uninteresting.a": {
+    "disgust": 1
+  }, 
+  "helpfulness.n": {
+    "like": 1
+  }, 
+  "dander.n": {
+    "disgust": 1
+  }, 
+  "fortunately.r": {
+    "joy": 1
+  }, 
+  "distant.a": {
+    "sadness": 1
+  }, 
+  "liking.n": {
+    "like": 1
+  }, 
+  "winter.n": {
+    "disgust": 1
+  }, 
+  "malevolence.n": {
+    "disgust": 1
+  }, 
+  "enthusiasm.n": {
+    "joy": 1
+  }, 
+  "unfamiliar.a": {
+    "disgust": 1
+  }, 
+  "excessively.r": {
+    "anticipation": 1
+  }, 
+  "perspiration.n": {
+    "disgust": 1
+  }, 
+  "ache.v": {
+    "sadness": 1
+  }, 
+  "favor.v": {
+    "like": 1
+  }, 
+  "unenthusiastic.a": {
+    "sadness": 1
+  }, 
+  "sabotage.v": {
+    "disgust": 1
+  }, 
+  "sabotage.n": {
+    "disgust": 1
+  }, 
+  "favor.n": {
+    "like": 1
+  }, 
+  "huffiness.n": {
+    "disgust": 1
+  }, 
+  "attract.v": {
+    "like": 1
+  }, 
+  "helm.n": {
+    "hope": 1
+  }, 
+  "placidly.r": {
+    "calmness": 1
+  }, 
+  "emotional.a": {
+    "like": 1
+  }, 
+  "preservation.n": {
+    "like": 1
+  }, 
+  "stale.a": {
+    "disgust": 1
+  }, 
+  "dispose.v": {
+    "like": 1
+  }, 
+  "maliciously.r": {
+    "disgust": 1
+  }, 
+  "confusion.n": {
+    "disgust": 1
+  }, 
+  "committed.a": {
+    "hope": 1
+  }, 
+  "jam.v": {
+    "disgust": 1
+  }, 
+  "joy.n": {
+    "joy": 1
+  }, 
+  "accord.n": {
+    "like": 1
+  }, 
+  "suspect.n": {
+    "fear": 1
+  }, 
+  "scantily.r": {
+    "disgust": 1
+  }, 
+  "spider.n": {
+    "fear": 1
+  }, 
+  "deplorably.r": {
+    "sadness": 1
+  }, 
+  "disgustingly.r": {
+    "disgust": 1
+  }, 
+  "stifle.v": {
+    "surprise": 1
+  }, 
+  "suspect.v": {
+    "ambiguous": 1
+  }, 
+  "obstruct.v": {
+    "disgust": 1
+  }, 
+  "end.v": {
+    "disgust": 1
+  }, 
+  "radical.n": {
+    "fear": 1
+  }, 
+  "depreciate.v": {
+    "disgust": 1
+  }, 
+  "superintendent.n": {
+    "joy": 1
+  }, 
+  "unhealthy.a": {
+    "disgust": 1
+  }, 
+  "undedicated.a": {
+    "despair": 1
+  }, 
+  "magnet.n": {
+    "anticipation": 1
+  }, 
+  "missile.n": {
+    "fear": 1
+  }, 
+  "heir.n": {
+    "anticipation": 1
+  }, 
+  "satisfy.v": {
+    "joy": 1
+  }, 
+  "impatient.a": {
+    "anger": 1
+  }, 
+  "philogyny.n": {
+    "like": 1
+  }, 
+  "amicable.a": {
+    "like": 1
+  }, 
+  "closure.n": {
+    "disgust": 1
+  }, 
+  "edginess.n": {
+    "anger": 1
+  }, 
+  "playboy.n": {
+    "disgust": 1
+  }, 
+  "alliance.n": {
+    "anticipation": 1
+  }, 
+  "proud.a": {
+    "joy": 1
+  }, 
+  "exuberate.v": {
+    "joy": 1
+  }, 
+  "surprising.a": {
+    "surprise": 1
+  }, 
+  "drug.n": {
+    "anticipation": 1
+  }, 
+  "new.a": {
+    "like": 1
+  }, 
+  "ugliness.n": {
+    "disgust": 1
+  }, 
+  "combatant.n": {
+    "fear": 1
+  }, 
+  "enviously.r": {
+    "disgust": 1
+  }, 
+  "bombshell.n": {
+    "surprise": 1
+  }, 
+  "calmness.n": {
+    "calmness": 1
+  }, 
+  "restful.a": {
+    "like": 1
+  }, 
+  "bleakly.r": {
+    "hope": 1
+  }, 
+  "shop.n": {
+    "like": 1
+  }, 
+  "disapproval.n": {
+    "disgust": 1
+  }, 
+  "unsympathetic.a": {
+    "disgust": 1
+  }, 
+  "spell.n": {
+    "like": 1
+  }, 
+  "rejoice.v": {
+    "joy": 1
+  }, 
+  "drove.n": {
+    "disgust": 1
+  }, 
+  "relax.v": {
+    "joy": 1
+  }, 
+  "original.a": {
+    "like": 1
+  }, 
+  "queer.v": {
+    "disgust": 1
+  }, 
+  "smart.a": {
+    "like": 1
+  }, 
+  "insincere.a": {
+    "disgust": 1
+  }, 
+  "miss.v": {
+    "disgust": 1
+  }, 
+  "amicability.n": {
+    "like": 1
+  }, 
+  "gun.n": {
+    "fear": 1
+  }, 
+  "embarrassment.n": {
+    "disgust": 1
+  }, 
+  "shout.v": {
+    "disgust": 1
+  }, 
+  "hot.a": {
+    "ambiguous": 1
+  }, 
+  "attractive.a": {
+    "like": 1
+  }, 
+  "miss.n": {
+    "sadness": 1
+  }, 
+  "ahead.r": {
+    "hope": 1
+  }, 
+  "neutralize.v": {
+    "disgust": 1
+  }, 
+  "meager.a": {
+    "disgust": 1
+  }, 
+  "hedge.v": {
+    "disgust": 1
+  }, 
+  "thoughtless.a": {
+    "disgust": 1
+  }, 
+  "stormy.a": {
+    "anger": 1
+  }, 
+  "uncreativeness.n": {
+    "disgust": 1
+  }, 
+  "exhilaration.n": {
+    "joy": 1
+  }, 
+  "tranquilly.r": {
+    "calmness": 1
+  }, 
+  "upgrade.n": {
+    "like": 1
+  }, 
+  "guard.n": {
+    "anticipation": 1
+  }, 
+  "afraid.a": {
+    "fear": 1
+  }, 
+  "dull.a": {
+    "disgust": 1
+  }, 
+  "literate.a": {
+    "like": 1
+  }, 
+  "seriousness.n": {
+    "anticipation": 1
+  }, 
+  "genitalia.n": {
+    "disgust": 1
+  }, 
+  "stupid.a": {
+    "disgust": 1
+  }, 
+  "daunt.v": {
+    "fear": 1
+  }, 
+  "exit.v": {
+    "sadness": 1
+  }, 
+  "wait.v": {
+    "disgust": 1
+  }, 
+  "tumult.n": {
+    "ambiguous": 1
+  }, 
+  "lividly.r": {
+    "disgust": 1
+  }, 
+  "plodding.n": {
+    "disgust": 1
+  }, 
+  "peaceably.r": {
+    "calmness": 1
+  }, 
+  "content.v": {
+    "joy": 1
+  }, 
+  "false.a": {
+    "disgust": 1
+  }, 
+  "belonging.n": {
+    "joy": 1
+  }, 
+  "fall_short_of.v": {
+    "sadness": 1
+  }, 
+  "unkind.a": {
+    "fear": 1
+  }, 
+  "discriminate.a": {
+    "like": 1
+  }, 
+  "dissatisfy.v": {
+    "sadness": 1
+  }, 
+  "discomfiture.n": {
+    "anger": 1
+  }, 
+  "exultantly.r": {
+    "joy": 1
+  }, 
+  "impatience.n": {
+    "anger": 1
+  }, 
+  "displeasingly.r": {
+    "disgust": 1
+  }, 
+  "princess.n": {
+    "like": 1
+  }, 
+  "handy.n": {
+    "like": 1
+  }, 
+  "praise.n": {
+    "love": 1
+  }, 
+  "sign.n": {
+    "fear": 1
+  }, 
+  "queue.n": {
+    "disgust": 1
+  }, 
+  "concerned.a": {
+    "anger": 1
+  }, 
+  "demonstrator.n": {
+    "sadness": 1
+  }, 
+  "agreement.n": {
+    "like": 1
+  }, 
+  "big_cat.n": {
+    "disgust": 1
+  }, 
+  "university.n": {
+    "hope": 1
+  }, 
+  "ruefully.r": {
+    "sadness": 1
+  }, 
+  "know.v": {
+    "like": 1
+  }, 
+  "get_off.v": {
+    "disgust": 1
+  }, 
+  "irascibility.n": {
+    "disgust": 1
+  }, 
+  "reverse.n": {
+    "disgust": 1
+  }, 
+  "unselfconsciously.r": {
+    "like": 1
+  }, 
+  "misocainea.n": {
+    "disgust": 1
+  }, 
+  "cheerlessness.n": {
+    "sadness": 1
+  }, 
+  "awed.a": {
+    "surprise": 1
+  }, 
+  "stained.a": {
+    "disgust": 1
+  }, 
+  "disgracefully.r": {
+    "disgust": 1
+  }, 
+  "landmark.n": {
+    "ambiguous": 1
+  }, 
+  "hum.v": {
+    "disgust": 1
+  }, 
+  "darkly.r": {
+    "disgust": 1
+  }, 
+  "despair.n": {
+    "despair": 1
+  }, 
+  "congress.n": {
+    "anticipation": 1
+  }, 
+  "glad.a": {
+    "joy": 1
+  }, 
+  "fake.n": {
+    "disgust": 1
+  }, 
+  "favorably.r": {
+    "like": 1
+  }, 
+  "ugly.a": {
+    "disgust": 1
+  }, 
+  "warmly.r": {
+    "like": 1
+  }, 
+  "accuracy.n": {
+    "anticipation": 1
+  }, 
+  "coldhearted.a": {
+    "disgust": 1
+  }, 
+  "high.a": {
+    "anticipation": 1
+  }, 
+  "disappointment.n": {
+    "disgust": 1
+  }, 
+  "reassuring.a": {
+    "calmness": 1
+  }, 
+  "weapon.n": {
+    "fear": 1
+  }, 
+  "dimly.r": {
+    "disgust": 1
+  }, 
+  "centrally.r": {
+    "like": 1
+  }, 
+  "modern.n": {
+    "like": 1
+  }, 
+  "dispute.n": {
+    "disgust": 1
+  }, 
+  "discrepancy.n": {
+    "disgust": 1
+  }, 
+  "imprison.v": {
+    "disgust": 1
+  }, 
+  "lavishness.n": {
+    "like": 1
+  }, 
+  "green.a": {
+    "disgust": 1
+  }, 
+  "visit.n": {
+    "like": 1
+  }, 
+  "injure.v": {
+    "disgust": 1
+  }, 
+  "overprice.v": {
+    "disgust": 1
+  }, 
+  "optimism.n": {
+    "hope": 1
+  }, 
+  "shamefacedly.r": {
+    "disgust": 1
+  }, 
+  "elate.v": {
+    "joy": 1
+  }, 
+  "unwrap.v": {
+    "disgust": 1
+  }, 
+  "good_will.n": {
+    "like": 1
+  }, 
+  "unfortunately.r": {
+    "sadness": 1
+  }, 
+  "poor.a": {
+    "disgust": 1
+  }, 
+  "adequate.a": {
+    "like": 1
+  }, 
+  "achiever.n": {
+    "like": 1
+  }, 
+  "commodity.n": {
+    "like": 1
+  }, 
+  "rich.a": {
+    "like": 1
+  }, 
+  "anticipate.v": {
+    "anticipation": 1
+  }, 
+  "hitler.n": {
+    "fear": 1
+  }, 
+  "reassuringly.r": {
+    "calmness": 1
+  }, 
+  "beneficed.a": {
+    "love": 1
+  }, 
+  "president_of_the_united_states.n": {
+    "anticipation": 1
+  }, 
+  "assertively.r": {
+    "calmness": 1
+  }, 
+  "personality.n": {
+    "like": 1
+  }, 
+  "unsatisfactory.a": {
+    "sadness": 1
+  }, 
+  "face_lift.n": {
+    "anticipation": 1
+  }, 
+  "unhappily.r": {
+    "sadness": 1
+  }, 
+  "celebration.n": {
+    "joy": 1
+  }, 
+  "wound.n": {
+    "disgust": 1
+  }, 
+  "poet.n": {
+    "anticipation": 1
+  }, 
+  "violence.n": {
+    "fear": 1
+  }, 
+  "reach.v": {
+    "anticipation": 1
+  }, 
+  "evacuate.v": {
+    "ambiguous": 1
+  }, 
+  "guarantee.v": {
+    "like": 1
+  }, 
+  "presage.n": {
+    "fear": 1
+  }, 
+  "fulfillment.n": {
+    "joy": 1
+  }, 
+  "plaza.n": {
+    "like": 1
+  }, 
+  "continue.v": {
+    "like": 1
+  }, 
+  "disgustedly.r": {
+    "disgust": 1
+  }, 
+  "waste.v": {
+    "disgust": 1
+  }, 
+  "waste.n": {
+    "disgust": 1
+  }, 
+  "clash.n": {
+    "disgust": 1
+  }, 
+  "grudge.n": {
+    "disgust": 1
+  }, 
+  "credibility.n": {
+    "anticipation": 1
+  }, 
+  "idol.n": {
+    "like": 1
+  }, 
+  "rat.n": {
+    "fear": 1
+  }, 
+  "murderousness.n": {
+    "disgust": 1
+  }, 
+  "displeasing.a": {
+    "disgust": 1
+  }, 
+  "illuminate.v": {
+    "like": 1
+  }, 
+  "uncleanliness.n": {
+    "disgust": 1
+  }, 
+  "wedding.n": {
+    "like": 1
+  }, 
+  "charm.n": {
+    "like": 1
+  }, 
+  "blame.v": {
+    "disgust": 1
+  }, 
+  "awe.n": {
+    "surprise": 1
+  }, 
+  "admirably.r": {
+    "like": 1
+  }, 
+  "fix.v": {
+    "anticipation": 1
+  }, 
+  "serious.a": {
+    "anticipation": 1
+  }, 
+  "crowd.n": {
+    "disgust": 1
+  }, 
+  "poisoning.n": {
+    "fear": 1
+  }, 
+  "assertive.a": {
+    "calmness": 1
+  }, 
+  "dismiss.v": {
+    "hate": 1
+  }, 
+  "unsupportive.a": {
+    "despair": 1
+  }, 
+  "reject.v": {
+    "disgust": 1
+  }, 
+  "torture.v": {
+    "fear": 1
+  }, 
+  "supportive.a": {
+    "hope": 1
+  }, 
+  "close.v": {
+    "disgust": 1
+  }, 
+  "boutique.n": {
+    "joy": 1
+  }, 
+  "take_office.v": {
+    "like": 1
+  }, 
+  "wonderfully.r": {
+    "like": 1
+  }, 
+  "fame.n": {
+    "like": 1
+  }, 
+  "recognition.n": {
+    "like": 1
+  }, 
+  "protectiveness.n": {
+    "love": 1
+  }, 
+  "sorrowfully.r": {
+    "sadness": 1
+  }, 
+  "proudly.r": {
+    "joy": 1
+  }, 
+  "department_of_defense.n": {
+    "calmness": 1
+  }, 
+  "world-weariness.n": {
+    "sadness": 1
+  }, 
+  "eject.v": {
+    "disgust": 1
+  }, 
+  "united_states_army.n": {
+    "ambiguous": 1
+  }, 
+  "shyness.n": {
+    "fear": 1
+  }, 
+  "unacceptable.a": {
+    "disgust": 1
+  }, 
+  "reek.v": {
+    "disgust": 1
+  }, 
+  "worst.a": {
+    "disgust": 1
+  }, 
+  "teacher.n": {
+    "anticipation": 1
+  }, 
+  "nausea.n": {
+    "disgust": 1
+  }, 
+  "bottom.a": {
+    "disgust": 1
+  }, 
+  "penitent.a": {
+    "sadness": 1
+  }, 
+  "unfortunate.a": {
+    "sadness": 1
+  }, 
+  "mess.n": {
+    "disgust": 1
+  }, 
+  "elated.a": {
+    "joy": 1
+  }, 
+  "anxiousness.n": {
+    "anger": 1
+  }, 
+  "naivete.n": {
+    "disgust": 1
+  }, 
+  "cleanliness.n": {
+    "like": 1
+  }, 
+  "indignation.n": {
+    "disgust": 1
+  }, 
+  "sexual.a": {
+    "love": 1
+  }, 
+  "wish.v": {
+    "like": 1
+  }, 
+  "protectively.r": {
+    "love": 1
+  }, 
+  "authority.n": {
+    "anticipation": 1
+  }, 
+  "angry.a": {
+    "disgust": 1
+  }, 
+  "exoticism.n": {
+    "like": 1
+  }, 
+  "triumphantly.r": {
+    "joy": 1
+  }, 
+  "dissatisfaction.n": {
+    "sadness": 1
+  }, 
+  "defend.v": {
+    "ambiguous": 1
+  }, 
+  "clean.a": {
+    "like": 1
+  }, 
+  "hazard.n": {
+    "fear": 1
+  }, 
+  "nonslippery.a": {
+    "calmness": 1
+  }, 
+  "chill.n": {
+    "fear": 1
+  }, 
+  "dismay.v": {
+    "fear": 1
+  }, 
+  "chill.v": {
+    "fear": 1
+  }, 
+  "troop.n": {
+    "fear": 1
+  }, 
+  "clean.v": {
+    "like": 1
+  }, 
+  "inadequate.a": {
+    "disgust": 1
+  }, 
+  "apologize.v": {
+    "like": 1
+  }, 
+  "euphoric.a": {
+    "joy": 1
+  }, 
+  "furiously.r": {
+    "disgust": 1
+  }, 
+  "beauty.n": {
+    "like": 1
+  }, 
+  "lie.n": {
+    "fear": 1
+  }, 
+  "kindheartedness.n": {
+    "like": 1
+  }, 
+  "plaintively.r": {
+    "sadness": 1
+  }, 
+  "professionally.r": {
+    "like": 1
+  }, 
+  "stage_fright.n": {
+    "fear": 1
+  }, 
+  "insecure.a": {
+    "anger": 1
+  }, 
+  "inhospitable.a": {
+    "disgust": 1
+  }, 
+  "stun.v": {
+    "surprise": 1
+  }, 
+  "apprehension.n": {
+    "fear": 1
+  }, 
+  "eager.a": {
+    "joy": 1
+  }, 
+  "slap.n": {
+    "disgust": 1
+  }, 
+  "fondly.r": {
+    "love": 1
+  }, 
+  "eagerness.n": {
+    "joy": 1
+  }, 
+  "break.v": {
+    "disgust": 1
+  }, 
+  "near.a": {
+    "like": 1
+  }, 
+  "suspense.n": {
+    "fear": 1
+  }, 
+  "near.r": {
+    "joy": 1
+  }, 
+  "sensation.n": {
+    "ambiguous": 1
+  }, 
+  "quality.n": {
+    "anticipation": 1
+  }, 
+  "concert.n": {
+    "like": 1
+  }, 
+  "civilian.a": {
+    "like": 1
+  }, 
+  "delete.v": {
+    "disgust": 1
+  }, 
+  "harass.v": {
+    "sadness": 1
+  }, 
+  "lovable.a": {
+    "like": 1
+  }, 
+  "aid.n": {
+    "hope": 1
+  }, 
+  "mistake.v": {
+    "disgust": 1
+  }, 
+  "large.a": {
+    "anticipation": 1
+  }, 
+  "jealousy.n": {
+    "disgust": 1
+  }, 
+  "killer.n": {
+    "fear": 1
+  }, 
+  "impatiently.r": {
+    "anger": 1
+  }, 
+  "frighteningly.r": {
+    "fear": 1
+  }, 
+  "class_feeling.n": {
+    "disgust": 1
+  }, 
+  "mannequin.n": {
+    "like": 1
+  }, 
+  "health.n": {
+    "like": 1
+  }, 
+  "dispiritedly.r": {
+    "sadness": 1
+  }, 
+  "unbeneficed.a": {
+    "disgust": 1
+  }, 
+  "crackdown.n": {
+    "disgust": 1
+  }, 
+  "small.a": {
+    "ambiguous": 1
+  }, 
+  "incredibility.n": {
+    "disgust": 1
+  }, 
+  "uncheerfulness.n": {
+    "sadness": 1
+  }, 
+  "useful.a": {
+    "like": 1
+  }, 
+  "unhappy.a": {
+    "sadness": 1
+  }, 
+  "defendant.n": {
+    "fear": 1
+  }, 
+  "inappropriate.a": {
+    "disgust": 1
+  }, 
+  "battle.v": {
+    "fear": 1
+  }, 
+  "pass.n": {
+    "disgust": 1
+  }, 
+  "maltreatment.n": {
+    "fear": 1
+  }, 
+  "grateful.a": {
+    "like": 1
+  }, 
+  "battle.n": {
+    "fear": 1
+  }, 
+  "malice.n": {
+    "disgust": 1
+  }, 
+  "basic.a": {
+    "ambiguous": 1
+  }, 
+  "fracture.n": {
+    "fear": 1
+  }, 
+  "thoughtful.a": {
+    "like": 1
+  }, 
+  "meet.v": {
+    "joy": 1
+  }, 
+  "clean_and_jerk.n": {
+    "like": 1
+  }, 
+  "helpful.a": {
+    "like": 1
+  }, 
+  "weepiness.n": {
+    "sadness": 1
+  }, 
+  "incite.v": {
+    "ambiguous": 1
+  }, 
+  "opaque.a": {
+    "disgust": 1
+  }, 
+  "incredible.a": {
+    "like": 1
+  }, 
+  "fail.v": {
+    "disgust": 1
+  }, 
+  "bold.a": {
+    "calmness": 1
+  }, 
+  "collapse.v": {
+    "anger": 1
+  }, 
+  "unassertively.r": {
+    "fear": 1
+  }, 
+  "bakery.n": {
+    "like": 1
+  }, 
+  "vaccine.n": {
+    "hope": 1
+  }, 
+  "happily.r": {
+    "joy": 1
+  }, 
+  "nice.n": {
+    "like": 1
+  }, 
+  "nice.a": {
+    "like": 1
+  }, 
+  "collapse.n": {
+    "anger": 1
+  }, 
+  "uncommitted.a": {
+    "sadness": 1
+  }, 
+  "graciously.r": {
+    "like": 1
+  }, 
+  "perplex.v": {
+    "surprise": 1
+  }, 
+  "concern.v": {
+    "like": 1
+  }, 
+  "book.v": {
+    "fear": 1
+  }, 
+  "concern.n": {
+    "like": 1
+  }, 
+  "terror.n": {
+    "fear": 1
+  }, 
+  "provocative.a": {
+    "like": 1
+  }, 
+  "love.n": {
+    "love": 1
+  }, 
+  "distress.v": {
+    "anger": 1
+  }, 
+  "angrily.r": {
+    "disgust": 1
+  }, 
+  "alienation.n": {
+    "disgust": 1
+  }, 
+  "peel_off.v": {
+    "disgust": 1
+  }, 
+  "hostile.a": {
+    "disgust": 1
+  }, 
+  "love.v": {
+    "love": 1
+  }, 
+  "kidnap.v": {
+    "fear": 1
+  }, 
+  "concede.v": {
+    "hope": 1
+  }, 
+  "hamper.v": {
+    "disgust": 1
+  }, 
+  "unfinished.a": {
+    "disgust": 1
+  }, 
+  "disinfectant.n": {
+    "disgust": 1
+  }, 
+  "shoehorn.v": {
+    "disgust": 1
+  }, 
+  "rested.a": {
+    "like": 1
+  }, 
+  "harvard_university.n": {
+    "anticipation": 1
+  }, 
+  "facilitate.v": {
+    "hope": 1
+  }, 
+  "drollery.n": {
+    "like": 1
+  }, 
+  "heliotherapy.n": {
+    "disgust": 1
+  }, 
+  "dysphoria.n": {
+    "sadness": 1
+  }, 
+  "transgress.v": {
+    "disgust": 1
+  }, 
+  "gunman.n": {
+    "fear": 1
+  }, 
+  "disorder.n": {
+    "disgust": 1
+  }, 
+  "horror.n": {
+    "fear": 1
+  }, 
+  "scare.n": {
+    "fear": 1
+  }, 
+  "nap.v": {
+    "like": 1
+  }, 
+  "hopefully.r": {
+    "hope": 1
+  }, 
+  "victor.n": {
+    "anticipation": 1
+  }, 
+  "blockage.n": {
+    "disgust": 1
+  }, 
+  "grievously.r": {
+    "sadness": 1
+  }, 
+  "tourism.n": {
+    "like": 1
+  }, 
+  "rhythm.n": {
+    "like": 1
+  }, 
+  "murder.v": {
+    "ambiguous": 1
+  }, 
+  "hardhearted.a": {
+    "fear": 1
+  }, 
+  "amaze.v": {
+    "surprise": 1
+  }, 
+  "charge.v": {
+    "disgust": 1
+  }, 
+  "charge.n": {
+    "disgust": 1
+  }, 
+  "supply.v": {
+    "anticipation": 1
+  }, 
+  "intoxicated.a": {
+    "disgust": 1
+  }, 
+  "shelter.n": {
+    "hope": 1
+  }, 
+  "cigarette.n": {
+    "disgust": 1
+  }, 
+  "unemotional.a": {
+    "disgust": 1
+  }, 
+  "leave_office.v": {
+    "disgust": 1
+  }, 
+  "antagonism.n": {
+    "disgust": 1
+  }, 
+  "rampage.n": {
+    "fear": 1
+  }, 
+  "recommend.v": {
+    "anticipation": 1
+  }, 
+  "strike.v": {
+    "fear": 1
+  }, 
+  "survive.v": {
+    "hope": 1
+  }, 
+  "hospitable.a": {
+    "like": 1
+  }, 
+  "promote.v": {
+    "like": 1
+  }, 
+  "crazy.n": {
+    "fear": 1
+  }, 
+  "drop.v": {
+    "disgust": 1
+  }, 
+  "strike.n": {
+    "disgust": 1
+  }, 
+  "hopeful.a": {
+    "hope": 1
+  }, 
+  "castle.n": {
+    "like": 1
+  }, 
+  "seize.v": {
+    "fear": 1
+  }, 
+  "fume.v": {
+    "disgust": 1
+  }, 
+  "military_unit.n": {
+    "ambiguous": 1
+  }, 
+  "diffident.a": {
+    "fear": 1
+  }, 
+  "violator.n": {
+    "disgust": 1
+  }, 
+  "nobility.n": {
+    "like": 1
+  }, 
+  "hit.v": {
+    "disgust": 1
+  }, 
+  "weak.a": {
+    "disgust": 1
+  }, 
+  "warn.v": {
+    "fear": 1
+  }, 
+  "fast.a": {
+    "like": 1
+  }, 
+  "hit.n": {
+    "disgust": 1
+  }, 
+  "dirty.a": {
+    "disgust": 1
+  }, 
+  "murder.n": {
+    "fear": 1
+  }, 
+  "plaintiff.n": {
+    "calmness": 1
+  }, 
+  "biography.n": {
+    "hope": 1
+  }, 
+  "parent.n": {
+    "hate": 1
+  }, 
+  "lead.n": {
+    "anticipation": 1
+  }, 
+  "romanticist.n": {
+    "love": 1
+  }, 
+  "coerce.v": {
+    "disgust": 1
+  }, 
+  "die.v": {
+    "sadness": 1
+  }, 
+  "digest.v": {
+    "disgust": 1
+  }, 
+  "optimistically.r": {
+    "hope": 1
+  }, 
+  "peaceful.a": {
+    "calmness": 1
+  }, 
+  "asset.n": {
+    "like": 1
+  }, 
+  "bombing.n": {
+    "fear": 1
+  }, 
+  "disinclined.a": {
+    "disgust": 1
+  }, 
+  "exuberance.n": {
+    "joy": 1
+  }, 
+  "brood.v": {
+    "anger": 1
+  }, 
+  "amicably.r": {
+    "like": 1
+  }, 
+  "ghost.n": {
+    "fear": 1
+  }, 
+  "ingratitude.n": {
+    "like": 1
+  }, 
+  "friendly.a": {
+    "like": 1
+  }, 
+  "dolor.n": {
+    "sadness": 1
+  }, 
+  "privacy.n": {
+    "like": 1
+  }, 
+  "festival.n": {
+    "joy": 1
+  }, 
+  "promise.n": {
+    "anticipation": 1
+  }, 
+  "unready.a": {
+    "disgust": 1
+  }, 
+  "acceptable.a": {
+    "like": 1
+  }, 
+  "holiday.n": {
+    "like": 1
+  }, 
+  "united_nations.n": {
+    "anticipation": 1
+  }, 
+  "amorousness.n": {
+    "love": 1
+  }, 
+  "unlucky.a": {
+    "sadness": 1
+  }, 
+  "exultation.n": {
+    "joy": 1
+  }, 
+  "unhesitatingly.r": {
+    "calmness": 1
+  }, 
+  "better.v": {
+    "like": 1
+  }, 
+  "oppressively.r": {
+    "sadness": 1
+  }, 
+  "maestro.n": {
+    "anticipation": 1
+  }, 
+  "drunk.n": {
+    "disgust": 1
+  }, 
+  "blast.v": {
+    "fear": 1
+  }, 
+  "blast.n": {
+    "fear": 1
+  }, 
+  "appealing.a": {
+    "like": 1
+  }, 
+  "securely.r": {
+    "calmness": 1
+  }, 
+  "civil.a": {
+    "like": 1
+  }, 
+  "strange.a": {
+    "disgust": 1
+  }, 
+  "decapitate.v": {
+    "fear": 1
+  }, 
+  "argue.v": {
+    "anger": 1
+  }, 
+  "gold.n": {
+    "like": 1
+  }, 
+  "maleficence.n": {
+    "disgust": 1
+  }, 
+  "hysteria.n": {
+    "fear": 1
+  }, 
+  "malicious.a": {
+    "disgust": 1
+  }, 
+  "torment.v": {
+    "disgust": 1
+  }, 
+  "adequately.r": {
+    "like": 1
+  }, 
+  "save.v": {
+    "like": 1
+  }, 
+  "coldness.n": {
+    "disgust": 1
+  }, 
+  "strongly.r": {
+    "like": 1
+  }, 
+  "functional.a": {
+    "like": 1
+  }, 
+  "wiggle.n": {
+    "like": 1
+  }, 
+  "assume.v": {
+    "disgust": 1
+  }, 
+  "contend.v": {
+    "fear": 1
+  }, 
+  "astonishment.n": {
+    "surprise": 1
+  }, 
+  "backsliding.n": {
+    "hope": 1
+  }, 
+  "modern.a": {
+    "like": 1
+  }, 
+  "unexciting.a": {
+    "sadness": 1
+  }, 
+  "shyly.r": {
+    "fear": 1
+  }, 
+  "basement.n": {
+    "disgust": 1
+  }, 
+  "willing.a": {
+    "like": 1
+  }, 
+  "rich_people.n": {
+    "like": 1
+  }, 
+  "encourage.v": {
+    "hope": 1
+  }, 
+  "fearlessly.r": {
+    "calmness": 1
+  }, 
+  "well.r": {
+    "like": 1
+  }, 
+  "frivolity.n": {
+    "disgust": 1
+  }, 
+  "convenient.a": {
+    "like": 1
+  }, 
+  "courteous.a": {
+    "like": 1
+  }, 
+  "penitently.r": {
+    "sadness": 1
+  }, 
+  "strong.a": {
+    "ambiguous": 1
+  }, 
+  "gust.n": {
+    "disgust": 1
+  }, 
+  "cash.n": {
+    "like": 1
+  }, 
+  "easiness.n": {
+    "calmness": 1
+  }, 
+  "antibiotic.a": {
+    "hope": 1
+  }, 
+  "unconcerned.a": {
+    "calmness": 1
+  }, 
+  "antibiotic.n": {
+    "anticipation": 1
+  }, 
+  "abridge.v": {
+    "disgust": 1
+  }, 
+  "hole.n": {
+    "disgust": 1
+  }, 
+  "inclination.n": {
+    "like": 1
+  }, 
+  "repent.v": {
+    "sadness": 1
+  }, 
+  "melt.v": {
+    "disgust": 1
+  }, 
+  "peace.n": {
+    "fear": 1
+  }, 
+  "rest.n": {
+    "anticipation": 1
+  }, 
+  "misery.n": {
+    "sadness": 1
+  }, 
+  "support.n": {
+    "hope": 1
+  }, 
+  "frustration.n": {
+    "disgust": 1
+  }, 
+  "siege.n": {
+    "fear": 1
+  }, 
+  "electricity.n": {
+    "ambiguous": 1
+  }, 
+  "surprise.v": {
+    "surprise": 1
+  }, 
+  "noisily.r": {
+    "disgust": 1
+  }, 
+  "surprise.n": {
+    "surprise": 1
+  }, 
+  "reasonably.r": {
+    "anticipation": 1
+  }, 
+  "fine.a": {
+    "like": 1
+  }, 
+  "fine.n": {
+    "disgust": 1
+  }, 
+  "spirit.n": {
+    "ambiguous": 1
+  }, 
+  "narrow.a": {
+    "disgust": 1
+  }, 
+  "birth.n": {
+    "calmness": 1
+  }, 
+  "gloom.n": {
+    "sadness": 1
+  }, 
+  "diachronic.a": {
+    "anticipation": 1
+  }, 
+  "creeps.n": {
+    "fear": 1
+  }, 
+  "enviably.r": {
+    "disgust": 1
+  }, 
+  "noisy.a": {
+    "disgust": 1
+  }, 
+  "imperfectly.r": {
+    "disgust": 1
+  }, 
+  "claim.n": {
+    "disgust": 1
+  }, 
+  "spy.n": {
+    "anticipation": 1
+  }, 
+  "neutral.a": {
+    "love": 1
+  }, 
+  "break_even.v": {
+    "like": 1
+  }, 
+  "unresentful.a": {
+    "like": 1
+  }, 
+  "maleficent.a": {
+    "disgust": 1
+  }, 
+  "dream.n": {
+    "anticipation": 1
+  }, 
+  "discontented.a": {
+    "sadness": 1
+  }, 
+  "nightmare.n": {
+    "fear": 1
+  }, 
+  "inefficaciously.r": {
+    "disgust": 1
+  }, 
+  "trained.a": {
+    "like": 1
+  }, 
+  "designed.a": {
+    "anticipation": 1
+  }, 
+  "epidemic.n": {
+    "fear": 1
+  }, 
+  "discourage.v": {
+    "despair": 1
+  }, 
+  "feverishly.r": {
+    "ambiguous": 1
+  }, 
+  "manage.v": {
+    "like": 1
+  }, 
+  "bang.n": {
+    "joy": 1
+  }, 
+  "bang.r": {
+    "disgust": 1
+  }, 
+  "fortune.n": {
+    "hope": 1
+  }, 
+  "bang.v": {
+    "disgust": 1
+  }, 
+  "deceive.v": {
+    "hate": 1
+  }, 
+  "depressing.a": {
+    "sadness": 1
+  }, 
+  "embrace.n": {
+    "love": 1
+  }, 
+  "revise.v": {
+    "anticipation": 1
+  }, 
+  "timidity.n": {
+    "fear": 1
+  }, 
+  "carnival.n": {
+    "like": 1
+  }, 
+  "kind.a": {
+    "calmness": 1
+  }, 
+  "dislike.v": {
+    "disgust": 1
+  }, 
+  "kind.n": {
+    "anticipation": 1
+  }, 
+  "fleshiness.n": {
+    "disgust": 1
+  }, 
+  "isolation.n": {
+    "disgust": 1
+  }, 
+  "unfree.a": {
+    "disgust": 1
+  }, 
+  "danger.n": {
+    "anger": 1
+  }, 
+  "gain.v": {
+    "hope": 1
+  }, 
+  "triumph.n": {
+    "joy": 1
+  }, 
+  "devotion.n": {
+    "love": 1
+  }, 
+  "gymnasium.n": {
+    "joy": 1
+  }, 
+  "closeness.n": {
+    "joy": 1
+  }, 
+  "expectation.n": {
+    "anticipation": 1
+  }, 
+  "calmly.r": {
+    "calmness": 1
+  }, 
+  "leaky.a": {
+    "like": 1
+  }, 
+  "sensational.a": {
+    "like": 1
+  }, 
+  "calamity.n": {
+    "sadness": 1
+  }, 
+  "unfavorable.a": {
+    "disgust": 1
+  }, 
+  "stall.v": {
+    "sadness": 1
+  }, 
+  "woe.n": {
+    "sadness": 1
+  }, 
+  "carefreeness.n": {
+    "joy": 1
+  }, 
+  "lyric.n": {
+    "like": 1
+  }, 
+  "hilarity.n": {
+    "joy": 1
+  }, 
+  "warpath.n": {
+    "disgust": 1
+  }, 
+  "favorable.a": {
+    "like": 1
+  }, 
+  "genius.n": {
+    "anticipation": 1
+  }, 
+  "disbelieve.v": {
+    "disgust": 1
+  }, 
+  "replenish.v": {
+    "like": 1
+  }, 
+  "freedom.n": {
+    "hope": 1
+  }, 
+  "pleasing.a": {
+    "joy": 1
+  }, 
+  "believe.v": {
+    "hope": 1
+  }, 
+  "satisfactory.a": {
+    "joy": 1
+  }, 
+  "perfective.n": {
+    "like": 1
+  }, 
+  "unhelpful.a": {
+    "disgust": 1
+  }, 
+  "self-pity.n": {
+    "sadness": 1
+  }, 
+  "mosquito.n": {
+    "disgust": 1
+  }, 
+  "bleaching_agent.n": {
+    "disgust": 1
+  }, 
+  "friendly.n": {
+    "like": 1
+  }, 
+  "handily.r": {
+    "like": 1
+  }, 
+  "capture.v": {
+    "like": 1
+  }, 
+  "belly_laugh.n": {
+    "joy": 1
+  }, 
+  "worry.v": {
+    "anger": 1
+  }, 
+  "entertainment.n": {
+    "joy": 1
+  }, 
+  "worry.n": {
+    "anger": 1
+  }, 
+  "appreciatively.r": {
+    "like": 1
+  }, 
+  "escape.v": {
+    "disgust": 1
+  }, 
+  "injury.n": {
+    "disgust": 1
+  }, 
+  "escape.n": {
+    "disgust": 1
+  }, 
+  "shopping.n": {
+    "like": 1
+  }, 
+  "woo.v": {
+    "anticipation": 1
+  }, 
+  "falsehood.n": {
+    "disgust": 1
+  }, 
+  "brotherhood.n": {
+    "like": 1
+  }, 
+  "upset.v": {
+    "anger": 1
+  }, 
+  "rescue.n": {
+    "like": 1
+  }, 
+  "sightseeing.n": {
+    "like": 1
+  }, 
+  "antidepressant.n": {
+    "hope": 1
+  }, 
+  "look_down_on.v": {
+    "disgust": 1
+  }, 
+  "hopeless.a": {
+    "despair": 1
+  }, 
+  "musician.n": {
+    "joy": 1
+  }, 
+  "knockout.n": {
+    "fear": 1
+  }, 
+  "outbreak.n": {
+    "disgust": 1
+  }, 
+  "help.v": {
+    "hope": 1
+  }, 
+  "inflame.v": {
+    "ambiguous": 1
+  }, 
+  "uncover.v": {
+    "anticipation": 1
+  }, 
+  "long.r": {
+    "disgust": 1
+  }, 
+  "blind.a": {
+    "sadness": 1
+  }, 
+  "tragedy.n": {
+    "sadness": 1
+  }, 
+  "comfortable.a": {
+    "like": 1
+  }, 
+  "hopelessness.n": {
+    "despair": 1
+  }, 
+  "comfortableness.n": {
+    "joy": 1
+  }, 
+  "long.a": {
+    "disgust": 1
+  }, 
+  "life.n": {
+    "hope": 1
+  }, 
+  "be_born.v": {
+    "joy": 1
+  }, 
+  "limit.n": {
+    "disgust": 1
+  }, 
+  "detestably.r": {
+    "disgust": 1
+  }, 
+  "unafraid.a": {
+    "calmness": 1
+  }, 
+  "available.a": {
+    "like": 1
+  }, 
+  "department_of_justice.n": {
+    "anticipation": 1
+  }, 
+  "self-consciousness.n": {
+    "disgust": 1
+  }, 
+  "dirty.v": {
+    "disgust": 1
+  }, 
+  "titillate.v": {
+    "joy": 1
+  }, 
+  "credible.a": {
+    "hope": 1
+  }, 
+  "resignedly.r": {
+    "sadness": 1
+  }, 
+  "agitated.a": {
+    "ambiguous": 1
+  }, 
+  "old.a": {
+    "disgust": 1
+  }, 
+  "guilty.a": {
+    "fear": 1
+  }, 
+  "child.n": {
+    "love": 1
+  }, 
+  "solution.n": {
+    "anticipation": 1
+  }, 
+  "chaos.n": {
+    "anger": 1
+  }, 
+  "problem.n": {
+    "disgust": 1
+  }, 
+  "unoriginal.a": {
+    "disgust": 1
+  }, 
+  "colored.a": {
+    "like": 1
+  }, 
+  "distinguish.v": {
+    "anticipation": 1
+  }, 
+  "asexual.a": {
+    "hate": 1
+  }, 
+  "displeasure.n": {
+    "disgust": 1
+  }, 
+  "unassertiveness.n": {
+    "fear": 1
+  }, 
+  "top.n": {
+    "anticipation": 1
+  }, 
+  "top.a": {
+    "anticipation": 1
+  }, 
+  "fever.n": {
+    "ambiguous": 1
+  }, 
+  "shooting.n": {
+    "fear": 1
+  }, 
+  "renege.v": {
+    "disgust": 1
+  }, 
+  "unpopular.a": {
+    "disgust": 1
+  }, 
+  "make.v": {
+    "anticipation": 1
+  }, 
+  "shorten.v": {
+    "disgust": 1
+  }, 
+  "bonus.n": {
+    "like": 1
+  }, 
+  "limbo.n": {
+    "disgust": 1
+  }, 
+  "loyalty.n": {
+    "love": 1
+  }, 
+  "contemn.v": {
+    "disgust": 1
+  }, 
+  "attraction.n": {
+    "joy": 1
+  }, 
+  "alarm.n": {
+    "fear": 1
+  }, 
+  "flop.n": {
+    "fear": 1
+  }, 
+  "pique.v": {
+    "disgust": 1
+  }, 
+  "sulkiness.n": {
+    "disgust": 1
+  }, 
+  "commute.n": {
+    "disgust": 1
+  }, 
+  "deference.n": {
+    "like": 1
+  }, 
+  "alarm.v": {
+    "fear": 1
+  }, 
+  "crack.v": {
+    "disgust": 1
+  }, 
+  "pique.n": {
+    "disgust": 1
+  }, 
+  "smack.n": {
+    "disgust": 1
+  }, 
+  "hotness.n": {
+    "like": 1
+  }, 
+  "waterfront.n": {
+    "like": 1
+  }, 
+  "smack.v": {
+    "fear": 1
+  }, 
+  "wet.a": {
+    "disgust": 1
+  }, 
+  "vindictiveness.n": {
+    "disgust": 1
+  }
+}

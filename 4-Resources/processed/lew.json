@@ -1,0 +1,8682 @@
+{
+  "eager#ADJECTIVE": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "hail#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "remain#VERB": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "guest#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "shoe#NOUN": {
+    "Activation": 5.166666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "ultimate#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 6.0, 
+    "Power": 5.0
+  }, 
+  "tenebrific#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "horse#NOUN": {
+    "Activation": 6.375, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "brown#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "it#NOUN": {
+    "Activation": 5.230303030303031, 
+    "Evaluation": 4.951515151515151, 
+    "Power": 5.0
+  }, 
+  "whole#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.2142857142857135
+  }, 
+  "winning-post#ADVERB": {
+    "Activation": 6.222222222222222, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "peel#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "declar#VERB": {
+    "Activation": 5.444444444444445, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "thread#NOUN": {
+    "Activation": 5.0666666666666655, 
+    "Evaluation": 4.666666666666667, 
+    "Power": 5.0
+  }, 
+  "loss#NOUN": {
+    "Activation": 4.8, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "hole#NOUN": {
+    "Activation": 5.625, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "wed#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 6.0, 
+    "Power": 5.0
+  }, 
+  "lost#ADJECTIVE": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "frighten#VERB": {
+    "Activation": 6.1, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "higher#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "too#ADVERB": {
+    "Activation": 5.047619047619048, 
+    "Evaluation": 4.571428571428571, 
+    "Power": 5.0
+  }, 
+  "weep#VERB": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "home#NOUN": {
+    "Activation": 4.7142857142857135, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "silenced#ADJECTIVE": {
+    "Activation": 7.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "skip#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "kill#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "gone#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "laughing#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "chop-chop#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "forgot#VERB": {
+    "Activation": 4.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "honest#ADJECTIVE": {
+    "Activation": 4.8, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "dreadful#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "grateful#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "smile#VERB": {
+    "Activation": 5.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "thi#VERB": {
+    "Activation": 7.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "approach#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "boasting#NOUN": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.777777777777778
+  }, 
+  "worst#NOUN": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "step#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sit#VERB": {
+    "Activation": 5.277777777777778, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "fix#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "thunder#NOUN": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "neighbour#NOUN": {
+    "Activation": 4.8, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "foot#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "dulness#NOUN": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "can#VERB": {
+    "Activation": 5.111111111111112, 
+    "Evaluation": 5.0, 
+    "Power": 5.111111111111112
+  }, 
+  "virgin#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "beside#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sun#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "manic#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "dancing#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "given#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "thinking#NOUN": {
+    "Activation": 6.5, 
+    "Evaluation": 6.0, 
+    "Power": 4.0
+  }, 
+  "rest#NOUN": {
+    "Activation": 5.166666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "spent#VERB": {
+    "Activation": 4.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sister#NOUN": {
+    "Activation": 5.833333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "find#NOUN": {
+    "Activation": 6.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "inquir#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "tender#ADJECTIVE": {
+    "Activation": 3.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "drove#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "ring#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "token#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "new-year#NOUN": {
+    "Activation": 7.0, 
+    "Evaluation": 4.25, 
+    "Power": 4.75
+  }, 
+  "allow#VERB": {
+    "Activation": 6.833333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "rode#VERB": {
+    "Activation": 6.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "great#ADJECTIVE": {
+    "Activation": 5.690476190476192, 
+    "Evaluation": 5.571428571428571, 
+    "Power": 5.095238095238095
+  }, 
+  "sky#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "bui#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "nice#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 6.0, 
+    "Power": 5.0
+  }, 
+  "swindler#NOUN": {
+    "Activation": 4.854545454545455, 
+    "Evaluation": 5.036363636363636, 
+    "Power": 4.9818181818181815
+  }, 
+  "reverberant#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "fabric#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "ever#ADVERB": {
+    "Activation": 6.227272727272728, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "fit_for#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "coldest#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "open_up#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "too#NOUN": {
+    "Activation": 7.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "have#NOUN": {
+    "Activation": 7.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.5
+  }, 
+  "undivided#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "stagnat#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "chang#VERB": {
+    "Activation": 6.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "lodge#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "face_up#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "breast#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "cup#NOUN": {
+    "Activation": 5.666666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "empire#NOUN": {
+    "Activation": 6.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "talk#VERB": {
+    "Activation": 4.181818181818182, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "shitless#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "cruel#ADJECTIVE": {
+    "Activation": 8.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "carved#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "silly#ADJECTIVE": {
+    "Activation": 6.833333333333333, 
+    "Evaluation": 3.1666666666666665, 
+    "Power": 5.5
+  }, 
+  "laugh#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "then#ADJECTIVE": {
+    "Activation": 5.413333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "true#ADJECTIVE": {
+    "Activation": 6.5625, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "rate#NOUN": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "glass#NOUN": {
+    "Activation": 4.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "loom#NOUN": {
+    "Activation": 5.2, 
+    "Evaluation": 4.888888888888888, 
+    "Power": 5.0
+  }, 
+  "glittering#ADJECTIVE": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "continu#VERB": {
+    "Activation": 5.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "stole#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "flung#VERB": {
+    "Activation": 6.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "will#NOUN": {
+    "Activation": 6.375, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "understand#VERB": {
+    "Activation": 5.352941176470588, 
+    "Evaluation": 4.529411764705881, 
+    "Power": 5.0
+  }, 
+  "part#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "i#NOUN": {
+    "Activation": 5.721311475409836, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "busy#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "overjoyed#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "rattl#VERB": {
+    "Activation": 5.833333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "tell#VERB": {
+    "Activation": 5.533333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "home#ADVERB": {
+    "Activation": 6.5, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "gate#NOUN": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "on_a_higher_floor#ADVERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "your#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "weaving#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "want#VERB": {
+    "Activation": 5.625, 
+    "Evaluation": 4.833333333333333, 
+    "Power": 5.0
+  }, 
+  "open#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "thundering#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unclothed#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "robe#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "there#ADJECTIVE": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "wrong#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "children#NOUN": {
+    "Activation": 5.3828125, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "marvellous#ADJECTIVE": {
+    "Activation": 6.166666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "no_more#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "feeling#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "serious#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "wide#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "afraid#ADJECTIVE": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "statesmen#NOUN": {
+    "Activation": 4.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "lonely#ADJECTIVE": {
+    "Activation": 5.166666666666667, 
+    "Evaluation": 6.0, 
+    "Power": 5.333333333333333
+  }, 
+  "wine#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 4.666666666666667, 
+    "Power": 5.0
+  }, 
+  "unadvisable#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "riddled#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unrespectable#ADJECTIVE": {
+    "Activation": 3.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "dullness#NOUN": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "rag#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "yet#ADVERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "fly#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "top#ADJECTIVE": {
+    "Activation": 5.375, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "suit#NOUN": {
+    "Activation": 5.2, 
+    "Evaluation": 5.155555555555556, 
+    "Power": 5.0
+  }, 
+  "then#ADVERB": {
+    "Activation": 5.409090909090909, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "determined#ADJECTIVE": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "wet#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "brilliant#ADJECTIVE": {
+    "Activation": 5.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "call#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "best#ADJECTIVE": {
+    "Activation": 4.727272727272728, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "well-fixed#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "seem#VERB": {
+    "Activation": 5.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "penny#NOUN": {
+    "Activation": 5.75, 
+    "Evaluation": 4.5, 
+    "Power": 5.0
+  }, 
+  "scene#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "bear_on#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "way#NOUN": {
+    "Activation": 6.2, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "good-by#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "steaming#ADJECTIVE": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "needle#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unpardonably#NOUN": {
+    "Activation": 5.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "another#NOUN": {
+    "Activation": 4.8, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "hold#VERB": {
+    "Activation": 5.571428571428571, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "us#VERB": {
+    "Activation": 4.368421052631579, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "spot#NOUN": {
+    "Activation": 5.166666666666667, 
+    "Evaluation": 6.166666666666667, 
+    "Power": 5.0
+  }, 
+  "believ#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "floor#NOUN": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "after#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "dare#VERB": {
+    "Activation": 6.428571428571429, 
+    "Evaluation": 4.928571428571429, 
+    "Power": 5.0
+  }, 
+  "slowly#ADVERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "acknowledg#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "spring#NOUN": {
+    "Activation": 5.794871794871795, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "leav#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "settl#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "lesson#NOUN": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "both#ADVERB": {
+    "Activation": 5.857142857142857, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "wound#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 6.166666666666667, 
+    "Power": 5.0
+  }, 
+  "dope_off#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "ready_and_waiting#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "long#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "polished#ADJECTIVE": {
+    "Activation": 4.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "graciously#ADVERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "hast#VERB": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "mouth#NOUN": {
+    "Activation": 5.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "admired#ADJECTIVE": {
+    "Activation": 4.8, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "ceremony#NOUN": {
+    "Activation": 4.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unfrozen#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "only#ADVERB": {
+    "Activation": 5.703703703703703, 
+    "Evaluation": 4.814814814814815, 
+    "Power": 4.962962962962963
+  }, 
+  "eliminat#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "wish#VERB": {
+    "Activation": 5.833333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 4.888888888888888
+  }, 
+  "eldest#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "appearance#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "ceas#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "found#VERB": {
+    "Activation": 5.2, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "reach#VERB": {
+    "Activation": 5.7, 
+    "Evaluation": 4.4, 
+    "Power": 5.0
+  }, 
+  "bust#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "fall#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "merry#ADJECTIVE": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "ask#VERB": {
+    "Activation": 5.296296296296297, 
+    "Evaluation": 5.0, 
+    "Power": 5.092592592592593
+  }, 
+  "stiffness#NOUN": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "try#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "music#NOUN": {
+    "Activation": 5.6875, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "judge#NOUN": {
+    "Activation": 4.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.2
+  }, 
+  "top#NOUN": {
+    "Activation": 6.1, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "looked#NOUN": {
+    "Activation": 5.833333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "daily#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "upstair#ADJECTIVE": {
+    "Activation": 2.0, 
+    "Evaluation": 1.0, 
+    "Power": 4.0
+  }, 
+  "stalking#ADJECTIVE": {
+    "Activation": 8.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sad#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "promising#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "word#NOUN": {
+    "Activation": 6.5625, 
+    "Evaluation": 4.8125, 
+    "Power": 4.9375
+  }, 
+  "road#NOUN": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "cloth#NOUN": {
+    "Activation": 5.307692307692308, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "lost#VERB": {
+    "Activation": 5.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "awake#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "befal#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "verger#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "satellite#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "economy#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unwrap#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "rearward#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unnoticed#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "cover#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "silk#NOUN": {
+    "Activation": 5.1, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "black#ADJECTIVE": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unawakened#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "woodenly#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "preserve#NOUN": {
+    "Activation": 5.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "transparent#ADJECTIVE": {
+    "Activation": 4.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "will#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "back#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "hardness#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sorrow#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "building#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "speaking#ADJECTIVE": {
+    "Activation": 5.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "neither#ADVERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "savory#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "ungrateful#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "go_down#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "green#ADJECTIVE": {
+    "Activation": 4.642857142857143, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "fear#VERB": {
+    "Activation": 5.2, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "matter#NOUN": {
+    "Activation": 5.307692307692308, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "effigy#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "hour#NOUN": {
+    "Activation": 5.538461538461537, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "away#ADVERB": {
+    "Activation": 5.428571428571429, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "gruff#ADJECTIVE": {
+    "Activation": 6.833333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "larger#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "low#ADVERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "tenebrous#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "disrespectful#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "requir#VERB": {
+    "Activation": 5.2, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "tame#ADJECTIVE": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "trouser#NOUN": {
+    "Activation": 5.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "coat#NOUN": {
+    "Activation": 5.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "finished#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "downstairs#ADVERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "go_forth#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "large#NOUN": {
+    "Activation": 7.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "feeble#ADJECTIVE": {
+    "Activation": 4.666666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "beautifully#ADVERB": {
+    "Activation": 4.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "blew#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "image#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "clothe#NOUN": {
+    "Activation": 5.377777777777777, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "cool#ADJECTIVE": {
+    "Activation": 5.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "slug#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "lake#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "familiar#ADJECTIVE": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "last#VERB": {
+    "Activation": 4.5, 
+    "Evaluation": 5.0, 
+    "Power": 4.75
+  }, 
+  "air#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "descend#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "sleety#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "drawer#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "eider-down#NOUN": {
+    "Activation": 5.375, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "lighted#ADJECTIVE": {
+    "Activation": 4.5, 
+    "Evaluation": 6.5, 
+    "Power": 5.5
+  }, 
+  "warm#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 4.75, 
+    "Power": 5.0
+  }, 
+  "go_out#VERB": {
+    "Activation": 2.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "horn#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "bitterness#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "stingy#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "slender#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "songster#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "bundle#NOUN": {
+    "Activation": 5.625, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "admir#VERB": {
+    "Activation": 5.173913043478261, 
+    "Evaluation": 4.782608695652174, 
+    "Power": 5.0
+  }, 
+  "wrap#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "print#NOUN": {
+    "Activation": 6.166666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "ear#NOUN": {
+    "Activation": 6.166666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "female_parent#NOUN": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "uncover#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "young#ADJECTIVE": {
+    "Activation": 5.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "pick#VERB": {
+    "Activation": 5.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "is#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "request#VERB": {
+    "Activation": 5.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unmusical#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "face#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "go#VERB": {
+    "Activation": 6.1, 
+    "Evaluation": 5.0, 
+    "Power": 5.366666666666665
+  }, 
+  "peer#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "real#ADJECTIVE": {
+    "Activation": 5.517857142857143, 
+    "Evaluation": 5.196428571428571, 
+    "Power": 5.0
+  }, 
+  "first#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "mass#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "joy#NOUN": {
+    "Activation": 6.538461538461537, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "quiet#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "kind#NOUN": {
+    "Activation": 5.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "if#NOUN": {
+    "Activation": 5.071428571428571, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "figure#NOUN": {
+    "Activation": 5.3, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "gown#NOUN": {
+    "Activation": 7.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sent#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "cornice#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "axe#NOUN": {
+    "Activation": 7.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "darkling#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "after#NOUN": {
+    "Activation": 5.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "apron#NOUN": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "cold#NOUN": {
+    "Activation": 5.055555555555555, 
+    "Evaluation": 4.888888888888888, 
+    "Power": 5.0
+  }, 
+  "wait#VERB": {
+    "Activation": 5.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "branche#NOUN": {
+    "Activation": 5.9, 
+    "Evaluation": 5.533333333333333, 
+    "Power": 5.1
+  }, 
+  "hair#NOUN": {
+    "Activation": 5.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "fruit#NOUN": {
+    "Activation": 5.222222222222222, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "speedily#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "fire#NOUN": {
+    "Activation": 5.25, 
+    "Evaluation": 6.0, 
+    "Power": 6.0
+  }, 
+  "undo#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "troubl#VERB": {
+    "Activation": 4.5, 
+    "Evaluation": 5.0, 
+    "Power": 4.75
+  }, 
+  "indeed#NOUN": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "door#NOUN": {
+    "Activation": 6.342857142857143, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "kindled#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 6.0, 
+    "Power": 5.0
+  }, 
+  "note#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "possible#ADJECTIVE": {
+    "Activation": 4.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "posthumous#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "strip_down#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "historical#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "show#VERB": {
+    "Activation": 5.8125, 
+    "Evaluation": 5.0, 
+    "Power": 5.25
+  }, 
+  "lovely#ADJECTIVE": {
+    "Activation": 5.458333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "undress#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "safe_and_sound#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "folk#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "get_out#VERB": {
+    "Activation": 2.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "steady#ADJECTIVE": {
+    "Activation": 3.555555555555556, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "though#ADVERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "back#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "streak#NOUN": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "confront#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "cage#NOUN": {
+    "Activation": 5.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "match#NOUN": {
+    "Activation": 5.888888888888888, 
+    "Evaluation": 5.0, 
+    "Power": 5.055555555555555
+  }, 
+  "appoint#VERB": {
+    "Activation": 4.8, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "leading#ADJECTIVE": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "work#VERB": {
+    "Activation": 4.92, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "blameless#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "downstairs#ADJECTIVE": {
+    "Activation": 7.5, 
+    "Evaluation": 8.333333333333334, 
+    "Power": 5.5
+  }, 
+  "undersize#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "twinkling#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "wast#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "hard#ADVERB": {
+    "Activation": 4.727272727272728, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "colour#NOUN": {
+    "Activation": 5.428571428571429, 
+    "Evaluation": 5.257142857142857, 
+    "Power": 5.257142857142857
+  }, 
+  "father#NOUN": {
+    "Activation": 6.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 4.7333333333333325
+  }, 
+  "unsurpassable#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "regard#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "woman#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "pleased#ADJECTIVE": {
+    "Activation": 4.8181818181818175, 
+    "Evaluation": 5.636363636363637, 
+    "Power": 5.454545454545454
+  }, 
+  "suitable#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "room#NOUN": {
+    "Activation": 5.117647058823529, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "rearwards#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "cut#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "lightning#NOUN": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "badly#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "adult_female#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "dinner#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "without_gracious#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "in_that_locate#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "relat#VERB": {
+    "Activation": 5.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "dry#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "say#NOUN": {
+    "Activation": 5.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "glow#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 7.5, 
+    "Power": 5.0
+  }, 
+  "procession#NOUN": {
+    "Activation": 4.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "inglorious#ADJECTIVE": {
+    "Activation": 2.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "tree#NOUN": {
+    "Activation": 5.37, 
+    "Evaluation": 4.94, 
+    "Power": 5.0
+  }, 
+  "miss#VERB": {
+    "Activation": 5.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "anxious#ADJECTIVE": {
+    "Activation": 4.8, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "less#ADVERB": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "child#NOUN": {
+    "Activation": 5.631578947368421, 
+    "Evaluation": 4.9298245614035086, 
+    "Power": 5.0
+  }, 
+  "express_joi#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "companion#NOUN": {
+    "Activation": 5.833333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "blue#ADJECTIVE": {
+    "Activation": 5.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "marble#NOUN": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "avoid#VERB": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "met#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "office#NOUN": {
+    "Activation": 4.76, 
+    "Evaluation": 4.8, 
+    "Power": 5.0
+  }, 
+  "active#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "upper#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "point#VERB": {
+    "Activation": 5.3, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "roost#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unready#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "dart#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sculptured#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "race#VERB": {
+    "Activation": 5.888888888888888, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "toss#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "lie#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "dawn#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "uneager#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "went#VERB": {
+    "Activation": 5.4375, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "warm#NOUN": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unfinished#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "brought#VERB": {
+    "Activation": 5.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "inspissat#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "clap#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "warming#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "corner#NOUN": {
+    "Activation": 5.9, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "appear#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "stolen#VERB": {
+    "Activation": 5.875, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "frightened#ADJECTIVE": {
+    "Activation": 7.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "bright#ADJECTIVE": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "closed#ADJECTIVE": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "hiding-place#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "nascency#NOUN": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "love#VERB": {
+    "Activation": 5.555555555555555, 
+    "Evaluation": 5.111111111111112, 
+    "Power": 5.055555555555555
+  }, 
+  "trod#VERB": {
+    "Activation": 7.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "seeable#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "selfish#ADJECTIVE": {
+    "Activation": 4.9, 
+    "Evaluation": 4.766666666666667, 
+    "Power": 5.0
+  }, 
+  "gave#VERB": {
+    "Activation": 4.666666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "adventure#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "lighting#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 7.0, 
+    "Power": 4.0
+  }, 
+  "get#VERB": {
+    "Activation": 5.638888888888888, 
+    "Evaluation": 5.0, 
+    "Power": 4.972222222222222
+  }, 
+  "unsilenced#ADJECTIVE": {
+    "Activation": 2.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "break#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "led#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "uncut#ADJECTIVE": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "trill#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unweav#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "kept#VERB": {
+    "Activation": 5.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "expos#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "shore#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "death#VERB": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "might#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "husband#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "warbling#NOUN": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "linnet#NOUN": {
+    "Activation": 5.666666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "plai#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 4.857142857142857, 
+    "Power": 5.0
+  }, 
+  "short#ADJECTIVE": {
+    "Activation": 3.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "son#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "piece#NOUN": {
+    "Activation": 5.1, 
+    "Evaluation": 4.5, 
+    "Power": 5.0
+  }, 
+  "surprised#ADJECTIVE": {
+    "Activation": 8.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "jewel#NOUN": {
+    "Activation": 6.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "cobweb#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.2, 
+    "Power": 5.6
+  }, 
+  "snug#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "cheerful#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "water-cooled#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "listen#VERB": {
+    "Activation": 4.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "marri#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "afternoon#NOUN": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "fine#ADJECTIVE": {
+    "Activation": 5.642857142857143, 
+    "Evaluation": 5.178571428571429, 
+    "Power": 5.107142857142857
+  }, 
+  "lower#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "flake_out#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "thankless#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "low#ADJECTIVE": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "wonderful#ADJECTIVE": {
+    "Activation": 5.388888888888888, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "gratified#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "thought#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "right#ADJECTIVE": {
+    "Activation": 5.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "through#ADJECTIVE": {
+    "Activation": 5.833333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "dust-heap#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "queen#NOUN": {
+    "Activation": 5.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "musician#NOUN": {
+    "Activation": 6.166666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "undersized#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "clear#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "be_born#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "huge#ADJECTIVE": {
+    "Activation": 4.833333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "shining#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "people#NOUN": {
+    "Activation": 5.216216216216216, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unlighted#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 3.0, 
+    "Power": 4.0
+  }, 
+  "hopeful#NOUN": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "twelve#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "ignited#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 6.0, 
+    "Power": 5.0
+  }, 
+  "grew#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "dishonest#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "busily#ADVERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "country#NOUN": {
+    "Activation": 5.125, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "thousand#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "resting-place#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "come_down#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "minister#NOUN": {
+    "Activation": 4.9, 
+    "Evaluation": 5.0, 
+    "Power": 4.866666666666665
+  }, 
+  "order#NOUN": {
+    "Activation": 4.307692307692308, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "bent#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "silver#NOUN": {
+    "Activation": 7.166666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "projected#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "dependent#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "farthest#ADJECTIVE": {
+    "Activation": 6.25, 
+    "Evaluation": 6.166666666666667, 
+    "Power": 5.25
+  }, 
+  "unfit#ADJECTIVE": {
+    "Activation": 5.7, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sweetish#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "face#NOUN": {
+    "Activation": 6.2, 
+    "Evaluation": 4.8, 
+    "Power": 5.0
+  }, 
+  "indeed#ADVERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "coloured#ADJECTIVE": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "seat#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "get_go#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "long#ADJECTIVE": {
+    "Activation": 6.225806451612903, 
+    "Evaluation": 4.870967741935484, 
+    "Power": 5.064516129032258
+  }, 
+  "place#NOUN": {
+    "Activation": 5.888888888888888, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sundown#NOUN": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "burning#ADJECTIVE": {
+    "Activation": 5.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "hunger#NOUN": {
+    "Activation": 5.166666666666667, 
+    "Evaluation": 4.666666666666667, 
+    "Power": 5.0
+  }, 
+  "bed#NOUN": {
+    "Activation": 6.0588235294117645, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "go_awai#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "body#NOUN": {
+    "Activation": 5.307692307692308, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "bedstead#NOUN": {
+    "Activation": 5.375, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sold#VERB": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "delicious#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "previous#ADJECTIVE": {
+    "Activation": 4.8, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "hopelessness#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "terrible#ADJECTIVE": {
+    "Activation": 6.2, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "uphold#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "what#NOUN": {
+    "Activation": 5.862068965517241, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "ground#NOUN": {
+    "Activation": 5.1, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "star#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "roar#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "ungraciously#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "delicate#ADJECTIVE": {
+    "Activation": 3.8333333333333335, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "impossible#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "frog#NOUN": {
+    "Activation": 5.902777777777778, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "well-heeled#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "accept#VERB": {
+    "Activation": 4.222222222222222, 
+    "Evaluation": 6.0, 
+    "Power": 5.444444444444445
+  }, 
+  "paint#VERB": {
+    "Activation": 5.166666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sweet#ADJECTIVE": {
+    "Activation": 6.166666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "him#NOUN": {
+    "Activation": 5.6875, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "respectable#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "sleepy#ADJECTIVE": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "lai#VERB": {
+    "Activation": 5.7333333333333325, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unhappy#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "worthy#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "nonviable#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "joyous#NOUN": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "her#NOUN": {
+    "Activation": 6.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unable#ADJECTIVE": {
+    "Activation": 5.2, 
+    "Evaluation": 5.0, 
+    "Power": 4.2
+  }, 
+  "false#ADJECTIVE": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "change#NOUN": {
+    "Activation": 5.166666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "lie#VERB": {
+    "Activation": 5.125, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "doze_off#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "downcast#ADJECTIVE": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "cry#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "stay_in_plac#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "wind#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "side#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "abutment#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "scissor#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "goose#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "noise#NOUN": {
+    "Activation": 5.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "oblig#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "dawdl#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "female_monarch#NOUN": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "quietly#ADVERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "more#ADVERB": {
+    "Activation": 4.857142857142857, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "ne'er#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "luck#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "wall#NOUN": {
+    "Activation": 5.7727272727272725, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "alarming#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "fat#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "afterwards#ADVERB": {
+    "Activation": 5.636363636363637, 
+    "Evaluation": 5.2727272727272725, 
+    "Power": 5.181818181818182
+  }, 
+  "best#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "quality#NOUN": {
+    "Activation": 5.1, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "glad#ADJECTIVE": {
+    "Activation": 5.166666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "undressed#NOUN": {
+    "Activation": 4.8, 
+    "Evaluation": 5.0, 
+    "Power": 4.8
+  }, 
+  "creature#NOUN": {
+    "Activation": 7.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "the#NOUN": {
+    "Activation": 5.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "slow#ADJECTIVE": {
+    "Activation": 3.555555555555556, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "canopy#NOUN": {
+    "Activation": 4.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "uncool#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "danc#VERB": {
+    "Activation": 5.62962962962963, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "knock#VERB": {
+    "Activation": 6.4375, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "fellow#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "heinrich#NOUN": {
+    "Activation": 6.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "call#NOUN": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 3.0
+  }, 
+  "hurt#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "golden#ADJECTIVE": {
+    "Activation": 5.75, 
+    "Evaluation": 4.892857142857143, 
+    "Power": 5.0
+  }, 
+  "slip#VERB": {
+    "Activation": 4.666666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "secret#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "composure#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "market#NOUN": {
+    "Activation": 6.166666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "rapidly#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "noble#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "incertain#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "walk#VERB": {
+    "Activation": 4.8, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "stretch#VERB": {
+    "Activation": 5.466666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "flame#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "run#VERB": {
+    "Activation": 6.470588235294118, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "very#ADVERB": {
+    "Activation": 5.012195121951219, 
+    "Evaluation": 4.975609756097561, 
+    "Power": 5.0
+  }, 
+  "pretended#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "stop#NOUN": {
+    "Activation": 3.8333333333333335, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "spring-time#NOUN": {
+    "Activation": 3.8333333333333335, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "diamond#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "disrob#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "yokel-like#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "rolling#ADJECTIVE": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "ill#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "rowing#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "winter#ADJECTIVE": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "answer#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "left#VERB": {
+    "Activation": 4.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "return#VERB": {
+    "Activation": 4.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "bad#ADJECTIVE": {
+    "Activation": 4.8, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "winged#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "shade#NOUN": {
+    "Activation": 6.357142857142857, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "huddl#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "pretty#ADJECTIVE": {
+    "Activation": 5.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "understood#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "even#ADVERB": {
+    "Activation": 6.0, 
+    "Evaluation": 4.8, 
+    "Power": 5.0
+  }, 
+  "pious#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 4.5, 
+    "Power": 5.0
+  }, 
+  "intermediate#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "brighter#ADJECTIVE": {
+    "Activation": 5.5, 
+    "Evaluation": 7.5, 
+    "Power": 5.0
+  }, 
+  "noon#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "as#ADVERB": {
+    "Activation": 6.166666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "discover#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "can#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 3.8
+  }, 
+  "malicious#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "prince#NOUN": {
+    "Activation": 6.021739130434782, 
+    "Evaluation": 5.0, 
+    "Power": 5.173913043478261
+  }, 
+  "catch#VERB": {
+    "Activation": 5.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "guilty#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "innocent#ADJECTIVE": {
+    "Activation": 5.2, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "refrigerated#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "uncovered#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "water#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "eve#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "angle#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "quiet#NOUN": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "corpse#NOUN": {
+    "Activation": 7.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "bring#VERB": {
+    "Activation": 6.2, 
+    "Evaluation": 5.0, 
+    "Power": 5.7
+  }, 
+  "before#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "frozen#VERB": {
+    "Activation": 7.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "then#NOUN": {
+    "Activation": 5.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "painful#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "comfortable#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unconcealed#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "take#VERB": {
+    "Activation": 5.911111111111112, 
+    "Evaluation": 5.0, 
+    "Power": 4.888888888888888
+  }, 
+  "plume#NOUN": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "clutter#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "wake#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "sunset#NOUN": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "much#ADVERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "royal#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "draw#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "slate#NOUN": {
+    "Activation": 5.833333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "wont_to#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "safe#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "dust#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "hubby#NOUN": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "often#ADVERB": {
+    "Activation": 5.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "drawn#VERB": {
+    "Activation": 5.75, 
+    "Evaluation": 4.25, 
+    "Power": 5.0
+  }, 
+  "now#ADVERB": {
+    "Activation": 5.574468085106383, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "intense#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "care#VERB": {
+    "Activation": 4.636363636363637, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "second#NOUN": {
+    "Activation": 5.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "nail#NOUN": {
+    "Activation": 6.428571428571429, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "animal#NOUN": {
+    "Activation": 4.777777777777778, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unmelodious#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "use#NOUN": {
+    "Activation": 5.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "cheek#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "independent#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "old#ADJECTIVE": {
+    "Activation": 5.155844155844156, 
+    "Evaluation": 5.0, 
+    "Power": 4.922077922077921
+  }, 
+  "street#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "hare#NOUN": {
+    "Activation": 5.388888888888888, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "hard#ADJECTIVE": {
+    "Activation": 5.090909090909091, 
+    "Evaluation": 4.636363636363637, 
+    "Power": 5.0
+  }, 
+  "irreproachable#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "thought#NOUN": {
+    "Activation": 4.4642857142857135, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "proven#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 3.0, 
+    "Power": 4.0
+  }, 
+  "smart#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "handsome#ADJECTIVE": {
+    "Activation": 7.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "answer#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "frozen#ADJECTIVE": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "ill#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "gold#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "love#NOUN": {
+    "Activation": 6.625, 
+    "Evaluation": 5.291666666666667, 
+    "Power": 5.0
+  }, 
+  "push#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "ground#ADJECTIVE": {
+    "Activation": 5.2, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "bring_down#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "bedroom#NOUN": {
+    "Activation": 5.375, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "perhaps#ADVERB": {
+    "Activation": 5.166666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "built#VERB": {
+    "Activation": 5.833333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "majesty#NOUN": {
+    "Activation": 5.0666666666666655, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "castle#NOUN": {
+    "Activation": 5.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "prowling#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "radiosensitive#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "flew#VERB": {
+    "Activation": 6.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "major#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "discontinu#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "uneasy#ADJECTIVE": {
+    "Activation": 4.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unsteady#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "preced#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "trichrome#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "chimney-pot#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "go#NOUN": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "soul#NOUN": {
+    "Activation": 5.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "illuminated#ADJECTIVE": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "long#VERB": {
+    "Activation": 5.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "suchlike#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "choos#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "fork#NOUN": {
+    "Activation": 7.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "admit#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "nonbeing#NOUN": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "bearer#NOUN": {
+    "Activation": 4.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "made#VERB": {
+    "Activation": 5.861111111111112, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "leave#NOUN": {
+    "Activation": 5.666666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 4.916666666666667
+  }, 
+  "won#NOUN": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.777777777777778
+  }, 
+  "feel#VERB": {
+    "Activation": 5.142857142857143, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "food#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "other#ADJECTIVE": {
+    "Activation": 5.4, 
+    "Evaluation": 4.933333333333334, 
+    "Power": 5.0
+  }, 
+  "awok#VERB": {
+    "Activation": 6.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "used_to#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "fallen#VERB": {
+    "Activation": 5.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "tap#VERB": {
+    "Activation": 5.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "found#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "heap#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "move#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "knelt#VERB": {
+    "Activation": 6.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "time#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 4.775, 
+    "Power": 5.0
+  }, 
+  "scrap#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unreal#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "gay#ADJECTIVE": {
+    "Activation": 4.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "turning#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 4.2, 
+    "Power": 4.2
+  }, 
+  "wind#NOUN": {
+    "Activation": 5.607142857142857, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "disenchant#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "inculpable#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "contempt#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "money#NOUN": {
+    "Activation": 5.0588235294117645, 
+    "Evaluation": 4.882352941176471, 
+    "Power": 5.0
+  }, 
+  "graciou#NOUN": {
+    "Activation": 6.375, 
+    "Evaluation": 6.375, 
+    "Power": 5.0
+  }, 
+  "these#ADJECTIVE": {
+    "Activation": 5.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "nearly#ADVERB": {
+    "Activation": 5.111111111111112, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "longing#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "fit#ADJECTIVE": {
+    "Activation": 4.5, 
+    "Evaluation": 4.5, 
+    "Power": 5.0
+  }, 
+  "snatche#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "watch#VERB": {
+    "Activation": 5.166666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "all#NOUN": {
+    "Activation": 5.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "right#NOUN": {
+    "Activation": 5.875, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "silence#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "wa#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "thi#NOUN": {
+    "Activation": 5.7368421052631575, 
+    "Evaluation": 5.2105263157894735, 
+    "Power": 5.2631578947368425
+  }, 
+  "court#NOUN": {
+    "Activation": 5.2, 
+    "Evaluation": 5.0, 
+    "Power": 5.4
+  }, 
+  "stranger#NOUN": {
+    "Activation": 4.8, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "precise#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "only#ADJECTIVE": {
+    "Activation": 4.96, 
+    "Evaluation": 5.0, 
+    "Power": 5.12
+  }, 
+  "going#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 4.5, 
+    "Power": 5.0
+  }, 
+  "pain#NOUN": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "noon-day#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 7.5, 
+    "Power": 5.0
+  }, 
+  "mistrustfully#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "dull#ADJECTIVE": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "mattress#NOUN": {
+    "Activation": 5.541666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "almost#ADVERB": {
+    "Activation": 5.769230769230769, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "purchas#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "backwards#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "obviat#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "theatre#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "conserv#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "carriage#NOUN": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "abid#VERB": {
+    "Activation": 6.5, 
+    "Evaluation": 6.0, 
+    "Power": 5.0
+  }, 
+  "side#NOUN": {
+    "Activation": 5.153846153846153, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "do#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "pink#NOUN": {
+    "Activation": 3.8333333333333335, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "burst#NOUN": {
+    "Activation": 4.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "third#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "nimbus#ADVERB": {
+    "Activation": 5.5, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "becom#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "defiance#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "just#ADVERB": {
+    "Activation": 5.590909090909091, 
+    "Evaluation": 5.136363636363637, 
+    "Power": 5.0
+  }, 
+  "get_rid_of#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "hustl#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "downwardly#ADVERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "astonished#ADJECTIVE": {
+    "Activation": 8.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "certainly#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 7.0, 
+    "Power": 5.0
+  }, 
+  "brighteyed#ADJECTIVE": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "courtier#NOUN": {
+    "Activation": 4.7, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "giants#ADJECTIVE": {
+    "Activation": 4.666666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "mirror#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "deck#VERB": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sweetest#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "heartaching#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "up_to#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "school#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.666666666666667
+  }, 
+  "blood_brother#NOUN": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "sexagenarian#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "block#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "warm#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "saw#NOUN": {
+    "Activation": 5.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "snowflake#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.5
+  }, 
+  "inner#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "distrustfully#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "god#NOUN": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "ungracious#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "tried#ADJECTIVE": {
+    "Activation": 4.375, 
+    "Evaluation": 3.0, 
+    "Power": 4.5
+  }, 
+  "flown#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "not_yet#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "stupefi#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "own#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unaccompanied#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 6.0, 
+    "Power": 5.0
+  }, 
+  "glory#NOUN": {
+    "Activation": 7.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "wide-open#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "velvet#ADJECTIVE": {
+    "Activation": 3.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "imitative#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "brightness#NOUN": {
+    "Activation": 6.25, 
+    "Evaluation": 5.5, 
+    "Power": 5.0
+  }, 
+  "monotonous#ADJECTIVE": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "work#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "snore#VERB": {
+    "Activation": 5.666666666666667, 
+    "Evaluation": 4.833333333333333, 
+    "Power": 5.0
+  }, 
+  "strange#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "therefore#ADVERB": {
+    "Activation": 5.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "scarcely#ADVERB": {
+    "Activation": 5.375, 
+    "Evaluation": 5.0, 
+    "Power": 4.125
+  }, 
+  "fall_asleep#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "till#NOUN": {
+    "Activation": 5.7, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "imagin#VERB": {
+    "Activation": 5.571428571428571, 
+    "Evaluation": 5.285714285714286, 
+    "Power": 4.428571428571429
+  }, 
+  "still#ADVERB": {
+    "Activation": 5.351351351351352, 
+    "Evaluation": 5.0, 
+    "Power": 5.027027027027027
+  }, 
+  "chosen#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "no#ADJECTIVE": {
+    "Activation": 2.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "riant#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "enkindled#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 6.0, 
+    "Power": 5.0
+  }, 
+  "fated#ADJECTIVE": {
+    "Activation": 6.5, 
+    "Evaluation": 6.0, 
+    "Power": 4.75
+  }, 
+  "pale#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "show#NOUN": {
+    "Activation": 5.2, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "loom#VERB": {
+    "Activation": 4.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "take_down#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "female_child#NOUN": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "someone#NOUN": {
+    "Activation": 7.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unbend#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "plum#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "here#ADVERB": {
+    "Activation": 5.172413793103448, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unlock#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "impious#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "open#VERB": {
+    "Activation": 6.243902439024391, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "poorly#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "advis#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.8, 
+    "Power": 4.8
+  }, 
+  "cooed#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sell#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "tricolor#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "let_down#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "loudly#ADVERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "discomposure#NOUN": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "criticis#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "nascence#NOUN": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "planned#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "deep#ADJECTIVE": {
+    "Activation": 5.823529411764706, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "suddenly#ADVERB": {
+    "Activation": 6.357142857142857, 
+    "Evaluation": 5.142857142857143, 
+    "Power": 4.7142857142857135
+  }, 
+  "disillusion#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "sing#VERB": {
+    "Activation": 5.222222222222222, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "other#NOUN": {
+    "Activation": 4.918918918918919, 
+    "Evaluation": 4.864864864864865, 
+    "Power": 5.0
+  }, 
+  "appropriate#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "cannot#NOUN": {
+    "Activation": 5.2, 
+    "Evaluation": 5.0, 
+    "Power": 4.2
+  }, 
+  "place#VERB": {
+    "Activation": 5.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "mocking#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "dissimilar#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "fatherly#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "different#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "summer#NOUN": {
+    "Activation": 4.833333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "clog#NOUN": {
+    "Activation": 5.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "principle#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "back#NOUN": {
+    "Activation": 5.166666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "harness#NOUN": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "down#ADVERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "being#NOUN": {
+    "Activation": 5.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "globe#NOUN": {
+    "Activation": 4.8, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "speed#NOUN": {
+    "Activation": 5.388888888888888, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "beauty#NOUN": {
+    "Activation": 4.6, 
+    "Evaluation": 5.6, 
+    "Power": 5.0
+  }, 
+  "exceedingly#ADVERB": {
+    "Activation": 5.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "loud#ADJECTIVE": {
+    "Activation": 5.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "straight#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "youngest#ADJECTIVE": {
+    "Activation": 5.833333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sound#VERB": {
+    "Activation": 6.166666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "heart#NOUN": {
+    "Activation": 5.8, 
+    "Evaluation": 4.3, 
+    "Power": 4.7
+  }, 
+  "king#NOUN": {
+    "Activation": 5.789473684210527, 
+    "Evaluation": 4.947368421052632, 
+    "Power": 5.0
+  }, 
+  "notice-board#NOUN": {
+    "Activation": 5.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "e'er#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "ponderous#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "lean#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "stone#NOUN": {
+    "Activation": 4.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "invisible#ADJECTIVE": {
+    "Activation": 5.285714285714286, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "man#NOUN": {
+    "Activation": 4.9, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "well#ADVERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.315789473684211, 
+    "Power": 5.105263157894737
+  }, 
+  "prais#VERB": {
+    "Activation": 5.4, 
+    "Evaluation": 5.4, 
+    "Power": 4.6
+  }, 
+  "stop#VERB": {
+    "Activation": 5.857142857142857, 
+    "Evaluation": 4.809523809523808, 
+    "Power": 5.047619047619048
+  }, 
+  "awful#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 3.0, 
+    "Power": 4.0
+  }, 
+  "resolute#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "knife#NOUN": {
+    "Activation": 7.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "how#NOUN": {
+    "Activation": 5.1034482758620685, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "gracelessly#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "knock#NOUN": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "came#VERB": {
+    "Activation": 5.748251748251748, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "wild#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "partly#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "north#NOUN": {
+    "Activation": 5.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "infrequently#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "daylight#NOUN": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "likely#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "again#ADVERB": {
+    "Activation": 5.071428571428571, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "rearward#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "heaven#ADJECTIVE": {
+    "Activation": 5.4, 
+    "Evaluation": 5.8, 
+    "Power": 5.0
+  }, 
+  "hop#VERB": {
+    "Activation": 5.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unusual#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "a#NOUN": {
+    "Activation": 5.111111111111112, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "gone#VERB": {
+    "Activation": 5.166666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 4.166666666666667
+  }, 
+  "start#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "affect#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "married_man#NOUN": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "uncloth#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "ungenerous#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "bustl#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "drop_off#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "minute#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "emperor#NOUN": {
+    "Activation": 4.771428571428571, 
+    "Evaluation": 5.0857142857142845, 
+    "Power": 5.0285714285714285
+  }, 
+  "fairy#NOUN": {
+    "Activation": 6.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "immature#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "train#NOUN": {
+    "Activation": 5.15, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "him#VERB": {
+    "Activation": 5.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "beautiful#NOUN": {
+    "Activation": 5.2, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "tenebrious#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "soaring#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "big#ADJECTIVE": {
+    "Activation": 6.2727272727272725, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unopen#ADJECTIVE": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "pour#VERB": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "haunt#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "mild#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "smell#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "blossom#NOUN": {
+    "Activation": 4.916666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "kingly#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "largest#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "nativity#NOUN": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "fountain#NOUN": {
+    "Activation": 6.583333333333333, 
+    "Evaluation": 5.083333333333333, 
+    "Power": 5.083333333333333
+  }, 
+  "bitterly#NOUN": {
+    "Activation": 5.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sadly#ADVERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "fell#VERB": {
+    "Activation": 5.625, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sure#ADJECTIVE": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "however#NOUN": {
+    "Activation": 5.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "certain#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 6.0, 
+    "Power": 4.0
+  }, 
+  "extraordinary#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "friend#NOUN": {
+    "Activation": 5.2142857142857135, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "deni#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "known#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "hatred#NOUN": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "regular#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "prevent#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "town#NOUN": {
+    "Activation": 4.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "cheep#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "exquisite#ADJECTIVE": {
+    "Activation": 5.6, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "perch#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "clever#ADJECTIVE": {
+    "Activation": 5.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "high#ADJECTIVE": {
+    "Activation": 5.055555555555555, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "cat#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "loneliness#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "counterfeit#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "trustfully#ADVERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "foolish#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 3.0, 
+    "Power": 5.0
+  }, 
+  "parapet#NOUN": {
+    "Activation": 4.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "lift#VERB": {
+    "Activation": 5.777777777777778, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "incorrect#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "impressive#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "peach-tree#NOUN": {
+    "Activation": 3.8333333333333335, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "thrown#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "quickly#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "light-colored#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "felt#VERB": {
+    "Activation": 5.157894736842104, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "soundly#ADVERB": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sweet-voic#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sensitive#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "uncolored#ADJECTIVE": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "strike#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "nowhere#ADVERB": {
+    "Activation": 4.642857142857143, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "resentful#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "experienc#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "at_that_place#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "favourite#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "visible#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "unmarried#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 3.0, 
+    "Power": 4.0
+  }, 
+  "same#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "apace#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "sang#VERB": {
+    "Activation": 5.2142857142857135, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "said#VERB": {
+    "Activation": 5.287234042553192, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "cradle#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "carry_on#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "softly#ADVERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "night#NOUN": {
+    "Activation": 5.666666666666667, 
+    "Evaluation": 4.955555555555556, 
+    "Power": 5.0
+  }, 
+  "here#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "anyth#ADVERB": {
+    "Activation": 5.571428571428571, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "slept#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.916666666666667
+  }, 
+  "unselfish#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "hope#VERB": {
+    "Activation": 5.166666666666667, 
+    "Evaluation": 3.6666666666666665, 
+    "Power": 5.0
+  }, 
+  "manufactur#VERB": {
+    "Activation": 5.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "roll#VERB": {
+    "Activation": 5.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "forc#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "tortoise#NOUN": {
+    "Activation": 5.055555555555555, 
+    "Evaluation": 5.148148148148148, 
+    "Power": 5.148148148148148
+  }, 
+  "wood#NOUN": {
+    "Activation": 5.166666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "ground-floor#ADJECTIVE": {
+    "Activation": 7.0, 
+    "Evaluation": 8.0, 
+    "Power": 5.0
+  }, 
+  "well-to-do#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "get_dress#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "see#NOUN": {
+    "Activation": 5.108108108108108, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "wonderful#NOUN": {
+    "Activation": 7.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "new#ADJECTIVE": {
+    "Activation": 5.0285714285714285, 
+    "Evaluation": 5.0, 
+    "Power": 5.0285714285714285
+  }, 
+  "morning#NOUN": {
+    "Activation": 5.695652173913044, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "broad#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "secret#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "order#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "finish#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "grandmother#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "mother#NOUN": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "field#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "watcher#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "decorat#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sapient#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "bound#VERB": {
+    "Activation": 5.75, 
+    "Evaluation": 5.0, 
+    "Power": 4.75
+  }, 
+  "branch#NOUN": {
+    "Activation": 5.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "today#ADVERB": {
+    "Activation": 4.833333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "gracious#ADJECTIVE": {
+    "Activation": 5.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "disbeliev#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "taken#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "set#VERB": {
+    "Activation": 5.2, 
+    "Evaluation": 5.0, 
+    "Power": 5.3
+  }, 
+  "standing#NOUN": {
+    "Activation": 7.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "wanderer#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unhappily#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 1.0, 
+    "Power": 4.0
+  }, 
+  "listening#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sword#NOUN": {
+    "Activation": 7.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "thrown#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "all#ADJECTIVE": {
+    "Activation": 7.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "any#NOUN": {
+    "Activation": 6.833333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "once#ADVERB": {
+    "Activation": 5.083333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 4.944444444444445
+  }, 
+  "lifeless#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "and#VERB": {
+    "Activation": 6.6875, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "bear#VERB": {
+    "Activation": 4.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.2
+  }, 
+  "win#NOUN": {
+    "Activation": 3.555555555555556, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "rightful#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 7.0, 
+    "Power": 5.0
+  }, 
+  "weird#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "put#NOUN": {
+    "Activation": 6.25, 
+    "Evaluation": 5.0, 
+    "Power": 6.75
+  }, 
+  "always#ADVERB": {
+    "Activation": 5.0740740740740735, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "eider-down#ADJECTIVE": {
+    "Activation": 5.875, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "keep#VERB": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "no_longer#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "gaze#VERB": {
+    "Activation": 8.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "wicker#NOUN": {
+    "Activation": 5.166666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unmoving#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "nasty#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "once#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.125
+  }, 
+  "abolish#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "house#NOUN": {
+    "Activation": 5.666666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "artful#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "walk#NOUN": {
+    "Activation": 5.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "princess#NOUN": {
+    "Activation": 5.778947368421052, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "small#ADJECTIVE": {
+    "Activation": 5.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "wedded#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 6.0, 
+    "Power": 5.0
+  }, 
+  "thin#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "soon#ADVERB": {
+    "Activation": 5.547169811320755, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "specified#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "delightful#ADJECTIVE": {
+    "Activation": 5.375, 
+    "Evaluation": 5.875, 
+    "Power": 5.0
+  }, 
+  "cold#ADJECTIVE": {
+    "Activation": 5.375, 
+    "Evaluation": 4.375, 
+    "Power": 5.0
+  }, 
+  "still#ADJECTIVE": {
+    "Activation": 4.857142857142857, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "so#ADVERB": {
+    "Activation": 5.26595744680851, 
+    "Evaluation": 4.946808510638298, 
+    "Power": 5.0
+  }, 
+  "rub#VERB": {
+    "Activation": 5.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "strip#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "repli#VERB": {
+    "Activation": 4.8, 
+    "Evaluation": 5.6, 
+    "Power": 5.0
+  }, 
+  "present#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "merely#ADVERB": {
+    "Activation": 4.666666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "soldier#NOUN": {
+    "Activation": 5.533333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "else#ADVERB": {
+    "Activation": 5.2, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "some#ADJECTIVE": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "boy#NOUN": {
+    "Activation": 5.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unjust#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 2.0, 
+    "Power": 4.0
+  }, 
+  "held#VERB": {
+    "Activation": 4.833333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "spacious#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "dried#ADJECTIVE": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "profound#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "christmas-tree#NOUN": {
+    "Activation": 5.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "idl#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "detest#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "look#VERB": {
+    "Activation": 5.3125, 
+    "Evaluation": 5.0, 
+    "Power": 4.9625
+  }, 
+  "advice#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "thicken#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "lift#NOUN": {
+    "Activation": 5.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.75
+  }, 
+  "pity#NOUN": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 6.0
+  }, 
+  "exit#VERB": {
+    "Activation": 2.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "curious#ADJECTIVE": {
+    "Activation": 5.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "giant#NOUN": {
+    "Activation": 5.5059523809523805, 
+    "Evaluation": 4.958333333333333, 
+    "Power": 5.053571428571429
+  }, 
+  "prisoner#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "bewail#VERB": {
+    "Activation": 6.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "am#ADVERB": {
+    "Activation": 5.571428571428571, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "chamber#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "race#NOUN": {
+    "Activation": 4.888888888888888, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unimpeachable#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unlit#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 3.0, 
+    "Power": 4.0
+  }, 
+  "bird#NOUN": {
+    "Activation": 5.185185185185185, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "aft#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "charm#NOUN": {
+    "Activation": 8.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "rather#ADVERB": {
+    "Activation": 4.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unaccustomed#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "forth#ADVERB": {
+    "Activation": 5.8181818181818175, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "wound#VERB": {
+    "Activation": 6.2142857142857135, 
+    "Evaluation": 5.142857142857143, 
+    "Power": 5.0
+  }, 
+  "let#VERB": {
+    "Activation": 5.65625, 
+    "Evaluation": 5.40625, 
+    "Power": 5.4375
+  }, 
+  "outer#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "live#VERB": {
+    "Activation": 5.96969696969697, 
+    "Evaluation": 5.363636363636363, 
+    "Power": 5.0
+  }, 
+  "softness#NOUN": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "live#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "ill-natured#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "noisy#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "palm#NOUN": {
+    "Activation": 6.166666666666667, 
+    "Evaluation": 4.333333333333333, 
+    "Power": 5.0
+  }, 
+  "economiz#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "clutter_up#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "plate#NOUN": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "chromatic#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "slid#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "nonpolitical#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "poor#ADJECTIVE": {
+    "Activation": 5.064516129032258, 
+    "Evaluation": 3.7096774193548394, 
+    "Power": 5.0
+  }, 
+  "fold#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "person#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "edge#NOUN": {
+    "Activation": 5.833333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "arriv#VERB": {
+    "Activation": 6.166666666666667, 
+    "Evaluation": 4.0, 
+    "Power": 5.833333333333333
+  }, 
+  "knocking#NOUN": {
+    "Activation": 6.75, 
+    "Evaluation": 5.125, 
+    "Power": 4.5
+  }, 
+  "confident#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "began#VERB": {
+    "Activation": 5.833333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "advance#NOUN": {
+    "Activation": 4.8, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "stand#VERB": {
+    "Activation": 5.833333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "looking-glass#NOUN": {
+    "Activation": 4.7, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "street-puddle#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "easy#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "ledge#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "armchair#NOUN": {
+    "Activation": 4.833333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "to_a_lesser_extent#ADVERB": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "worn#VERB": {
+    "Activation": 5.166666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "fraction#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "yearlong#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "give#VERB": {
+    "Activation": 6.75, 
+    "Evaluation": 5.0, 
+    "Power": 4.75
+  }, 
+  "leafless#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "like#ADJECTIVE": {
+    "Activation": 5.2, 
+    "Evaluation": 4.2, 
+    "Power": 5.0
+  }, 
+  "faint#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "vanish#VERB": {
+    "Activation": 7.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "can#NOUN": {
+    "Activation": 6.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "frost#NOUN": {
+    "Activation": 5.045454545454546, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "remarkable#ADJECTIVE": {
+    "Activation": 4.8, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "roast#NOUN": {
+    "Activation": 5.833333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "mind#NOUN": {
+    "Activation": 6.25, 
+    "Evaluation": 5.25, 
+    "Power": 5.0
+  }, 
+  "each#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "me#NOUN": {
+    "Activation": 6.571428571428571, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "trespassers#NOUN": {
+    "Activation": 6.166666666666667, 
+    "Evaluation": 2.5, 
+    "Power": 7.5
+  }, 
+  "ready#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "downwards#ADVERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "rest#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "awe#NOUN": {
+    "Activation": 6.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "dusty#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "number#NOUN": {
+    "Activation": 4.666666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 4.777777777777778
+  }, 
+  "nonspeaking#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "task#NOUN": {
+    "Activation": 5.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "occult#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "concealed#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "challeng#VERB": {
+    "Activation": 5.888888888888888, 
+    "Evaluation": 6.111111111111112, 
+    "Power": 7.222222222222222
+  }, 
+  "dishonorable#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "wiser#ADJECTIVE": {
+    "Activation": 5.5, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "partially#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "chamberlain#NOUN": {
+    "Activation": 4.8, 
+    "Evaluation": 5.2, 
+    "Power": 4.4
+  }, 
+  "cry#VERB": {
+    "Activation": 5.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "seiz#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "able#ADJECTIVE": {
+    "Activation": 6.181818181818182, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "saw#VERB": {
+    "Activation": 5.898305084745763, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "ugly#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "sparkl#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "half-burnt#VERB": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "picture#NOUN": {
+    "Activation": 4.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "trichromatic#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "stood#VERB": {
+    "Activation": 5.55, 
+    "Evaluation": 5.1, 
+    "Power": 5.0
+  }, 
+  "autumn#NOUN": {
+    "Activation": 4.357142857142857, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "pattern#NOUN": {
+    "Activation": 5.428571428571429, 
+    "Evaluation": 4.857142857142857, 
+    "Power": 5.0
+  }, 
+  "uncertain#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "idle#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "crept#VERB": {
+    "Activation": 5.5625, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "world#NOUN": {
+    "Activation": 5.666666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "reduced#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "near#VERB": {
+    "Activation": 6.222222222222222, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "hardly#ADVERB": {
+    "Activation": 5.0, 
+    "Evaluation": 4.5, 
+    "Power": 4.5
+  }, 
+  "safe#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "imperial#ADJECTIVE": {
+    "Activation": 5.2, 
+    "Evaluation": 5.0, 
+    "Power": 5.4
+  }, 
+  "thank#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "angel#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.5, 
+    "Power": 5.0
+  }, 
+  "with#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "slay#NOUN": {
+    "Activation": 7.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "waking#NOUN": {
+    "Activation": 3.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "uncas#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "attendant#NOUN": {
+    "Activation": 4.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "nod#VERB": {
+    "Activation": 5.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "weavers#ADJECTIVE": {
+    "Activation": 4.8, 
+    "Evaluation": 4.6, 
+    "Power": 4.6
+  }, 
+  "kings#NOUN": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "rugged#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "little#ADJECTIVE": {
+    "Activation": 5.654088050314464, 
+    "Evaluation": 5.0, 
+    "Power": 4.949685534591195
+  }, 
+  "well-situated#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "pull#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "fearless#ADJECTIVE": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "life#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "garden#NOUN": {
+    "Activation": 5.615942028985506, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "best#ADVERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "pillow#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "better#ADVERB": {
+    "Activation": 4.571428571428571, 
+    "Evaluation": 4.857142857142857, 
+    "Power": 5.0
+  }, 
+  "beat#VERB": {
+    "Activation": 8.0, 
+    "Evaluation": 5.0, 
+    "Power": 2.0
+  }, 
+  "appointment#NOUN": {
+    "Activation": 4.8, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "perspicacious#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "upstairs#ADJECTIVE": {
+    "Activation": 2.0, 
+    "Evaluation": 1.0, 
+    "Power": 4.0
+  }, 
+  "overeager#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "when#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "splendid#ADJECTIVE": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "pair#NOUN": {
+    "Activation": 4.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "hot#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 6.0, 
+    "Power": 5.0
+  }, 
+  "that#ADVERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "nightly#ADVERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "joke#NOUN": {
+    "Activation": 6.222222222222222, 
+    "Evaluation": 7.555555555555555, 
+    "Power": 5.0
+  }, 
+  "husband#NOUN": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "close#VERB": {
+    "Activation": 5.375, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "flutter#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sleeping#NOUN": {
+    "Activation": 6.5, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "moderate#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "preadolescent#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "clear#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "put#VERB": {
+    "Activation": 5.623655913978495, 
+    "Evaluation": 5.0, 
+    "Power": 5.268817204301075
+  }, 
+  "lose#VERB": {
+    "Activation": 5.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "out#NOUN": {
+    "Activation": 5.583333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "visit#NOUN": {
+    "Activation": 5.1875, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "must#NOUN": {
+    "Activation": 5.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "darkness#NOUN": {
+    "Activation": 4.5, 
+    "Evaluation": 2.5, 
+    "Power": 5.0
+  }, 
+  "rainshoot#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "keep#NOUN": {
+    "Activation": 4.181818181818182, 
+    "Evaluation": 5.0, 
+    "Power": 5.636363636363637
+  }, 
+  "wash#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "ran#VERB": {
+    "Activation": 5.774193548387097, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "tongued#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unafraid#ADJECTIVE": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "ambition#NOUN": {
+    "Activation": 4.2, 
+    "Evaluation": 5.0, 
+    "Power": 5.8
+  }, 
+  "museum#NOUN": {
+    "Activation": 5.875, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "ignor#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "eaten#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "curl#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "inadvisable#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "joyful#NOUN": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "terribly#ADVERB": {
+    "Activation": 6.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "approval#NOUN": {
+    "Activation": 5.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "rid_of#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "melt#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 4.5
+  }, 
+  "daytime#NOUN": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "rose#NOUN": {
+    "Activation": 5.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "distinguish#VERB": {
+    "Activation": 6.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "upstairs#ADVERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "heaven#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 2.75, 
+    "Power": 5.0
+  }, 
+  "end#NOUN": {
+    "Activation": 4.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "discovered#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "bid#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "blow#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "protector#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "misfortune#NOUN": {
+    "Activation": 6.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "fast#ADVERB": {
+    "Activation": 5.888888888888888, 
+    "Evaluation": 4.888888888888888, 
+    "Power": 5.0
+  }, 
+  "where#ADJECTIVE": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "set#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "spiteful#ADJECTIVE": {
+    "Activation": 6.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "storm#NOUN": {
+    "Activation": 6.125, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "said#ADJECTIVE": {
+    "Activation": 4.9937888198757765, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "broke#VERB": {
+    "Activation": 5.409090909090909, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "forgotten#VERB": {
+    "Activation": 6.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "proved#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 3.0, 
+    "Power": 4.0
+  }, 
+  "straighten#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "late#ADJECTIVE": {
+    "Activation": 4.636363636363637, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "rich#ADJECTIVE": {
+    "Activation": 4.125, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "see#VERB": {
+    "Activation": 5.205479452054794, 
+    "Evaluation": 4.534246575342466, 
+    "Power": 5.0
+  }, 
+  "soft#ADJECTIVE": {
+    "Activation": 3.6666666666666665, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "colored#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "fast#ADJECTIVE": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "wander#VERB": {
+    "Activation": 4.7142857142857135, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "advisable#ADJECTIVE": {
+    "Activation": 5.2, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "answered#ADJECTIVE": {
+    "Activation": 5.083333333333333, 
+    "Evaluation": 4.833333333333333, 
+    "Power": 5.0
+  }, 
+  "unpleasant#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "worst#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "unsafe#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "pass#VERB": {
+    "Activation": 5.875, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "displeased#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "dangerous#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "sank#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "albescent#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "hedgerow#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "open#ADJECTIVE": {
+    "Activation": 6.666666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "game#NOUN": {
+    "Activation": 4.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "undertak#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unlike#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "search#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "rain#NOUN": {
+    "Activation": 6.4375, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "stuf#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "ride#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "red#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "toppl#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "angel-wing#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "forgotten#ADJECTIVE": {
+    "Activation": 4.666666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 4.666666666666667
+  }, 
+  "laughing#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "broken#ADJECTIVE": {
+    "Activation": 7.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "bed#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "rested#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "wife#NOUN": {
+    "Activation": 6.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "cathedral#NOUN": {
+    "Activation": 5.2142857142857135, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "one#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "meal#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "lay#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "happen#VERB": {
+    "Activation": 5.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "linger#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "forget#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "birth#NOUN": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "blank_out#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "temperate#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "becam#VERB": {
+    "Activation": 5.875, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "tired#ADJECTIVE": {
+    "Activation": 5.375, 
+    "Evaluation": 5.125, 
+    "Power": 5.875
+  }, 
+  "laid#VERB": {
+    "Activation": 5.45, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "naked#ADJECTIVE": {
+    "Activation": 4.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "at#ADVERB": {
+    "Activation": 5.9, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sun#NOUN": {
+    "Activation": 7.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "stupid#ADJECTIVE": {
+    "Activation": 5.2, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "following#ADJECTIVE": {
+    "Activation": 8.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "semipolitical#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "there#ADVERB": {
+    "Activation": 5.283783783783784, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "political#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "up#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "hall#NOUN": {
+    "Activation": 4.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sorry#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "uncoloured#ADJECTIVE": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "grass#NOUN": {
+    "Activation": 5.083333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "shut#ADJECTIVE": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "never#ADVERB": {
+    "Activation": 5.654545454545454, 
+    "Evaluation": 4.890909090909091, 
+    "Power": 5.0
+  }, 
+  "finest#ADJECTIVE": {
+    "Activation": 5.2, 
+    "Evaluation": 5.0, 
+    "Power": 5.2
+  }, 
+  "trap-door#ADJECTIVE": {
+    "Activation": 6.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "prosperous#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "roof#NOUN": {
+    "Activation": 5.571428571428571, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "singing#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "men#NOUN": {
+    "Activation": 6.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "waking#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "upwards#ADVERB": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "dive#VERB": {
+    "Activation": 5.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "row#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "think_of#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "drive#NOUN": {
+    "Activation": 5.2, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "straw#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "rang#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "get_down#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "confess#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "bitter#ADJECTIVE": {
+    "Activation": 5.5, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "table-cloth#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "start#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "split#ADJECTIVE": {
+    "Activation": 7.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "doe#NOUN": {
+    "Activation": 4.9, 
+    "Evaluation": 5.8, 
+    "Power": 5.1
+  }, 
+  "glitter#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "end#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "year#NOUN": {
+    "Activation": 5.054054054054054, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "drink#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "trembl#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "fit#VERB": {
+    "Activation": 5.2, 
+    "Evaluation": 5.8, 
+    "Power": 5.0
+  }, 
+  "shone#VERB": {
+    "Activation": 6.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "enter#VERB": {
+    "Activation": 7.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "displeas#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "slipper#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "consider#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "weaver#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "authority#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "think#VERB": {
+    "Activation": 5.545454545454546, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "stupid#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "twitter#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "jump#VERB": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "suited#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "crown#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "same#NOUN": {
+    "Activation": 5.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "all#ADVERB": {
+    "Activation": 5.53968253968254, 
+    "Evaluation": 4.936507936507937, 
+    "Power": 5.0
+  }, 
+  "travel#VERB": {
+    "Activation": 5.1, 
+    "Evaluation": 3.5, 
+    "Power": 5.0
+  }, 
+  "play#NOUN": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "float#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "nonmoving#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "shining#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "receiv#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.5, 
+    "Power": 5.0
+  }, 
+  "unthankful#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "march#VERB": {
+    "Activation": 4.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unclean#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "eat#VERB": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "pretend#VERB": {
+    "Activation": 5.111111111111112, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "beautiful#ADJECTIVE": {
+    "Activation": 5.295454545454546, 
+    "Evaluation": 4.886363636363637, 
+    "Power": 5.0
+  }, 
+  "drop#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "di#VERB": {
+    "Activation": 4.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "belong#VERB": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "lighter-than-air#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unhappiness#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "just#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 7.0, 
+    "Power": 5.0
+  }, 
+  "window#NOUN": {
+    "Activation": 5.08, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "pleasant#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 6.0, 
+    "Power": 5.0
+  }, 
+  "front#ADJECTIVE": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "hear#VERB": {
+    "Activation": 5.133333333333334, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "bonnet#NOUN": {
+    "Activation": 5.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "not_able#ADJECTIVE": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "express_mirth#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "light#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "find#VERB": {
+    "Activation": 5.0666666666666655, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sum#NOUN": {
+    "Activation": 4.8, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "begin#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "drink#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "disapproval#NOUN": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "weak#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "carri#VERB": {
+    "Activation": 4.842105263157896, 
+    "Evaluation": 5.0, 
+    "Power": 4.842105263157896
+  }, 
+  "coach#NOUN": {
+    "Activation": 6.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "youngest#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "bell#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "drift_off#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "close#ADVERB": {
+    "Activation": 6.2, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "pea#NOUN": {
+    "Activation": 5.625, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "dear#NOUN": {
+    "Activation": 6.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "spread_out#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "offer#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "queen_regnant#NOUN": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "assist#VERB": {
+    "Activation": 4.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "secure#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unfold#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "toe#NOUN": {
+    "Activation": 5.125, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "dissociat#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "iron#NOUN": {
+    "Activation": 4.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "told#VERB": {
+    "Activation": 6.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unfairly#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "dress#VERB": {
+    "Activation": 5.6923076923076925, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "amus#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "ecclesiastical#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "discas#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "voice#NOUN": {
+    "Activation": 6.2, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "perfume#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "took#VERB": {
+    "Activation": 5.961538461538462, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "rear#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "heat#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.5
+  }, 
+  "alive#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "cover#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "describ#VERB": {
+    "Activation": 5.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "slumber#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "death#NOUN": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "belfry#NOUN": {
+    "Activation": 5.166666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "square#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "earth#NOUN": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "eye#NOUN": {
+    "Activation": 5.451612903225806, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "pray#NOUN": {
+    "Activation": 5.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.75
+  }, 
+  "really#ADVERB": {
+    "Activation": 5.142857142857143, 
+    "Evaluation": 4.428571428571429, 
+    "Power": 4.642857142857143
+  }, 
+  "enchantment#NOUN": {
+    "Activation": 6.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "care#NOUN": {
+    "Activation": 5.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "while#NOUN": {
+    "Activation": 5.416666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "light#NOUN": {
+    "Activation": 4.904761904761905, 
+    "Evaluation": 5.285714285714286, 
+    "Power": 5.142857142857143
+  }, 
+  "down#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "whisper#VERB": {
+    "Activation": 4.8, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "fit_to#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "ball#NOUN": {
+    "Activation": 6.166666666666667, 
+    "Evaluation": 5.055555555555555, 
+    "Power": 5.138888888888888
+  }, 
+  "heel#NOUN": {
+    "Activation": 5.125, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unsure#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "positive#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "happiness#NOUN": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "straight#ADVERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "prayerful#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "attitude#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 4.5, 
+    "Power": 5.0
+  }, 
+  "land#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "midday#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "there#NOUN": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "velvety#ADJECTIVE": {
+    "Activation": 3.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "suppressed#ADJECTIVE": {
+    "Activation": 7.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "brightly#ADVERB": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "grove#NOUN": {
+    "Activation": 5.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "opposite#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "art#NOUN": {
+    "Activation": 5.666666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "shut#VERB": {
+    "Activation": 5.833333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "stai#VERB": {
+    "Activation": 5.083333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "gentle#ADJECTIVE": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "hasten#VERB": {
+    "Activation": 7.666666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "lead#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "happily#ADVERB": {
+    "Activation": 5.75, 
+    "Evaluation": 8.5, 
+    "Power": 5.5
+  }, 
+  "could#VERB": {
+    "Activation": 5.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "difficult#ADJECTIVE": {
+    "Activation": 4.375, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "criticiz#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "rose#VERB": {
+    "Activation": 5.833333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "projection#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "hand#NOUN": {
+    "Activation": 5.490909090909091, 
+    "Evaluation": 4.890909090909091, 
+    "Power": 5.0
+  }, 
+  "underneath#ADVERB": {
+    "Activation": 7.166666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "hearing#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "empty#ADJECTIVE": {
+    "Activation": 5.1, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "taper#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "fact#NOUN": {
+    "Activation": 5.2, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "pleas#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "more#NOUN": {
+    "Activation": 4.7, 
+    "Evaluation": 4.4, 
+    "Power": 4.9
+  }, 
+  "cloak#NOUN": {
+    "Activation": 5.466666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "good#ADJECTIVE": {
+    "Activation": 5.689655172413793, 
+    "Evaluation": 6.206896551724138, 
+    "Power": 5.0
+  }, 
+  "sole#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "little_girl#NOUN": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "remember#VERB": {
+    "Activation": 4.7142857142857135, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "white#ADJECTIVE": {
+    "Activation": 5.153846153846153, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "misery#NOUN": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "depart#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "hold#NOUN": {
+    "Activation": 7.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "carv#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "frenzied#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "very#ADJECTIVE": {
+    "Activation": 5.311111111111111, 
+    "Evaluation": 4.955555555555556, 
+    "Power": 5.0
+  }, 
+  "pleasing#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "feet#NOUN": {
+    "Activation": 5.166666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "tire#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "profane#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "nestl#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "forward#ADVERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "gradually#ADVERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "vocal#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "thou#NOUN": {
+    "Activation": 5.666666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "preserv#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "head#NOUN": {
+    "Activation": 5.857142857142857, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "virtuous#ADJECTIVE": {
+    "Activation": 3.0, 
+    "Evaluation": 5.0, 
+    "Power": 4.0
+  }, 
+  "day#NOUN": {
+    "Activation": 5.35, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "material#NOUN": {
+    "Activation": 5.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "fine#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "show-window#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "invit#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "stair#NOUN": {
+    "Activation": 6.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "ragged#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "kiss#VERB": {
+    "Activation": 5.666666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "boat#NOUN": {
+    "Activation": 5.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "carven#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "call_option#NOUN": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 3.0
+  }, 
+  "several#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "cabinet#NOUN": {
+    "Activation": 5.2, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "soiled#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "up_the_stairs#ADVERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "heavy#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "determin#VERB": {
+    "Activation": 4.625, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "magnificent#ADJECTIVE": {
+    "Activation": 5.266666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 4.933333333333334
+  }, 
+  "faithful#ADJECTIVE": {
+    "Activation": 6.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "stove#NOUN": {
+    "Activation": 6.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "heard#VERB": {
+    "Activation": 5.794871794871795, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "certainly#ADVERB": {
+    "Activation": 6.625, 
+    "Evaluation": 5.0, 
+    "Power": 4.25
+  }, 
+  "every_last#ADJECTIVE": {
+    "Activation": 7.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "fair#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "bore#VERB": {
+    "Activation": 3.8333333333333335, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "large#ADJECTIVE": {
+    "Activation": 4.636363636363637, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "joyful#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "far#ADVERB": {
+    "Activation": 5.166666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "garment#NOUN": {
+    "Activation": 4.8, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "woven#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "protected#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "pick_apart#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "insensitive#ADJECTIVE": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "know#VERB": {
+    "Activation": 5.415094339622642, 
+    "Evaluation": 4.679245283018868, 
+    "Power": 5.0
+  }, 
+  "urbane#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "influence#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "apple#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "mischance#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "challenge#NOUN": {
+    "Activation": 4.222222222222222, 
+    "Evaluation": 6.0, 
+    "Power": 5.444444444444445
+  }, 
+  "conversate#NOUN": {
+    "Activation": 4.166666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "flower#NOUN": {
+    "Activation": 4.805555555555555, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sleep#NOUN": {
+    "Activation": 6.625, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "loved#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "achromatic#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "demon#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "happy#ADJECTIVE": {
+    "Activation": 4.8125, 
+    "Evaluation": 5.4375, 
+    "Power": 5.0
+  }, 
+  "master#NOUN": {
+    "Activation": 5.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "bottom#NOUN": {
+    "Activation": 5.666666666666667, 
+    "Evaluation": 4.777777777777778, 
+    "Power": 5.0
+  }, 
+  "unbroken#ADJECTIVE": {
+    "Activation": 2.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "lustrous#ADJECTIVE": {
+    "Activation": 7.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "thick#NOUN": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "them#NOUN": {
+    "Activation": 4.555555555555555, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "draw_a_blank#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "crackling#NOUN": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sight#NOUN": {
+    "Activation": 6.121212121212121, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "blossom#VERB": {
+    "Activation": 4.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "cross#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "oclock#ADVERB": {
+    "Activation": 5.875, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "adult_male#NOUN": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "threw#VERB": {
+    "Activation": 5.9, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "opinion#NOUN": {
+    "Activation": 5.2, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "spoke#VERB": {
+    "Activation": 5.8, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "fight#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "in#ADVERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "bought#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "feather#NOUN": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "middle#ADJECTIVE": {
+    "Activation": 5.833333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "ringing#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "impression#NOUN": {
+    "Activation": 5.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "perceptible#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unmelodic#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "exceptionally#ADVERB": {
+    "Activation": 5.4, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "quite#ADVERB": {
+    "Activation": 5.868421052631579, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "explain#VERB": {
+    "Activation": 5.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "said#NOUN": {
+    "Activation": 5.428571428571429, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "dressing-room#NOUN": {
+    "Activation": 4.8, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "represent#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "fattening#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "hold_on#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "given#VERB": {
+    "Activation": 6.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "playground#NOUN": {
+    "Activation": 6.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "ly#VERB": {
+    "Activation": 5.2, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sweetly#ADVERB": {
+    "Activation": 3.8333333333333335, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "longer#NOUN": {
+    "Activation": 6.375, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sparrow#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "shadow#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "got#VERB": {
+    "Activation": 5.285714285714286, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "snowy#ADJECTIVE": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "well-off#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "knew#VERB": {
+    "Activation": 5.551724137931035, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "brother#NOUN": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "fair#ADVERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "lodg#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "lock#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "instead#ADVERB": {
+    "Activation": 8.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "arm#NOUN": {
+    "Activation": 5.565217391304348, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "notic#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "cri#VERB": {
+    "Activation": 5.88, 
+    "Evaluation": 4.92, 
+    "Power": 5.68
+  }, 
+  "tri#VERB": {
+    "Activation": 5.333333333333333, 
+    "Evaluation": 4.555555555555555, 
+    "Power": 4.666666666666667
+  }, 
+  "sew#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "part#NOUN": {
+    "Activation": 4.8, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "inferior#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 3.0, 
+    "Power": 5.0
+  }, 
+  "dance#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "grey#ADJECTIVE": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "rock-bottom#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "already#ADVERB": {
+    "Activation": 5.285714285714286, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "snow#NOUN": {
+    "Activation": 5.1, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "stuff#NOUN": {
+    "Activation": 4.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "christma#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "caught#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "reject#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 3.0, 
+    "Power": 4.0
+  }, 
+  "exaltate#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "casement#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "shout#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sound#NOUN": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "flitting#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "whole#NOUN": {
+    "Activation": 4.8, 
+    "Evaluation": 5.0, 
+    "Power": 5.4
+  }, 
+  "follow#VERB": {
+    "Activation": 6.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "song#NOUN": {
+    "Activation": 5.125, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "graven#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "researchable#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "express#VERB": {
+    "Activation": 5.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "drowse_off#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "obtain#VERB": {
+    "Activation": 4.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "full#ADJECTIVE": {
+    "Activation": 5.222222222222222, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "spread#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "gold-cloth#NOUN": {
+    "Activation": 5.1, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "terminat#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "trumpet#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unhurt#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "architecture#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "gently#ADVERB": {
+    "Activation": 5.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "waiting#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "city#NOUN": {
+    "Activation": 5.666666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "evening#NOUN": {
+    "Activation": 5.7333333333333325, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "below_the_belt#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "ago#ADVERB": {
+    "Activation": 4.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "myrmecophilous#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "boasting#ADJECTIVE": {
+    "Activation": 4.777777777777778, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "thing#NOUN": {
+    "Activation": 5.8125, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "hate#VERB": {
+    "Activation": 4.666666666666667, 
+    "Evaluation": 3.8333333333333335, 
+    "Power": 5.0
+  }, 
+  "tear#NOUN": {
+    "Activation": 4.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "pigeon#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 4.7142857142857135, 
+    "Power": 4.857142857142857
+  }, 
+  "accustomed#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "stir#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "downward#ADVERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "hail#VERB": {
+    "Activation": 5.111111111111112, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "dead#ADJECTIVE": {
+    "Activation": 4.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "message#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "discredit#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "come#VERB": {
+    "Activation": 5.6382978723404245, 
+    "Evaluation": 4.872340425531914, 
+    "Power": 5.0
+  }, 
+  "carry#NOUN": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 7.0
+  }, 
+  "remain#NOUN": {
+    "Activation": 6.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "burn#VERB": {
+    "Activation": 5.7142857142857135, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "shallow#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "backward#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "ungracefully#ADVERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "resid#VERB": {
+    "Activation": 4.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "like#VERB": {
+    "Activation": 4.96, 
+    "Evaluation": 4.64, 
+    "Power": 5.0
+  }, 
+  "decoupl#VERB": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "sick#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "perpendicular#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sluggish#ADJECTIVE": {
+    "Activation": 3.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "enchant#VERB": {
+    "Activation": 6.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "dish#NOUN": {
+    "Activation": 7.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unfaithful#ADJECTIVE": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "progress#NOUN": {
+    "Activation": 3.555555555555556, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "swindler#VERB": {
+    "Activation": 5.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "pearl#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "seen#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "fold#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sputter#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 6.0, 
+    "Power": 5.0
+  }, 
+  "preteen#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "that#NOUN": {
+    "Activation": 5.387096774193548, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "interest#VERB": {
+    "Activation": 6.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "course#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "well#ADJECTIVE": {
+    "Activation": 5.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "possess#VERB": {
+    "Activation": 5.4, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "plod#VERB": {
+    "Activation": 6.222222222222222, 
+    "Evaluation": 5.888888888888888, 
+    "Power": 5.111111111111112
+  }, 
+  "boil#VERB": {
+    "Activation": 2.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "brass#NOUN": {
+    "Activation": 4.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "glorious#ADJECTIVE": {
+    "Activation": 7.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "merchant#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "shelter#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "laze#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "veil#NOUN": {
+    "Activation": 4.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unloving#ADJECTIVE": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "announc#VERB": {
+    "Activation": 4.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "heartless#ADJECTIVE": {
+    "Activation": 8.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "here#ADJECTIVE": {
+    "Activation": 5.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "and#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sai#VERB": {
+    "Activation": 5.064516129032258, 
+    "Evaluation": 4.709677419354839, 
+    "Power": 5.0
+  }, 
+  "candle#NOUN": {
+    "Activation": 4.571428571428571, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "cried#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.5, 
+    "Power": 4.333333333333333
+  }, 
+  "unattractively#ADVERB": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "single#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sightly#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "bare#ADJECTIVE": {
+    "Activation": 4.75, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "economis#VERB": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "convinced#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "contentedly#ADVERB": {
+    "Activation": 5.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unsuitable#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "dark#ADJECTIVE": {
+    "Activation": 5.166666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "precious#ADJECTIVE": {
+    "Activation": 4.7, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "waddled#ADJECTIVE": {
+    "Activation": 7.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "baron#NOUN": {
+    "Activation": 4.6, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "covered#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "girl#NOUN": {
+    "Activation": 5.333333333333333, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "unpolished#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "matche#NOUN": {
+    "Activation": 6.166666666666667, 
+    "Evaluation": 5.833333333333333, 
+    "Power": 4.833333333333333
+  }, 
+  "good#NOUN": {
+    "Activation": 5.285714285714286, 
+    "Evaluation": 5.142857142857143, 
+    "Power": 5.0
+  }, 
+  "weather#NOUN": {
+    "Activation": 5.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "wave#VERB": {
+    "Activation": 5.166666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "roam#VERB": {
+    "Activation": 4.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "nap#NOUN": {
+    "Activation": 6.111111111111112, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "drank#VERB": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "wicked#ADJECTIVE": {
+    "Activation": 6.833333333333333, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "mind#VERB": {
+    "Activation": 6.5, 
+    "Evaluation": 4.5, 
+    "Power": 4.875
+  }, 
+  "daughter#NOUN": {
+    "Activation": 5.166666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "asleep#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "table#NOUN": {
+    "Activation": 5.666666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "hate#NOUN": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "bat#NOUN": {
+    "Activation": 5.5, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "anxiously#ADVERB": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "superior#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "hung#VERB": {
+    "Activation": 6.625, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "interval#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "at_ease#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "breath#NOUN": {
+    "Activation": 5.166666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "bishop#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "dirty#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "joyous#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "send#VERB": {
+    "Activation": 4.9, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sat#VERB": {
+    "Activation": 4.709677419354839, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "thought#VERB": {
+    "Activation": 5.266666666666667, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "battle#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sour#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "ugliness#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "shoulder#NOUN": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "exist#VERB": {
+    "Activation": 5.1, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "turn#VERB": {
+    "Activation": 4.8, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "eldest#ADJECTIVE": {
+    "Activation": 5.6875, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "winter#NOUN": {
+    "Activation": 5.2727272727272725, 
+    "Evaluation": 4.727272727272728, 
+    "Power": 5.0
+  }, 
+  "front#NOUN": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "sagacious#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 4.0, 
+    "Power": 5.0
+  }, 
+  "bedding#NOUN": {
+    "Activation": 5.375, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "past#ADJECTIVE": {
+    "Activation": 5.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "merriment#NOUN": {
+    "Activation": 6.25, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "walk-on#ADJECTIVE": {
+    "Activation": 4.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }, 
+  "save#VERB": {
+    "Activation": 6.222222222222222, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "loving#ADJECTIVE": {
+    "Activation": 6.0, 
+    "Evaluation": 5.0, 
+    "Power": 5.0
+  }, 
+  "married#ADJECTIVE": {
+    "Activation": 5.5, 
+    "Evaluation": 6.0, 
+    "Power": 5.0
+  }, 
+  "nod_off#VERB": {
+    "Activation": 3.0, 
+    "Evaluation": 4.0, 
+    "Power": 4.0
+  }
+}
